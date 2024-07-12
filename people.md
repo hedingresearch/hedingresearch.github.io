@@ -4,8 +4,24 @@ title: People
 permalink: /people/
 ---
 
-I embed a current version of my CV below. You can also [download the PDF here](https://www.dropbox.com/s/30ah9tgxevj1vl9/svm-cv.pdf).
+He Ding 丁贺
 
-{% include embedpdf.html code="30ah9tgxevj1vl9/svm-cv.pdf" width=100 height=800 %}
+**********
+
+Assistant Professor 
+School of Optics and Photonics,
+Beijing Institute of Technology
+
+ 
+
+Postdoc. Tsinghua University, China
+
+Ph.D. Ecole Centrale de Lyon, France 
+B.S. and M.S. Beijing Jiaotong University, China
+ 
+
+E-mail: heding@bit.edu.cn
+
+
 
 
