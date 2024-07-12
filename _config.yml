@@ -2,7 +2,7 @@
 title: Dinghe
 email:  heding@bit.edu.cn
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to He Ding research group!
+  School of Optics and Photonics, Beijing Institute of Technology, Beijing, China     北京理工大学，光电学院
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
