@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 ---
 
-He Ding 丁贺
+**He Ding 丁贺**
 
 **********
 
@@ -22,7 +22,9 @@ B.S. and M.S. Beijing Jiaotong University, China
 
 E-mail: heding@bit.edu.cn
 
-Graduate Students
+{% include image.html url="/images/dinghe.png" caption="dinghe." width=300 align="right" %}
+
+**Graduate Students**
 
 ***********
 
@@ -64,5 +66,5 @@ B.S. Nanchang University
 
 B.S. Minzu University of China
 
-{% include image.html url="/images/dinghe.png" caption="dinghe." width=300 align="right" %}
+
 
