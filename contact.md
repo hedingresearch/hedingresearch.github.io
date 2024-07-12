@@ -21,7 +21,7 @@ Beijing Institute of Technology
 Email: heding@bit.edu.cn
 
 We welcome highly self-motivated students with electrical engineering, materials science, optics or physics background to join us!
-===========
+--------
 
 其他链接：
 
