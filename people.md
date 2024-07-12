@@ -8,6 +8,8 @@ permalink: /people/
 
 **********
 
+{% include image.html url="/images/dinghe.png" caption="dinghe." width=300 align="right" %}
+
 Assistant Professor 
 School of Optics and Photonics,
 Beijing Institute of Technology
@@ -22,7 +24,7 @@ B.S. and M.S. Beijing Jiaotong University, China
 
 E-mail: heding@bit.edu.cn
 
-{% include image.html url="/images/dinghe.png" caption="dinghe." width=300 align="right" %}
+
 
 **Graduate Students**
 
