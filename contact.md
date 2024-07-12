@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-{% include image.html url="/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %}
+{% include image.html url="/images/地图.png" caption="地图." width=300 align="right" %}
 
 Office: 302, No.7 building,
 
