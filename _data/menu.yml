@@ -5,12 +5,8 @@
   href: "/research/"
 
 - title: "People"
-  href: "/cv/"
+  href: "/people/"
 
 - title: "Publication"
   href: "/miscellany/"
-  subcategories:
-    - subtitle: "Item 1"
-      subhref: "/miscellany/item-1/"
-    - subtitle: "Item 2"
-      subhref: "/miscellany/item-2/"
+ 
