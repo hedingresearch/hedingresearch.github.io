@@ -4,7 +4,8 @@ title: People
 permalink: /people/
 ---
 
-**He Ding 丁贺**
+He Ding 丁贺
+===========
 
 **********
 
