@@ -1,13 +1,13 @@
-- title: "About"
+- title: "Contact"
   href: "/about/"
 
-- title: "Blog"
+- title: "Research"
   href: "/blog/"
 
-- title: "CV"
+- title: "People"
   href: "/cv/"
 
-- title: "Miscellany"
+- title: "Publication"
   href: "/miscellany/"
   subcategories:
     - subtitle: "Item 1"
