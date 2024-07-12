@@ -8,8 +8,10 @@ permalink: /contact/
 
 Office: 302, No.7 building,
 -----------
+
 Beijing Institute of Technology
 ----------
+
 5 South Zhongguancun Street, Beijing, 100081, China
 -----------
  
