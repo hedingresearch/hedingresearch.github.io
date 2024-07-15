@@ -42,8 +42,8 @@
 
 .site-nav ul {
 
-	text-align: right;
-	float: right;
+	text-align: center; /* 更改为居中 */
+        float: none; /* 移除浮动 */
 	padding-top: 9px;
 	font-size: 85%;
 	letter-spacing: 1px;
@@ -54,6 +54,8 @@
 	list-style-type: none;
 	text-transform: uppercase;
 		font-family: 'Titillium Web', sans-serif;
+	display: flex; /* 使 ul 成为 Flex 容器 */
+        justify-content: center; /* 水平居中 ul 的子元素 */
 
 }
 
