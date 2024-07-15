@@ -150,7 +150,11 @@ z-index:999;
 
 
 .site-nav {
-    float: right;
+     /* 移除浮动属性 */
+    float: none;
+    /* 设置左右外边距为auto实现居中 */
+    margin-left: auto;
+    margin-right: auto;
     line-height: 40px;
 
 
