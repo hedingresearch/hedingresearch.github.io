@@ -1,6 +1,6 @@
-<a href="/contact/" title="Contact">
-  <img src="dinghe.png" alt="YY" />
-
+- title: "Contact"
+  href: "/contact/"
+  
 - title: "Research"
   href: "/research/"
 
