@@ -1,18 +1,11 @@
-<ul>
-  <li>
-    <a href="/contact/">Contact</a>
-    
-  </li>
-  <li>
-    <a href="/research/">Research</a>
-   
-  </li>
-  <li>
-    <a href="/people/">People</a>
-    
-  </li>
-  <li>
-    <a href="/publication/">Publication</a>
-    <img src="/images/dinghe.png" alt="内容" style="vertical-align: middle;"/>
-  </li>
-</ul>
+- title: "Contact" 
+  href: "/contact/" 
+  
+- title: "Research" 
+  href: "/research/" 
+  
+- title: "People" 
+  href: "/people/" 
+
+- title: "Publication" 
+  href: "/publication/"
