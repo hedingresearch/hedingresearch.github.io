@@ -7,11 +7,7 @@
 - title: "People" 
   href: "/people/" 
 
+- title: "Publication" 
+  href: "/publication/"
 
 
-<div>
-    <a href="/publication/">
-        <img src="/images/dinghe.png" alt="出版物图片">
-        Publication
-    </a>
-</div>
