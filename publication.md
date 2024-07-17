@@ -40,7 +40,7 @@ Z. Shi#, H. Ding#, H. Hong, D. Cheng, K. Rajabi, J. Yang, Y. Wang, L. Wang, Y. L
 
 
 H. Ding, X. Sheng, “Thin-Film III-V Single Junction and Multijunction Solar Cells and Their Integration onto Heterogeneous Substrates”, in Inorganic Flexible Optoelectronics Materials and Applications ed. by Z. Ma and D. Liu, Wiley-VCH (2019).
-​-------
+-------
 
 H. Ding, H. Hong, D. Cheng, Z. Shi, K. Liu, X. Sheng*, “Power- and Spectral-Dependent Photon-Recycling Effects in a Double-Junction Gallium Arsenide Photodiode”, ACS Photonics 6, 59–65 (2019). 
 --------
@@ -54,7 +54,7 @@ Y. Zhao#, C. Liu#, Z. Liu, W. Luo, L. Li, X. Cai, D. Liang, Y. Su, H. Ding, Q. W
  
 
 H. Ding, L. Lu, Z. Shi, D. Wang, L. Li, X. Li, Y. Ren, C. Liu, D. Cheng, H. Kim, N. C. Giebink, X. Wang, L. Yin, L. Zhao, M. Luo, X. Sheng*, “Microscale Optoelectronic Infrared-to-Visible Upconversion Devices and Their Use as Injectable Light Sources”, Proceedings of the National Academy of Sciences USA 115, 6632–6637 (2018). 
- -------
+-------
 
 C. Liu#, Q. Zhang#, D. Wang, G. Zhao, X. Cai, L. Li, H. Ding, K. Zhang, H. Wang, D. Kong, L. Yin, L. Liu, G. Zou, L. Zhao, X. Sheng*, “High Performance, Biocompatible Dielectric Thin-Film Optical Filters Integrated with Flexible Substrates and Microscale Optoelectronic Devices”, Advanced Optical Materials 6, 1800146 (2018) (Back Cover). 
 -------
@@ -72,10 +72,10 @@ L. Li#, C. Liu#, Y. Su, J. Bai, J. Wu, Y. Han, Y. Hou, S. Qi, Y. Zhao, H. Ding, 
  
 
 L. Lalouat, H. Ding, B. Gonzalez-Acevedo, A. Harouri, R. Orobtchouk, V. Depauw, E. Drouard*, C. Seassal, “Pseudo-disordered structures for light trapping improvement in mono-crystalline Si thin-films”, Solar Energy Materials and Solar Cells 159, 649-656 (2017). 
- -------
+-------
 
 H. Ding, L. Yang, H. Peng, X*. Wang, F. You, L. Hou, “Intracellular Temperature Imaging in Gold Nanorod-Assisted Photothermal Therapy with Luminescent Eu (III) Chelate Nanoparticles”, Journal of Nanoscience and Nanotechnology 16, 3877-3882 (2016). 
- -------
+-------
  
 H. Ding, L. Lalouat, B. Gonzalez-Acevedo, R. Orobtchouk, C. Seassal, E. Drouard*, “Design rules for net absorption enhancement in pseudo-disordered photonic crystal for thin film solar cells”, Optics Express 24, A650-A666 (2016). 
 -------
