@@ -1,6 +1,6 @@
 ---
 layout: page
-title: People
+title: 人员
 permalink: /people/
 ---
 
