@@ -1,13 +1,13 @@
-- title: "Contact" 
-  href: "/contact/" 
-  
-- title: "Research" 
+- title: "科研方向" 
   href: "/research/" 
+
+- title: "论文成果" 
+  href: "/publication/"
   
-- title: "People" 
+- title: "人员" 
   href: "/people/" 
 
-- title: "Publication" 
-  href: "/publication/"
+- title: "联系方式" 
+  href: "/contact/" 
 
 - 图片: /images/dinghe.png
