@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: 联系方式
 permalink: /contact/
 ---
 
@@ -11,7 +11,7 @@ permalink: /contact/
 专业要求：具有光学工程、电子信息、材料、生物医学等领域背景
 ----------
 
-{% include image.html url="/images/地图.png" caption="地图." width=300 align="right" %}
+{% include image.html url="/images/map.png" caption="地图." width=300 align="right" %}
 
 办公室：
 ---------
