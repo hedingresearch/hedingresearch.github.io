@@ -4,71 +4,58 @@ title: People
 permalink: /people/
 ---
 
-He Ding 丁贺
+丁贺
 ===========
 
 **********
 
-{% include image.html url="/images/dinghe.png" caption="dinghe." width=300 align="right" %}
+{% include image.html url="/images/dinghe.png" caption="dinghe." width=300 align="left" %}
 
-Assistant Professor 
-School of Optics and Photonics,
-Beijing Institute of Technology
+长聘副教授，博士生导师
+------
+北京理工大学，光电学院
+------
 
- 
-
-Postdoc. Tsinghua University, China
-
-Ph.D. Ecole Centrale de Lyon, France 
-B.S. and M.S. Beijing Jiaotong University, China
- 
-
+博士后，清华大学, 中国
+-------
+博士，里昂中央理工大学，法国
+-------
+本硕，北京交通大学，中国 
+------
 E-mail: heding@bit.edu.cn
+--------
 
 
-
-Graduate Students
+在读学生
 ===========
 
 ***********
 
-**​吕国庆 Guoqing Lv**
 
-2019 Master Candidate
+**2023，谢子灿，博士生**
+**2023，刘明珠，博士生**
 
-B.S. Beijing Institute of Technology
+**2022，薛钊，硕士生**
+**2023，李佳昕，硕士生**
+**2023，任雪纯，硕士生**
+**2023，梁宵，硕士生**
 
-​
 
-**成子怡 Ziyi Cheng**
 
-2020 Master Candidate
+毕业学生
+===========
 
-B.S. Changchun University of Science and Technology
+***********
 
-​
 
-**张海舰 Haijian Zhang**
+**硕士：**
+**2022年，吕国庆，北京兴唐通信科技有限公司**
+**2023年，张海舰，北京**
+**2023年，成子怡，青岛海信**
+**2024年，彭焰秀，江西洪都航空工业集团有限责任公司**
+**2024年，童文斌，北京航天飞腾装备技术有限责任公司**
+**2024年，陆映同，上海航天电子有限公司**
 
-2020 Master Candidate
-
-B.S. Hefei University of Technology
-
-​
-
-**彭焰秀 Yanxiu Peng**
-
-2021 Master Candidate
-
-B.S. Nanchang University
-
-​
-
-**童文斌 Wenbing Tong**
-
-2021 Master Candidate
-
-B.S. Minzu University of China
 
 
 
