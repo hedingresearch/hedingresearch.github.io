@@ -15,20 +15,20 @@ L. Li#, L. Lu#, Y. Ren#, G. Tang#, Y. Zhao, X. Cai, Z. Shi, H. Ding, C. Liu, D. 
 =========
 ​
 L. Li, G. Tang, Z. Shi, H. Ding, C. Liu, D. Cheng, Q. Zhang, L. Yin, Z. Yao, L. Duan, D. Zhang, C. Wang, M. Feng, Q. Sun, Q. Wang, Y. Han, L. Wang, Y. Luo, X. Sheng*, “Transfer-Printed, Tandem Microscale Light-Emitting Diodes for Full-Color Displays”, Proceedings of the National Academy of Sciences USA 118, e2023436118 (2021).
----------
+-----
 
 H. Ding, G. Lv, Z. Shi, D. Cheng, Y. Xie, Y. Huang, L. Yin, J. Yang, Y. Wang, X. Sheng*, “Optoelectronic Sensing of Biophysical and Biochemical Signals based on Photon Recycling of a micro-LED”, Nano Research 14, 3208–3213 (2021) (Invited) (Front Cover). 
 -------
 ​
 Y. Xie, H. Wang, D. Cheng, H. Ding, D. Kong, L. Li, L. Yin, G. Zhao, L. Liu, G. Zou, J. Wei, C. Li, C. Liu*, X. Sheng*, “Diamond Thin Films Integrated with Flexible Substrates and Their Physical, Chemical and Biological Characteristics”, Journal of Physics D: Applied Physics 54, 384004 (2021) (Invited). 
----------
+-----
 ​
 
 2020
 =========
 ​
 ​C. Jia#, L. Li#, Y. Liu#, B. Fang, H. Ding, J. Song, Y. Liu, K. Xiang, S. Lin, Z. Li, W. Si, B. Li, X. Sheng, D. Wang, X. Wei*, H. Wu*, “Highly Compressible and Anisotropic Lamellar Ceramic Sponges with Superior Thermal Insulation and Acoustic Absorption Performances”, Nature Communications 11, 3732 (2020).
---------
+-----
 ​
 
 2019
