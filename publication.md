@@ -34,8 +34,10 @@ Y. Xie, H. Wang, D. Cheng, H. Ding, D. Kong, L. Li, L. Yin, G. Zhao, L. Liu, G. 
 2019
 ========
 
+
 Z. Shi#, H. Ding#, H. Hong, D. Cheng, K. Rajabi, J. Yang, Y. Wang, L. Wang, Y. Luo, K. Liu, and X. Sheng*, "Ultrafast and low-power optoelectronic infrared-to-visible upconversion devices," Photonics Research 7, 1161-1168 (2019).
-​----------
+-------
+
 
 H. Ding, X. Sheng, “Thin-Film III-V Single Junction and Multijunction Solar Cells and Their Integration onto Heterogeneous Substrates”, in Inorganic Flexible Optoelectronics Materials and Applications ed. by Z. Ma and D. Liu, Wiley-VCH (2019).
 ​-------
