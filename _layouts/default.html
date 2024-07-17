@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html>
 
+{% if site.logo %}
+  <title>
+    <img src="{{ site.logo }}" alt="{{ site.title }}" style="vertical-align: middle; margin-right: 10px;">
+    {{ site.title }}
+  </title>
+{% else %}
+  <title>{{ site.title }}</title>
+{% endif %}
+  
   {% include head.html %}
 
   <body>
