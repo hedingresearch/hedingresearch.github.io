@@ -4,12 +4,13 @@ title: People
 permalink: /people/
 ---
 
+{% include image.html url="/images/dinghe.png" caption="dinghe." width=300 align="left" %}
+
 丁贺
 ===========
 
 **********
 
-{% include image.html url="/images/dinghe.png" caption="dinghe." width=300 align="left" %}
 
 **长聘副教授，博士生导师**
 
