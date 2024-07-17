@@ -70,6 +70,9 @@
 	position: relative;
 	vertical-align: top;
 	text-align: center; /* 使菜单项文本居中 */
+	 display: flex; /* 将 li 转换为 Flex 容器 */
+    justify-content: center; /* 水平居中容器内的子元素 */
+    align-items: center; /* 垂直居中容器内的子元素 */
 }
 
 .site-nav a {
