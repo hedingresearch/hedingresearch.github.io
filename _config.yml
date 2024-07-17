@@ -1,5 +1,6 @@
 # Site settings
 title:  Home
+site_logo: "/images/logo.png"  # 假设logo图片在images目录下
 email:  heding@bit.edu.cn
 description: > # this means to ignore newlines until "baseurl:"
   School of Optics and Photonics, Beijing Institute of Technology, Beijing, China
