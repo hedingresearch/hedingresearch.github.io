@@ -8,8 +8,8 @@ permalink: /people/
 
 <div style="margin-left: 100px;">
   
-<u></b>丁贺</b></u>
-
+<u>丁贺</u>
+=======
 
 长聘副教授，博士生导师\
 北京理工大学，光电学院
@@ -19,7 +19,6 @@ permalink: /people/
 博士，里昂中央理工大学，法国\
 本硕，北京交通大学，中国\
 E-mail: heding@bit.edu.cn
-
 </div>
 
 
