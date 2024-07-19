@@ -23,10 +23,7 @@ width: 100vw; /* 视口宽度的100% */
     color: $text-color;
     
     -webkit-text-size-adjust: 100%;
-	 background-image: url('/images/研究成果.jpg'); /* 将background.jpg替换为你自己的背景图片路径 */
-            background-size: cover;
-            background-position: center;
-            background-repeat: no-repeat;
+	 background-color: $background-color;
 }
 
 
