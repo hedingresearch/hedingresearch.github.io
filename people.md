@@ -4,11 +4,11 @@ title:
 permalink: /people/
 ---
 
+{% include image.html url="/images/dinghe.png"  width=320 align="left" %}
 
 <u>丁贺</u>
 ===========
 
-{% include image.html url="/images/dinghe.png"  width=300 align="left" %}
 
 长聘副教授，博士生导师\
 北京理工大学，光电学院
