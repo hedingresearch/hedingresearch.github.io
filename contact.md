@@ -11,8 +11,8 @@ permalink: /contact/
 
 
 
-办公地址：
------
+<div style="font-size: 1.5em; margin-top: 50px; ">办公地址：
+  <div>
 
 <div style="text-align: center;">
   {% include image.html url="/images/map.png"  width=500 %}
