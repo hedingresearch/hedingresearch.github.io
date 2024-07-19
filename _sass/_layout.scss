@@ -193,7 +193,7 @@ h1 /* .post-title */ {
 
 .post-content {
     margin-bottom: $spacing-unit;
-
+    font-size: 18px; // 这里设置了新的字体大小
     h2 {
 		font-family: 'Titillium Web', sans-serif;
 	font-weight: 500;
