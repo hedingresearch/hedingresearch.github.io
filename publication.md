@@ -4,7 +4,7 @@ title:
 permalink: /publication/
 ---
 
-2022
+**2022**
 
 ​
 
@@ -12,7 +12,7 @@ L. Li#, L. Lu#, Y. Ren#, G. Tang#, Y. Zhao, X. Cai, Z. Shi, H. Ding, C. Liu, D. 
 
  
 
-2021
+**2021**
 
 ​
 
@@ -27,7 +27,7 @@ H. Ding, G. Lv, Z. Shi, D. Cheng, Y. Xie, Y. Huang, L. Yin, J. Yang, Y. Wang, X.
 Y. Xie, H. Wang, D. Cheng, H. Ding, D. Kong, L. Li, L. Yin, G. Zhao, L. Liu, G. Zou, J. Wei, C. Li, C. Liu*, X. Sheng*, “Diamond Thin Films Integrated with Flexible Substrates and Their Physical, Chemical and Biological Characteristics”, Journal of Physics D: Applied Physics 54, 384004 (2021) (Invited). 
 ​
 
-2020
+**2020**
 
 ​
 
@@ -35,7 +35,7 @@ Y. Xie, H. Wang, D. Cheng, H. Ding, D. Kong, L. Li, L. Yin, G. Zhao, L. Liu, G. 
 
 ​
 
-2019
+**2019**
 
 ​
 
@@ -55,7 +55,7 @@ Y. Zhao#, C. Liu#, Z. Liu, W. Luo, L. Li, X. Cai, D. Liang, Y. Su, H. Ding, Q. W
 
  
 
-2018
+**2018**
 
  
 
@@ -74,7 +74,7 @@ L. Li#, C. Liu#, Y. Su, J. Bai, J. Wu, Y. Han, Y. Hou, S. Qi, Y. Zhao, H. Ding, 
 
  
 
-2017 – Before
+**2017 – Before**
 
  
 
@@ -90,7 +90,7 @@ H. Ding, L. Lalouat, B. Gonzalez-Acevedo, R. Orobtchouk, C. Seassal, E. Drouard*
 
  
 
-L. Yang, H. Peng*, H. Ding, F.-T. You, L. Hou, F. Teng, “Luminescent Ru (bpy) 3 2+-doped silica nanoparticles for imaging of intracellular temperature‘’, Microchimica Acta 181, 743-749 (2014). pdf
+L. Yang, H. Peng*, H. Ding, F.-T. You, L. Hou, F. Teng, “Luminescent Ru (bpy) 3 2+-doped silica nanoparticles for imaging of intracellular temperature‘’, Microchimica Acta 181, 743-749 (2014). 
 
  
 
