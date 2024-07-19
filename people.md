@@ -6,6 +6,7 @@ permalink: /people/
 
 {% include image.html url="/images/dinghe.png"  width=320 align="left" style="margin-right: 60px;" %}
 
+<div style="margin-left: 100px;">
 <u>丁贺</u>
 ===========
 
@@ -18,7 +19,7 @@ permalink: /people/
 博士，里昂中央理工大学，法国\
 本硕，北京交通大学，中国\
 E-mail: heding@bit.edu.cn
-
+</div>
 
 
 
