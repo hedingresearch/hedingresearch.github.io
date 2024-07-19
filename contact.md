@@ -11,11 +11,10 @@ permalink: /contact/
 
 
 
-<div style="font-size: 1.5em; margin-top: 50px; ">办公地址：
-  <div>
+办公地址：
 
 
-  {% include image.html url="/images/map.png"  width=500 %}
+ {% include image.html url="/images/map.png"  width=500 %}
 
 
 
