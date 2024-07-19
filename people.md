@@ -4,7 +4,7 @@ title:
 permalink: /people/
 ---
 
-{% include image.html url="/images/dinghe.png"  width=320 align="left" %}
+{% include image.html url="/images/dinghe.png"  width=320 align="left"; style="margin-right: 20px;" %}
 
 <u>丁贺</u>
 ===========
