@@ -6,7 +6,7 @@ permalink: /research/
 
 <style>
  .research-directions {
-    text-align: center;
+    margin-left: 80px; /* 设置左边距 */
   }
  .image-container {
   margin-top: 20px; /* 增加照片与文字之间的距离 */
