@@ -8,8 +8,7 @@ permalink: /people/
 
 <div style="margin-left: 100px;">
   
-<u>丁贺</u>
-===========
+<u></b>丁贺</b></u>
 
 
 长聘副教授，博士生导师\
