@@ -8,6 +8,9 @@ permalink: /research/
  .research-directions {
     text-align: center;
   }
+ .image-container {
+  margin-top: 20px; /* 增加照片与文字之间的距离 */
+}
 </style>
 
 <div class="research-directions">
@@ -17,4 +20,8 @@ permalink: /research/
 </div>
 
 
-{% include image.html url="/images/研究成果.jpg" width=600 style="display:block; margin:0 auto;" %}
+<div class="image-container">
+  <!-- 添加一个空的div来增加照片与文字之间的距离 -->
+</div>
+
+{% include image.html url="/images/研究成果.jpg" width=600 style="display:block; margin-left: 100px; margin-right: auto;" %} <!-- 增加照片与左边距的距离 -->
