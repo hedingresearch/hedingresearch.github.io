@@ -23,7 +23,6 @@ permalink: /contact/
 北京市海淀区中关村南大街5号
 
 
-
 Email: heding@bit.edu.cn
 
 
