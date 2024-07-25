@@ -6,7 +6,7 @@ permalink: /research/
 
 <style>
  .research-directions {
-    margin-left: 50px; /* 设置左边距 */
+    margin-left: 5px; /* 设置左边距 */
     font-size: 20px;
   }
  .image-container {
