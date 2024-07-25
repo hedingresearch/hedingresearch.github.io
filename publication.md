@@ -9,17 +9,17 @@ permalink: /publication/
  
 **2022**
 
-L. Li#, L. Lu#, Y. Ren#, G. Tang#, Y. Zhao, X. Cai, Z. Shi, H. Ding, C. Liu, D. Cheng, Y. Xie, H. Wang, X. Fu, L. Yin, M. Luo*, X. Sheng*, “Colocalized, Bidirectional Optogenetic Modulations in Freely Behaving Mice with a Wireless Dual-Color Optoelectronic Probe”, Nature Communications 13, 839 (2022). [pdf](https://fa4b3987-e044-44e2-945a-4425b986b23b.filesusr.com/ugd/99a864_8b39e840b07f422982da2a2d7ba1778c.pdf)
+L. Li#, L. Lu#, Y. Ren#, G. Tang#, Y. Zhao, X. Cai, Z. Shi, H. Ding, C. Liu, D. Cheng, Y. Xie, H. Wang, X. Fu, L. Yin, M. Luo*, X. Sheng*, “Colocalized, Bidirectional Optogenetic Modulations in Freely Behaving Mice with a Wireless Dual-Color Optoelectronic Probe”, Nature Communications 13, 839 (2022). [pdf](https://fa4b3987-e044-44e2-945a-4425b986b23b.filesusr.com/ugd/99a864_28d77188746d4284a97f77fa3f53c1ff.pdf)
 
  
 
 **2021**
 
-L. Li, G. Tang, Z. Shi, H. Ding, C. Liu, D. Cheng, Q. Zhang, L. Yin, Z. Yao, L. Duan, D. Zhang, C. Wang, M. Feng, Q. Sun, Q. Wang, Y. Han, L. Wang, Y. Luo, X. Sheng*, “Transfer-Printed, Tandem Microscale Light-Emitting Diodes for Full-Color Displays”, Proceedings of the National Academy of Sciences USA 118, e2023436118 (2021). 
+L. Li, G. Tang, Z. Shi, H. Ding, C. Liu, D. Cheng, Q. Zhang, L. Yin, Z. Yao, L. Duan, D. Zhang, C. Wang, M. Feng, Q. Sun, Q. Wang, Y. Han, L. Wang, Y. Luo, X. Sheng*, “Transfer-Printed, Tandem Microscale Light-Emitting Diodes for Full-Color Displays”, Proceedings of the National Academy of Sciences USA 118, e2023436118 (2021). [pdf](https://fa4b3987-e044-44e2-945a-4425b986b23b.filesusr.com/ugd/99a864_9c789a77a7044519af725626cda6798e.pdf)
 
-​H. Ding, G. Lv, Z. Shi, D. Cheng, Y. Xie, Y. Huang, L. Yin, J. Yang, Y. Wang, X. Sheng*, “Optoelectronic Sensing of Biophysical and Biochemical Signals based on Photon Recycling of a micro-LED”, Nano Research 14, 3208–3213 (2021) (Invited) (Front Cover). 
+​H. Ding, G. Lv, Z. Shi, D. Cheng, Y. Xie, Y. Huang, L. Yin, J. Yang, Y. Wang, X. Sheng*, “Optoelectronic Sensing of Biophysical and Biochemical Signals based on Photon Recycling of a micro-LED”, Nano Research 14, 3208–3213 (2021) (Invited) (Front Cover). [pdf](https://fa4b3987-e044-44e2-945a-4425b986b23b.filesusr.com/ugd/99a864_2932be7038a24bcb82d1a97401b0c45a.pdf)
 
-​Y. Xie, H. Wang, D. Cheng, H. Ding, D. Kong, L. Li, L. Yin, G. Zhao, L. Liu, G. Zou, J. Wei, C. Li, C. Liu*, X. Sheng*, “Diamond Thin Films Integrated with Flexible Substrates and Their Physical, Chemical and Biological Characteristics”, Journal of Physics D: Applied Physics 54, 384004 (2021) (Invited). 
+​Y. Xie, H. Wang, D. Cheng, H. Ding, D. Kong, L. Li, L. Yin, G. Zhao, L. Liu, G. Zou, J. Wei, C. Li, C. Liu*, X. Sheng*, “Diamond Thin Films Integrated with Flexible Substrates and Their Physical, Chemical and Biological Characteristics”, Journal of Physics D: Applied Physics 54, 384004 (2021) (Invited). [pdf](https://fa4b3987-e044-44e2-945a-4425b986b23b.filesusr.com/ugd/99a864_6ac1191fea0b4134bccd277d00995a07.pdf)
 ​
 
 
