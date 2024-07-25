@@ -22,7 +22,7 @@ E-mail: heding@bit.edu.cn
 
 
 
-<u>在读学生</u>
+在读学生
 ===========
 
 
