@@ -14,9 +14,13 @@ permalink: /people/
 北京理工大学，光电学院
 
 
+
+
 博士后，清华大学, 中国\
 博士，里昂中央理工大学，法国\
 本硕，北京交通大学，中国
+
+
 
 
 E-mail: heding@bit.edu.cn
