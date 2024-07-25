@@ -25,7 +25,6 @@ L. Li, G. Tang, Z. Shi, H. Ding, C. Liu, D. Cheng, Q. Zhang, L. Yin, Z. Yao, L. 
 ​​C. Jia#, L. Li#, Y. Liu#, B. Fang, H. Ding, J. Song, Y. Liu, K. Xiang, S. Lin, Z. Li, W. Si, B. Li, X. Sheng, D. Wang, X. Wei*, H. Wu*, “Highly Compressible and Anisotropic Lamellar Ceramic Sponges with Superior Thermal Insulation and Acoustic Absorption Performances”, Nature Communications 11, 3732 (2020).
 
 ​
-
 **2019**
 
 ​Z. Shi#, H. Ding#, H. Hong, D. Cheng, K. Rajabi, J. Yang, Y. Wang, L. Wang, Y. Luo, K. Liu, and X. Sheng*, "Ultrafast and low-power optoelectronic infrared-to-visible upconversion devices," Photonics Research 7, 1161-1168 (2019).
