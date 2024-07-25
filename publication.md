@@ -25,42 +25,42 @@ L. Li, G. Tang, Z. Shi, H. Ding, C. Liu, D. Cheng, Q. Zhang, L. Yin, Z. Yao, L. 
 
 **2020**
 
-​​C. Jia#, L. Li#, Y. Liu#, B. Fang, H. Ding, J. Song, Y. Liu, K. Xiang, S. Lin, Z. Li, W. Si, B. Li, X. Sheng, D. Wang, X. Wei*, H. Wu*, “Highly Compressible and Anisotropic Lamellar Ceramic Sponges with Superior Thermal Insulation and Acoustic Absorption Performances”, Nature Communications 11, 3732 (2020).
+​​C. Jia#, L. Li#, Y. Liu#, B. Fang, H. Ding, J. Song, Y. Liu, K. Xiang, S. Lin, Z. Li, W. Si, B. Li, X. Sheng, D. Wang, X. Wei*, H. Wu*, “Highly Compressible and Anisotropic Lamellar Ceramic Sponges with Superior Thermal Insulation and Acoustic Absorption Performances”, Nature Communications 11, 3732 (2020).[pdf](https://fa4b3987-e044-44e2-945a-4425b986b23b.filesusr.com/ugd/99a864_eef77317f9c340cd9024b9a56b59ed00.pdf)
 
 ​
 **2019**
 
-​Z. Shi#, H. Ding#, H. Hong, D. Cheng, K. Rajabi, J. Yang, Y. Wang, L. Wang, Y. Luo, K. Liu, and X. Sheng*, "Ultrafast and low-power optoelectronic infrared-to-visible upconversion devices," Photonics Research 7, 1161-1168 (2019).
+​Z. Shi#, H. Ding#, H. Hong, D. Cheng, K. Rajabi, J. Yang, Y. Wang, L. Wang, Y. Luo, K. Liu, and X. Sheng*, "Ultrafast and low-power optoelectronic infrared-to-visible upconversion devices," Photonics Research 7, 1161-1168 (2019).[pdf](https://fa4b3987-e044-44e2-945a-4425b986b23b.filesusr.com/ugd/99a864_8b39e840b07f422982da2a2d7ba1778c.pdf)
 
-​H. Ding, X. Sheng, “Thin-Film III-V Single Junction and Multijunction Solar Cells and Their Integration onto Heterogeneous Substrates”, in Inorganic Flexible Optoelectronics Materials and Applications ed. by Z. Ma and D. Liu, Wiley-VCH (2019).
+​H. Ding, X. Sheng, “Thin-Film III-V Single Junction and Multijunction Solar Cells and Their Integration onto Heterogeneous Substrates”, in Inorganic Flexible Optoelectronics Materials and Applications ed. by Z. Ma and D. Liu, Wiley-VCH (2019).[pdf](https://fa4b3987-e044-44e2-945a-4425b986b23b.filesusr.com/ugd/99a864_2e3b3a56881e48159cfa46bcb1d66061.pdf)
 
-​H. Ding, H. Hong, D. Cheng, Z. Shi, K. Liu, X. Sheng*, “Power- and Spectral-Dependent Photon-Recycling Effects in a Double-Junction Gallium Arsenide Photodiode”, ACS Photonics 6, 59–65 (2019). 
+​H. Ding, H. Hong, D. Cheng, Z. Shi, K. Liu, X. Sheng*, “Power- and Spectral-Dependent Photon-Recycling Effects in a Double-Junction Gallium Arsenide Photodiode”, ACS Photonics 6, 59–65 (2019). [pdf](https://fa4b3987-e044-44e2-945a-4425b986b23b.filesusr.com/ugd/99a864_928afe85ed294ce8bb01b906b9fb63cc.pdf)
 
-Y. Zhao#, C. Liu#, Z. Liu, W. Luo, L. Li, X. Cai, D. Liang, Y. Su, H. Ding, Q. Wang, L. Yin, J. Guan, M. Luo, X. Sheng*, “Wirelessly Operated, Implantable Optoelectronic Probes for Optogenetics in Freely Moving Animals”, IEEE Transactions on Electron Devices 66, 785–792 (2019). 
+Y. Zhao#, C. Liu#, Z. Liu, W. Luo, L. Li, X. Cai, D. Liang, Y. Su, H. Ding, Q. Wang, L. Yin, J. Guan, M. Luo, X. Sheng*, “Wirelessly Operated, Implantable Optoelectronic Probes for Optogenetics in Freely Moving Animals”, IEEE Transactions on Electron Devices 66, 785–792 (2019). [pdf](https://fa4b3987-e044-44e2-945a-4425b986b23b.filesusr.com/ugd/99a864_784ccf7206944691a733e7fd82787453.pdf)
 
  
 
 **2018**
 
- H. Ding, L. Lu, Z. Shi, D. Wang, L. Li, X. Li, Y. Ren, C. Liu, D. Cheng, H. Kim, N. C. Giebink, X. Wang, L. Yin, L. Zhao, M. Luo, X. Sheng*, “Microscale Optoelectronic Infrared-to-Visible Upconversion Devices and Their Use as Injectable Light Sources”, Proceedings of the National Academy of Sciences USA 115, 6632–6637 (2018). 
+ H. Ding, L. Lu, Z. Shi, D. Wang, L. Li, X. Li, Y. Ren, C. Liu, D. Cheng, H. Kim, N. C. Giebink, X. Wang, L. Yin, L. Zhao, M. Luo, X. Sheng*, “Microscale Optoelectronic Infrared-to-Visible Upconversion Devices and Their Use as Injectable Light Sources”, Proceedings of the National Academy of Sciences USA 115, 6632–6637 (2018). [pdf](https://fa4b3987-e044-44e2-945a-4425b986b23b.filesusr.com/ugd/99a864_07572e941eb940feaba46e8125a49081.pdf)
 
- C. Liu#, Q. Zhang#, D. Wang, G. Zhao, X. Cai, L. Li, H. Ding, K. Zhang, H. Wang, D. Kong, L. Yin, L. Liu, G. Zou, L. Zhao, X. Sheng*, “High Performance, Biocompatible Dielectric Thin-Film Optical Filters Integrated with Flexible Substrates and Microscale Optoelectronic Devices”, Advanced Optical Materials 6, 1800146 (2018) (Back Cover). 
+ C. Liu#, Q. Zhang#, D. Wang, G. Zhao, X. Cai, L. Li, H. Ding, K. Zhang, H. Wang, D. Kong, L. Yin, L. Liu, G. Zou, L. Zhao, X. Sheng*, “High Performance, Biocompatible Dielectric Thin-Film Optical Filters Integrated with Flexible Substrates and Microscale Optoelectronic Devices”, Advanced Optical Materials 6, 1800146 (2018) (Back Cover). [pdf](https://fa4b3987-e044-44e2-945a-4425b986b23b.filesusr.com/ugd/99a864_97684258a0aa4df19ce89ffc9fd19dc6.pdf)
 
-R. Fu, W. Luo, R. Nazempour, D. Tan, H. Ding, K. Zhang, L. Yin, J. Guan*, X. Sheng*, “Implantable and Biodegradable Poly(L-lactic acid) Fibers for Optical Neural Interfaces”, Advanced Optical Materials 6, 1700941 (2018). 
+R. Fu, W. Luo, R. Nazempour, D. Tan, H. Ding, K. Zhang, L. Yin, J. Guan*, X. Sheng*, “Implantable and Biodegradable Poly(L-lactic acid) Fibers for Optical Neural Interfaces”, Advanced Optical Materials 6, 1700941 (2018). [pdf](https://fa4b3987-e044-44e2-945a-4425b986b23b.filesusr.com/ugd/99a864_04504b2760c0470fa3e9e102e4e5158d.pdf)
 
- L. Li#, C. Liu#, Y. Su, J. Bai, J. Wu, Y. Han, Y. Hou, S. Qi, Y. Zhao, H. Ding, Y. Yan, L. Yin, P. Wang, Y. Luo, X. Sheng*, “Heterogeneous Integration of Microscale GaN Light Emitting Diodes and Their Electrical, Optical and Thermal Characteristics on Flexible Substrates”, Advanced Materials Technologies 3, 1700239 (2018) (Back Cover). 
+ L. Li#, C. Liu#, Y. Su, J. Bai, J. Wu, Y. Han, Y. Hou, S. Qi, Y. Zhao, H. Ding, Y. Yan, L. Yin, P. Wang, Y. Luo, X. Sheng*, “Heterogeneous Integration of Microscale GaN Light Emitting Diodes and Their Electrical, Optical and Thermal Characteristics on Flexible Substrates”, Advanced Materials Technologies 3, 1700239 (2018) (Back Cover). [pdf](https://fa4b3987-e044-44e2-945a-4425b986b23b.filesusr.com/ugd/99a864_6371e9fcd6c94457954c865841515eaf.pdf)
 
  
 
 **2017 – Before**
 
- L. Lalouat, H. Ding, B. Gonzalez-Acevedo, A. Harouri, R. Orobtchouk, V. Depauw, E. Drouard*, C. Seassal, “Pseudo-disordered structures for light trapping improvement in mono-crystalline Si thin-films”, Solar Energy Materials and Solar Cells 159, 649-656 (2017). 
+ L. Lalouat, H. Ding, B. Gonzalez-Acevedo, A. Harouri, R. Orobtchouk, V. Depauw, E. Drouard*, C. Seassal, “Pseudo-disordered structures for light trapping improvement in mono-crystalline Si thin-films”, Solar Energy Materials and Solar Cells 159, 649-656 (2017). [pdf](https://fa4b3987-e044-44e2-945a-4425b986b23b.filesusr.com/ugd/99a864_5d13e5594175437eb20beb07a8da4639.pdf)
 
- H. Ding, L. Yang, H. Peng, X*. Wang, F. You, L. Hou, “Intracellular Temperature Imaging in Gold Nanorod-Assisted Photothermal Therapy with Luminescent Eu (III) Chelate Nanoparticles”, Journal of Nanoscience and Nanotechnology 16, 3877-3882 (2016). 
+ H. Ding, L. Yang, H. Peng, X*. Wang, F. You, L. Hou, “Intracellular Temperature Imaging in Gold Nanorod-Assisted Photothermal Therapy with Luminescent Eu (III) Chelate Nanoparticles”, Journal of Nanoscience and Nanotechnology 16, 3877-3882 (2016). [pdf](https://fa4b3987-e044-44e2-945a-4425b986b23b.filesusr.com/ugd/99a864_52b1e957d7684038b868b2c0f44adcf5.pdf)
 
- H. Ding, L. Lalouat, B. Gonzalez-Acevedo, R. Orobtchouk, C. Seassal, E. Drouard*, “Design rules for net absorption enhancement in pseudo-disordered photonic crystal for thin film solar cells”, Optics Express 24, A650-A666 (2016). 
+ H. Ding, L. Lalouat, B. Gonzalez-Acevedo, R. Orobtchouk, C. Seassal, E. Drouard*, “Design rules for net absorption enhancement in pseudo-disordered photonic crystal for thin film solar cells”, Optics Express 24, A650-A666 (2016). [pdf](https://fa4b3987-e044-44e2-945a-4425b986b23b.filesusr.com/ugd/99a864_fee5c86b9d3a4e9c9cf20e92dc991abb.pdf)
 
- L. Yang, H. Peng*, H. Ding, F.-T. You, L. Hou, F. Teng, “Luminescent Ru (bpy) 3 2+-doped silica nanoparticles for imaging of intracellular temperature‘’, Microchimica Acta 181, 743-749 (2014). 
+ L. Yang, H. Peng*, H. Ding, F.-T. You, L. Hou, F. Teng, “Luminescent Ru (bpy) 3 2+-doped silica nanoparticles for imaging of intracellular temperature‘’, Microchimica Acta 181, 743-749 (2014). [pdf](https://fa4b3987-e044-44e2-945a-4425b986b23b.filesusr.com/ugd/99a864_ab088322d7584434a38ba9d24f9e38f0.pdf)
 
- X. Wang, H. Peng*, H. Ding, F. You, S. Huang, F. Teng, B. Dong, H.Song, “ Biocompatible fluorescent core–shell nanoparticles for ratiometric oxygen sensing”, Journal of Materials Chemistry 22, 16066-16071 (2012). 
+ X. Wang, H. Peng*, H. Ding, F. You, S. Huang, F. Teng, B. Dong, H.Song, “ Biocompatible fluorescent core–shell nanoparticles for ratiometric oxygen sensing”, Journal of Materials Chemistry 22, 16066-16071 (2012). [pdf](https://fa4b3987-e044-44e2-945a-4425b986b23b.filesusr.com/ugd/99a864_1d6d74202b0b46b091a87b45be3f6e89.pdf)
 
