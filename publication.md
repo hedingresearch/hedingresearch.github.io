@@ -5,11 +5,18 @@ permalink: /publication/
 ---
 
 
-<div style:font-size: 16px;>
+<style>
+    .author-list {
+        font-size: 18px; /* 修改这里来设置字体大小 */
+    }
+</style>
+
+<ul class="author-list">
+ 
 **2022**
 
 L. Li#, L. Lu#, Y. Ren#, G. Tang#, Y. Zhao, X. Cai, Z. Shi, H. Ding, C. Liu, D. Cheng, Y. Xie, H. Wang, X. Fu, L. Yin, M. Luo*, X. Sheng*, “Colocalized, Bidirectional Optogenetic Modulations in Freely Behaving Mice with a Wireless Dual-Color Optoelectronic Probe”, Nature Communications 13, 839 (2022). 
-</div>
+
  
 
 **2021**
@@ -62,3 +69,4 @@ R. Fu, W. Luo, R. Nazempour, D. Tan, H. Ding, K. Zhang, L. Yin, J. Guan*, X. She
  L. Yang, H. Peng*, H. Ding, F.-T. You, L. Hou, F. Teng, “Luminescent Ru (bpy) 3 2+-doped silica nanoparticles for imaging of intracellular temperature‘’, Microchimica Acta 181, 743-749 (2014). 
 
  X. Wang, H. Peng*, H. Ding, F. You, S. Huang, F. Teng, B. Dong, H.Song, “ Biocompatible fluorescent core–shell nanoparticles for ratiometric oxygen sensing”, Journal of Materials Chemistry 22, 16066-16071 (2012). 
+</ul>
