@@ -25,4 +25,4 @@ permalink: /research/
   <!-- 添加一个空的div来增加照片与文字之间的距离 -->
 </div>
 
-{% include image.html url="/images/研究成果.jpg" width=800 style="display:block; margin-left: 100px; margin-right: auto;" %} <!-- 增加照片与左边距的距离 -->
+{% include image.html url="/images/研究成果.jpg" width=600 style="display:block; margin-left: 100px; margin-right: auto;" %} <!-- 增加照片与左边距的距离 -->
