@@ -6,8 +6,8 @@ permalink: /research/
 
 <style>
  .research-directions {
-    margin-left: 10px; /* 设置左边距 */
-    font-size: 21px;
+    margin-left: 50px; /* 设置左边距 */
+    font-size: 20px;
   }
  .image-container {
   margin-top: 20px; /* 增加照片与文字之间的距离 */
@@ -28,8 +28,8 @@ permalink: /research/
 {% include image.html url="/images/研究成果.jpg" width=600 style="display:block; margin-left: 100px; margin-right: auto;" %} <!-- 增加照片与左边距的距离 -->
 
 <div class="research-directions">
-  新闻报道\
- （1）微纳光电器件类工作：\
+  新闻报道<br>
+ （1）微纳光电器件类工作：<br>
 植入式上转换光源<br>
 https://mp.weixin.qq.com/s/ExXuTASU4bnn1WIgVlRwJw<br>
 光学温度传感<br>
