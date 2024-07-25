@@ -9,7 +9,7 @@ permalink: /publication/
  
 **2022**
 
-L. Li#, L. Lu#, Y. Ren#, G. Tang#, Y. Zhao, X. Cai, Z. Shi, H. Ding, C. Liu, D. Cheng, Y. Xie, H. Wang, X. Fu, L. Yin, M. Luo*, X. Sheng*, “Colocalized, Bidirectional Optogenetic Modulations in Freely Behaving Mice with a Wireless Dual-Color Optoelectronic Probe”, Nature Communications 13, 839 (2022). 
+L. Li#, L. Lu#, Y. Ren#, G. Tang#, Y. Zhao, X. Cai, Z. Shi, H. Ding, C. Liu, D. Cheng, Y. Xie, H. Wang, X. Fu, L. Yin, M. Luo*, X. Sheng*, “Colocalized, Bidirectional Optogenetic Modulations in Freely Behaving Mice with a Wireless Dual-Color Optoelectronic Probe”, Nature Communications 13, 839 (2022). [pdf](https://fa4b3987-e044-44e2-945a-4425b986b23b.filesusr.com/ugd/99a864_8b39e840b07f422982da2a2d7ba1778c.pdf)
 
  
 
