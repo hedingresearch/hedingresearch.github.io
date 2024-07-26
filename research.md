@@ -18,7 +18,7 @@ permalink: /research/
 <div class="research-directions">
  
 
- **研究方向**
+ 研究方向<br>
 
 1. 面向脑科学（神经接口）应用的新型光电半导体器件
 2. 面向生物医疗应用的植入式与可穿戴式传感微系统
@@ -45,7 +45,7 @@ https://opt.bit.edu.cn/dtxx/579f2d02354043b48212e14bc48989f5.htm<br>
 
 新型光学传感机制：<br>
 https://mp.weixin.qq.com/s/Oe5jn7-gVQybtTuvrACABA<br>
-https://mp.weixin.qq.com/s/vhdkkqm2cRw20Mkg5cs0DQ
+https://mp.weixin.qq.com/s/vhdkkqm2cRw20Mkg5cs0DQ<br>
 
 
 2. 系统应用方面工作：
