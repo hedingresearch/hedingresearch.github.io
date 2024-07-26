@@ -7,6 +7,7 @@ permalink: /people/
 {% include image.html url="/images/dinghe.png" width=320  style="margin-right: 60px;" %}
 
 **丁贺**
+
 长聘副教授，博士生导师\
 北京理工大学，光电学院\
 E-mail: heding@bit.edu.cn
