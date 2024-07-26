@@ -32,7 +32,7 @@ permalink: /research/
 {% include image.html url="/images/研究成果.jpg" width=600 style="display:block; margin-left: 100px; margin-right: auto;" %} <!-- 增加照片与左边距的距离 -->
 
 <div class="research-directions">
- 
+<p style="font-size: 20px; >
 新闻报道<br>
 1. 微纳光电器件类工作：<br>
 
