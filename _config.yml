@@ -3,7 +3,8 @@ title:  主页
 site_logo: "/images/logo.png"  # 假设logo图片在images目录下
 email:  heding@bit.edu.cn
 description: > # this means to ignore newlines until "baseurl:"
- 北京理工大学，光电学院<br/> <https://opt.bit.edu.cn>
+ 北京理工大学，光电学院<br/> 
+ <https://opt.bit.edu.cn>{:target="_blank"}
  
   
 baseurl: "" # the subpath of your site, e.g. /blog/
