@@ -15,6 +15,7 @@ J. Chen, H. Ding*, Y. Li, X. Sheng*, “Numerical Design of a Micro-LED based Op
 **2023**
 
 Z. Shi, X. Gao, X. Cai, H. Zhao, X. Wang, L. Zhao, L. Yin, H. Ding*, X. Sheng*. “Fully Implantable and Retrievable Upconversion Waveguides for Photodynamic Therapy in Deep Tissue”. Advanced Optical Materials, 2300689 (2023).
+
 J. Chen, H. Ding*, and X. Sheng*. “Advanced manufacturing of microscale light-emitting diodes and their use in displays and biomedicine”, Journal of Information Display,1-12 (2023).
 
 **2022**
