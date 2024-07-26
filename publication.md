@@ -5,13 +5,15 @@ permalink: /publication/
 ---
 
 **2024**
+
 Z. Xue#, W. Chou#, Y. Xu, Z. Cheng, X. Ren, T. Sun, W. Tong, Y. Xie, J. Chen, N. Zhang, X. Sheng, Y. Wang, H. Zhao*, J. Yang*, H. Ding*, “Battery-free optoelectronic patch for photodynamic and light therapies in treating bacteria-infected wounds”, Biosensors and Bioelectronics 261, 116467 (2024).
 
-X. Cai#, H. Zhang#, P. Wei#, Q. Liu#, D. Sheng, Z. Li, B. Zhang, G. Tang, W. Zhao, Z. Ye, Z. Xue, Y. Xie, Y. Dai, C. Wang, Y. Wang, X. Fu, L. Yin, H. Peng, H. Ding*, G. Zhao*, X. Sheng*, “A wireless optoelectronic probe to monitor oxygenation in deep brain tissue”, Nature Photonics 18, 492–500 (2024) （封面文章）.
+X. Cai#, H. Zhang#, P. Wei#, Q. Liu#, D. Sheng, Z. Li, B. Zhang, G. Tang, W. Zhao, Z. Ye, Z. Xue, Y. Xie, Y. Dai, C. Wang, Y. Wang, X. Fu, L. Yin, H. Peng, H. Ding*, G. Zhao*, X. Sheng*, “A wireless optoelectronic probe to monitor oxygenation in deep brain tissue”, Nature Photonics 18, 492–500 (2024) （Front conver）.
 
 J. Chen, H. Ding*, Y. Li, X. Sheng*, “Numerical Design of a Micro-LED based Optogenetic Stimulator for Visual Cortical Prosthesis”, IEEE Journal of Selected Topics in Quantum Electronics 30, 7200308 (2024)
 
 **2023**
+
 Z. Shi, X. Gao, X. Cai, H. Zhao, X. Wang, L. Zhao, L. Yin, H. Ding*, X. Sheng*. “Fully Implantable and Retrievable Upconversion Waveguides for Photodynamic Therapy in Deep Tissue”. Advanced Optical Materials, 2300689 (2023).
 J. Chen, H. Ding*, and X. Sheng*. “Advanced manufacturing of microscale light-emitting diodes and their use in displays and biomedicine”, Journal of Information Display,1-12 (2023).
 
