@@ -4,8 +4,8 @@ title:
 permalink: /contact/
 ---
 
-Email: heding@bit.edu.cn
-招贤纳士：博士后、博士（1 – 2 名/年）、硕士（3名/年）
+Email: heding@bit.edu.cn\
+招贤纳士：博士后、博士（1 – 2 名/年）、硕士（3名/年）\
 专业要求：具有光学工程、电子信息、材料、生物医学等领域背景
 
 
