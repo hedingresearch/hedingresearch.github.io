@@ -7,7 +7,6 @@ permalink: /research/
 <style>
  .research-directions {
     margin-left: 5px; /* 设置左边距 */
-    
     line-height: 1.8;
   }
  .image-container {
@@ -19,7 +18,6 @@ permalink: /research/
  
 
  研究方向<br>
-
 1. 面向脑科学（神经接口）应用的新型光电半导体器件<br>
 2. 面向生物医疗应用的植入式与可穿戴式传感微系统
 </div>
@@ -35,9 +33,9 @@ permalink: /research/
 
 新闻报道<br>
 1. 微纳光电器件类工作：<br>
+<a href="https://mp.weixin.qq.com/s/ExXuTASU4bnn1WIgVlRwJw" target="_blank">植入式上转换光源</a>
 
-植入式上转换光源<br>
-<https://mp.weixin.qq.com/s/ExXuTASU4bnn1WIgVlRwJw>{:target="_blank"} <br>
+
 
 光学温度传感<br>
 https://m.thepaper.cn/newsDetail_forward_18166307<br>
