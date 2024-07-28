@@ -7,7 +7,7 @@ permalink: /research/
 <style>
  .research-directions {
     margin-left: 5px; /* 设置左边距 */
-    font-size: 20px;
+    
     line-height: 1.8;
   }
  .image-container {
