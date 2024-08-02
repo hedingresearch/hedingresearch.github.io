@@ -3,22 +3,20 @@ title: "主页"
 site_logo: "/images/logo.png"  # 假设logo图片在images目录下
 email: "heding@bit.edu.cn"
 description: "北京理工大学，光电学院"
-address: "https://opt.bit.edu.cn" 
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-#twitter_username: jekyllrb
-#github_username: jekyll
+address: "https://opt.bit.edu.cn" 
 
 # Build settings
 markdown: kramdown
 
-# Other options
-permalink: "blog/:year/:month/:title"
-job_title: "Assistant Professor"
-excerpt_separator: "<!--more-->"
+# Research
+research_1_1: "https://mp.weixin.qq.com/s/ExXuTASU4bnn1WIgVlRwJw"
+research_1_2_1: "https://m.thepaper.cn/newsDetail_forward_18166307"
+research_1_2_2: "https://opt.bit.edu.cn/dtxx/579f2d02354043b48212e14bc48989f5.htm"
+research_1_3_1: "https://mp.weixin.qq.com/s/Oe5jn7-gVQybtTuvrACABA"
+research_1_3_2: "https://mp.weixin.qq.com/s/vhdkkqm2cRw20Mkg5cs0DQ"
+research_2_1_1: "https://new.qq.com/rain/a/20240125A02IPZ00"
+research_2_1_2: "https://opt.bit.edu.cn/dtxx/b4f23d0206ef4351a3cd7946286a62d4.htm"
+research_2_2: "https://opt.bit.edu.cn/dtxx/84f45815068b4ddd93f1fe829746eed9.htm"
 
-# SEO stuff
-# google_author: ""
-# google_site_verification: ""
-# bing_webmastertools_id: ""
+contact_address: "https://map.baidu.com/poi/%E5%8C%97%E4%BA%AC%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6(%E4%B8%AD%E5%85%B3%E6%9D%91%E6%A0%A1%E5%8C%BA)-%E5%85%89%E7%94%B5%E6%A5%BC/@12948574.909209378,4832935.572402201,19z?uid=84735659433c3ba1047ce82e&info_merge=1&isBizPoi=false&ugc_type=3&ugc_ver=1&device_ratio=2&compat=1&pcevaname=pc4.1&querytype=detailConInfo&da_src=shareurl"

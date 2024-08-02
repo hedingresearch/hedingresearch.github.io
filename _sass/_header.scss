@@ -13,10 +13,7 @@
 
 .site-title {
     font-size: 21px;
-/* 		margin-top: 15px;
-    line-height: 40px; */
-    letter-spacing: 1px;
-    margin-bottom: 0;
+    margin-top: -30px;
     float: left;
     font-weight: 500;
 		font-family: 'Titillium Web', sans-serif;
@@ -32,19 +29,19 @@
 }
 
 .site-header .wrapper {
-	padding-top: 20px;
+	padding-top: 40px;
 	position: relative;
 }
 
 .site-nav ul li a {
 	color: #fff;
-	font-size: 21px; /* 设置字体大小与 .site-title 相同 */
+	font-size: 23px; /* 设置字体大小与 .site-title 相同 */
 }
 
 .site-nav ul {
-
+    white-space: nowrap;
 	text-align: center; /* 更改为居中 */
-        float: none; /* 移除浮动 */
+    float: none; /* 移除浮动 */
 	padding-top: 0px;
 	font-size: 100%;
 	letter-spacing: 1px;
@@ -63,14 +60,13 @@
 .site-nav .menu > li {
 	border-bottom: 3px solid transparent;
 	display: inline-block;
-	height: 21px;
 	line-height: normal;
-	margin: 6px 0px 0 110px;
+	margin: -5px 0 0 75px;
 	padding: 0 0 2px 0;
 	position: relative;
 	vertical-align: top;
 	text-align: center; /* 使菜单项文本居中 */
-	 display: flex; /* 将 li 转换为 Flex 容器 */
+	display: flex; /* 将 li 转换为 Flex 容器 */
     justify-content: center; /* 水平居中容器内的子元素 */
     align-items: center; /* 垂直居中容器内的子元素 */
 }
@@ -168,8 +164,6 @@ z-index:999;
 
     .page-link {
         color: #ffffff;
-    background: $clemson-orange;
-        line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {

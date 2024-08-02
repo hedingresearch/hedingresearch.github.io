@@ -1,10 +1,9 @@
 <header class="site-header">
-
   <div class="wrapper">
-
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
-
+  <a class="site-title" href="{{ site.baseurl }}/">
+    <img src="/images/logo.png" alt="logo" class="logo">
+  </a>
+  
     <nav class="site-nav">
 
       <a href="#" class="menu-icon menu.open">
@@ -15,36 +14,30 @@
         </svg>
       </a>  
 
-    <div class="trigger"><h1>Main Navigation</h1>
-
- {% include nav.html  %}
-
-<!-- <ul class="menu">
-        <li> <a class="page-link" href="/about">About</a></li>
-        <li> <a class="page-link"  href="/blog">Blog</a>
-        <li> <a class="page-link" href="/blog">CV</a>
-        <li> <a class="page-link" href="/blog">For Students</a></li>
-        <li> <a class="page-link"  href="/blog">Research</a></a>
-        <li> <a class="page-link" href="/blog">Teaching</a>
-<ul class="sub-menu">
-	<li><a href="http://svmiller.com/teaching/posc-1020-introduction-to-international-relations/">POSC 1020 – Introduction to International Relations</a></li>
-	<li><a href="http://svmiller.com/teaching/posc-3410-quantitative-methods-in-political-science/">POSC 3410 – Quantitative Methods in Political Science</a></li>
-	<li><a href="http://svmiller.com/teaching/posc-3610-international-politics-in-crisis/">POSC 3610 – International Politics in Crisis</a></li>
-	<li><a href="http://svmiller.com/teaching/posc-3630-united-states-foreign-policy/">POSC 3630 – United States Foreign Policy</a></li>
-</ul></li>
-        <li> <a class="page-link" href="/blog">Miscellany</a>
-<ul class="sub-menu">
-	<li><a href="http://svmiller.com/teaching/posc-1020-introduction-to-international-relations/">Clean USAID Greenbook Data</a></li>
-	<li><a href="http://svmiller.com/teaching/posc-3410-quantitative-methods-in-political-science/">Journal of Peace Research *.bst File</a></li>
-	<li><a href="http://svmiller.com/teaching/posc-3610-international-politics-in-crisis/">My Custom Beamer Style</a></li>
-</ul> 
-
-</li>
-</ul> -->
-
-     </div>  
+    <div class="trigger">
+        {% include nav.html %}
+    </div>
     </nav>
-
   </div>
-
 </header>
+
+<style>
+
+.site-header {
+  border-bottom: 1px solid #ddd; /* 头部底部边框 */
+}
+
+.logo {
+  width: 80px; /* 根据需要调整图片的宽度 */
+  height: auto; /* 保持图片的比例 */
+  padding-bottom: 10px;
+}
+
+.site-nav {
+  display: flex;
+  align-items: center;
+  flex-grow: 1; /* 确保导航区域填充剩余空间 */
+}
+
+
+</style>

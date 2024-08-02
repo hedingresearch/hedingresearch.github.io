@@ -5,53 +5,94 @@ permalink: /research/
 ---
 
 <style>
- .research-directions {
-    margin-left: 5px; /* 设置左边距 */
-    line-height: 1.8;
+  body {
+    font-family: "Arial", sans-serif;
+    color: #333;
+    background-color: #f5f5f5;
+    line-height: 1.6;
   }
- .image-container {
-  margin-top: 20px; /* 增加照片与文字之间的距离 */
-}
+  .container {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  .card1 {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+
+  .card2 {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    padding: 20px;
+  }
+  
+  .card h2 {
+    font-size: 22px;
+    color: #1e90ff;
+    margin-bottom: 10px;
+  }
+  .card p {
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+  .image-container {
+    margin-top: 20px;
+    text-align: center;
+  }
+  a {
+    color: #1e90ff;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
 </style>
 
-<div class="research-directions">
- 
+<div class="container">
+  <div class="card card1">
+    <h2><strong>研究方向</strong></h2>
+    <p><strong>
+      1. 面向脑科学（神经接口）应用的新型光电半导体器件<br>
+      2. 面向生物医疗应用的植入式与可穿戴式传感微系统
+    </strong></p>
+    <div class="image-container">
+      {% include image.html url="/images/研究成果.jpg" width=500 align="center"%}
+    </div>
+  </div>
 
- 研究方向<br>
-1. 面向脑科学（神经接口）应用的新型光电半导体器件<br>
-2. 面向生物医疗应用的植入式与可穿戴式传感微系统
-</div>
-
-
-<div class="image-container">
-  <!-- 添加一个空的div来增加照片与文字之间的距离 -->
-</div>
-
-{% include image.html url="/images/研究成果.jpg" width=600 style="display:block; margin-left: 100px; margin-right: auto;" %} <!-- 增加照片与左边距的距离 -->
-
-<div class="research-directions">
-
-新闻报道<br>
-1. 微纳光电器件类工作：<br>
-<a href="https://mp.weixin.qq.com/s/ExXuTASU4bnn1WIgVlRwJw" target="_blank">植入式上转换光源</a>
-
-
-
-光学温度传感<br>
-https://m.thepaper.cn/newsDetail_forward_18166307<br>
-https://opt.bit.edu.cn/dtxx/579f2d02354043b48212e14bc48989f5.htm<br>
-
-新型光学传感机制：<br>
-https://mp.weixin.qq.com/s/Oe5jn7-gVQybtTuvrACABA<br>
-https://mp.weixin.qq.com/s/vhdkkqm2cRw20Mkg5cs0DQ<br>
-
-
-2. 系统应用方面工作：
-
-无线植入式脑组织氧含量监测<br>
-https://new.qq.com/rain/a/20240125A02IPZ00<br>
-https://opt.bit.edu.cn/dtxx/b4f23d0206ef4351a3cd7946286a62d4.htm<br>
-
-智能光学治疗贴片<br>
-https://opt.bit.edu.cn/dtxx/84f45815068b4ddd93f1fe829746eed9.htm
+  <div class="card card2">
+    <h2><strong>新闻报道</strong></h2>
+    <p><strong>
+      1. 微纳光电器件类工作：</strong><br>
+      <a href="{{site.research_1_1}}" target="_blank">植入式上转换光源</a>
+    </p>
+    <p>
+      光学温度传感<br>
+      <a href="{{site.research_1_2_1}}" target="_blank">{{site.research_1_2_1}}</a><br>
+      <a href="{{site.research_1_2_2}}" target="_blank">{{site.research_1_2_2}}</a><br>
+    </p>
+    <p>
+      新型光学传感机制<br>
+      <a href="{{site.research_1_3_1}}" target="_blank">{{site.research_1_3_1}}</a><br>
+      <a href="{{site.research_1_3_2}}" target="_blank">{{site.research_1_3_2}}</a><br>
+    </p>
+    <p><strong>
+      2. 系统应用方面工作：</strong><br>
+      无线植入式脑组织氧含量监测<br>
+      <a href="{{site.research_2_1_1}}" target="_blank">{{site.research_2_1_1}}</a><br>
+      <a href="{{site.research_2_1_2}}" target="_blank">{{site.research_2_1_2}}</a><br>
+    </p>
+    <p>
+      智能光学治疗贴片<br>
+      <a href="{{site.research_2_2}}" target="_blank">{{site.research_2_2}}</a>
+    </p>
+  </div>
 </div>

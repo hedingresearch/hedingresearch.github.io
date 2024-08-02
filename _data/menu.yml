@@ -1,3 +1,6 @@
+- title: "主页" 
+  href: "/" 
+
 - title: "科研方向" 
   href: "/research/" 
 
@@ -9,5 +12,3 @@
 
 - title: "联系方式" 
   href: "/contact/" 
-
-
