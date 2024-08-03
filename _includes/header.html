@@ -105,20 +105,10 @@
 document.addEventListener('DOMContentLoaded', function() {
   const menuIcon = document.querySelector('.menu-icon');
   const trigger = document.querySelector('.trigger');
-  let isExpanded = false;
-
-  menuIcon.addEventListener('click', function(event) {
-    event.stopPropagation(); // 阻止事件传播
-    isExpanded = !isExpanded;
-    trigger.classList.toggle('active', isExpanded);
-    menuIcon.setAttribute('aria-expanded', isExpanded);
-  });
 
   document.addEventListener('click', function(event) {
-    if (isExpanded && !trigger.contains(event.target) && !menuIcon.contains(event.target)) {
-      isExpanded = false;
+    if (!trigger.contains(event.target) && !menuIcon.contains(event.target)) {
       trigger.classList.remove('active');
-      menuIcon.setAttribute('aria-expanded', 'false');
     }
   });
 });
