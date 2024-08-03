@@ -102,14 +102,22 @@
 </style>
 
 <script>
-document.addEventListener('DOMContentLoaded', function() {
-  const menuIcon = document.querySelector('.menu-icon');
-  const trigger = document.querySelector('.trigger');
-
-  document.addEventListener('click', function(event) {
-    if (!trigger.contains(event.target) && !menuIcon.contains(event.target)) {
-      trigger.classList.remove('active');
-    }
+  document.addEventListener('DOMContentLoaded', function() {
+    const menuIcon = document.querySelector('.menu-icon');
+    const trigger = document.querySelector('.trigger');
+  
+    // 点击菜单图标时切换导航菜单的显示状态
+    menuIcon.addEventListener('click', function(event) {
+      event.preventDefault(); // 防止默认行为
+      trigger.classList.toggle('active'); // 切换 active 类
+    });
+  
+    // 点击页面其他部分时隐藏导航菜单
+    document.addEventListener('click', function(event) {
+      if (!trigger.contains(event.target) && !menuIcon.contains(event.target)) {
+        trigger.classList.remove('active');
+      }
+    });
   });
-});
 </script>
+  
