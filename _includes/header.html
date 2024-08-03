@@ -4,13 +4,13 @@
       <img src="/images/logo.png" alt="站点logo" class="logo">
     </a>
     <nav class="site-nav">
-      <div class="menu-icon" aria-controls="navigation-menu">
+      <a class="menu-icon" aria-controls="navigation-menu">
         <svg viewBox="0 0 18 15">
           <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
           <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
           <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
         </svg>
-      </div>
+      </a>
       <div id="navigation-menu" class="trigger">
         {% include nav.html %}
       </div>
@@ -63,7 +63,7 @@
   .trigger {
     display: none; /* 默认不显示 */
     position: fixed;
-    top: 27px; /* 从顶部开始显示 */
+    top: 70px; /* 从顶部开始显示 */
     left: 180px; /* 从左侧开始显示 */
     width: 100vw; /* 占据整个视口宽度 */
     height: 100vh; /* 占据整个视口高度 */
@@ -71,7 +71,6 @@
     z-index: 1000; /* 确保在其他内容之上 */
     align-items: center;
     justify-content: center;
-    overflow-y: auto; /* 如果内容过多，允许滚动 */
   }
 
   .trigger.active {
@@ -102,22 +101,28 @@
 </style>
 
 <script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const menuIcon = document.querySelector('.menu-icon');
-    const trigger = document.querySelector('.trigger');
-  
-    // 点击菜单图标时切换导航菜单的显示状态
+  document.addEventListener("DOMContentLoaded", function() {
+    var menuIcon = document.querySelector('.menu-icon');
+    var navigationMenu = document.getElementById('navigation-menu');
+
+    // 初始化时隐藏菜单
+    navigationMenu.style.display = "none";
+
+    // 按钮点击事件
     menuIcon.addEventListener('click', function(event) {
-      event.preventDefault(); // 防止默认行为
-      trigger.classList.toggle('active'); // 切换 active 类
+      event.stopPropagation(); // 阻止事件冒泡
+      if (navigationMenu.style.display === "none" || navigationMenu.style.display === "") {
+        navigationMenu.style.display = "block";
+      } else {
+        navigationMenu.style.display = "none";
+      }
     });
-  
-    // 点击页面其他部分时隐藏导航菜单
-    document.addEventListener('click', function(event) {
-      if (!trigger.contains(event.target) && !menuIcon.contains(event.target)) {
-        trigger.classList.remove('active');
+
+    // 点击页面其他地方隐藏菜单
+    document.addEventListener('click', function() {
+      if (navigationMenu.style.display === "block") {
+        navigationMenu.style.display = "none";
       }
     });
   });
 </script>
-  
