@@ -55,7 +55,7 @@ permalink: /research/
     text-decoration: underline;
   }
 
-  /* 响应式设计 */
+  /* 响应式设计调整 */
   @media (max-width: 768px) {
     .container {
       padding: 10px;
@@ -71,6 +71,10 @@ permalink: /research/
 
     .card p {
       font-size: 14px;
+    }
+
+    a {
+      word-wrap: break-word; /* 处理长网址溢出问题 */
     }
   }
 </style>

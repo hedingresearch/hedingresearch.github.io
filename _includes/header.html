@@ -4,7 +4,7 @@
       <img src="/images/logo.png" alt="Site Logo" class="logo">
     </a>
     <nav class="site-nav">
-      <a href="#" class="menu-icon menu.open" aria-label="Toggle navigation">
+      <a class="menu-icon menu.open" aria-label="Toggle navigation" aria-expanded="false">
         <svg viewBox="0 0 18 15">
           <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
           <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
@@ -49,23 +49,21 @@
   }
 
   .trigger {
-  display: none; /* 默认不显示 */
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  background: rgba(0, 0, 0, 0.5); /* 半透明背景 */
-  z-index: 999; /* 确保在其他内容之上 */
-  align-items: center;
-  justify-content: center;
-}
+    display: none; /* 默认不显示 */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.5); /* 半透明背景 */
+    z-index: 999; /* 确保在其他内容之上 */
+    align-items: center;
+    justify-content: center;
+  }
 
-  /* 激活状态显示背景板 */
   .trigger.active {
     display: flex;
   }
-
 }
 </style>
 
@@ -73,9 +71,22 @@
 document.addEventListener('DOMContentLoaded', function() {
   var menuIcon = document.querySelector('.menu-icon');
   var trigger = document.querySelector('.trigger');
+  var isExpanded = false;
 
-  menuIcon.addEventListener('click', function() {
-    trigger.classList.toggle('active');
+  menuIcon.addEventListener('click', function(event) {
+    event.stopPropagation(); // 阻止事件传播
+    isExpanded = !isExpanded;
+    trigger.classList.toggle('active', isExpanded);
+    menuIcon.setAttribute('aria-expanded', isExpanded);
+  });
+
+  // 关闭菜单时点击背景区域
+  document.addEventListener('click', function(event) {
+    if (isExpanded && !trigger.contains(event.target) && !menuIcon.contains(event.target)) {
+      isExpanded = false;
+      trigger.classList.remove('active');
+      menuIcon.setAttribute('aria-expanded', 'false');
+    }
   });
 });
 </script>
