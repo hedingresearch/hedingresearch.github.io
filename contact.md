@@ -54,6 +54,23 @@ permalink: /contact/
         height: auto;
         box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
     }
+    
+    /* 响应式设计 */
+    @media (max-width: 768px) {
+        .contact-info {
+            flex-direction: column;
+            align-items: flex-start;
+        }
+
+        .contact-map {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .contact-map img {
+            max-width: 100%;
+        }
+    }
 </style>
 
 <div class="container">

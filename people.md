@@ -53,7 +53,7 @@ permalink: /people/
     h2 {
         border-bottom: 2px solid #ddd;
         padding-bottom: 0;
-        margin-bottom: 5px;
+        margin-bottom: 3px;
         color: #444;
     }
     h3 {
@@ -65,9 +65,9 @@ permalink: /people/
         margin: 0;
     }
     ul li {
-        border-bottom: 1px solid #eee;
+        border-bottom: 0 solid #eee;
         color: #555;
-        padding: 2px 0; /* 增加间距 */
+        padding: 0;
     }
     ul li:last-child {
         border-bottom: none;

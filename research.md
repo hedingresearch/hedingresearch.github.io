@@ -54,6 +54,25 @@ permalink: /research/
   a:hover {
     text-decoration: underline;
   }
+
+  /* 响应式设计 */
+  @media (max-width: 768px) {
+    .container {
+      padding: 10px;
+    }
+
+    .card {
+      padding: 15px;
+    }
+
+    .card h2 {
+      font-size: 20px;
+    }
+
+    .card p {
+      font-size: 14px;
+    }
+  }
 </style>
 
 <div class="container">
@@ -70,9 +89,10 @@ permalink: /research/
 
   <div class="card card2">
     <h2><strong>新闻报道</strong></h2>
-    <p><strong>
-      1. 微纳光电器件类工作：</strong><br>
-      <a href="{{site.research_1_1}}" target="_blank">植入式上转换光源</a>
+    <p>
+      <strong>1. 微纳光电器件类工作：</strong><br>
+      植入式上转换光源<br>
+      <a href="{{site.research_1_1}}" target="_blank">{{site.research_1_1}}</a>
     </p>
     <p>
       光学温度传感<br>
@@ -84,8 +104,8 @@ permalink: /research/
       <a href="{{site.research_1_3_1}}" target="_blank">{{site.research_1_3_1}}</a><br>
       <a href="{{site.research_1_3_2}}" target="_blank">{{site.research_1_3_2}}</a><br>
     </p>
-    <p><strong>
-      2. 系统应用方面工作：</strong><br>
+    <p>
+      <strong>2. 系统应用方面工作：</strong><br>
       无线植入式脑组织氧含量监测<br>
       <a href="{{site.research_2_1_1}}" target="_blank">{{site.research_2_1_1}}</a><br>
       <a href="{{site.research_2_1_2}}" target="_blank">{{site.research_2_1_2}}</a><br>

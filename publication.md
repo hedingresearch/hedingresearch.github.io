@@ -9,7 +9,7 @@ permalink: /publication/
     font-family: "Arial", sans-serif;
     color: #333;
     background-color: #f5f5f5;
-    line-height: 1.6;
+    line-height: 1.5;
   }
   .container {
     max-width: 900px;
@@ -25,6 +25,7 @@ permalink: /publication/
     color: #1e90ff;
   }
   .publication-item {
+    font-size: 15px;
     margin-bottom: 15px;
   }
   .publication-item a {
