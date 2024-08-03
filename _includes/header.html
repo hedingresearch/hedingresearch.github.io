@@ -98,22 +98,16 @@
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
+  var menuIcon = document.querySelector('.menu-icon');
+  var navigationMenu = document.getElementById('navigation-menu');
   function checkWidth() {
     if (window.innerWidth <= 768) {
-      const menuIcon = document.querySelector('.menu-icon');
-      const navigationMenu = document.getElementById('navigation-menu');
 
       navigationMenu.style.display = "none";
 
       menuIcon.addEventListener('click', function(event) {
         event.stopPropagation();
         navigationMenu.style.display = (navigationMenu.style.display === "none" || navigationMenu.style.display === "") ? "block" : "none";
-      });
-
-      // 点击菜单项时隐藏菜单
-      navigationMenu.addEventListener('click', function(event) {
-        event.stopPropagation();
-        navigationMenu.style.display = "none";
       });
 
       document.addEventListener('click', function() {
