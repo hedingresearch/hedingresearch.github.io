@@ -12,7 +12,7 @@ permalink: /people/
         background-color: #f4f4f4;
     }
     .container {
-        max-width: 900px;
+        max-width: 840px;
         margin: 0 auto;
     }
     .profile-container {
@@ -31,7 +31,7 @@ permalink: /people/
     .profile-container img {
         border-radius: 8px;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-        margin-right: 80px; /* 图片与文本内容之间的间距 */
+        margin-right: 70px; /* 图片与文本内容之间的间距 */
     }
     .profile-card {
         display: flex;
