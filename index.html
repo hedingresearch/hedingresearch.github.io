@@ -2,48 +2,162 @@
 layout: default
 ---
 
+<link rel="stylesheet" href="/css/swiper-bundle.min.css">
+<script src="/js/swiper-bundle.min.js"></script>
+
 <div class="home">
-  <div class="image-container">
-    {% include image.html url="/images/首页.png" width=420 height=300 align="right" %}
-  </div>
-
-  <div class="center-text">
-    <h1 class="welcome-title">欢迎访问北京理工大学<br />丁贺课题组网站！</h1>
-  </div>
-
-  <div class="center-text">
-    <p class="introduction-text">
+  <div class="content-wrapper">
+    <div class="text-content">
+      <h1 class="welcome-title">欢迎访问北京理工大学<br />丁贺课题组网站！</h1>
+      <p class="introduction-text">
       致力于光电信息技术与生命科学交叉领域的研究，旨在开发新的机制、设计和应用来解决当前植入式系统面临的挑战，作为脑科学领域中进行传感、调控和治疗的有效工具。
-    </p>
+      </p>
+    </div>
+
+    <div class="carousel-container">
+      <div class="swiper-container">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide"><img src="/images/variety/1.png" alt="Image 1"></div>
+          <div class="swiper-slide"><img src="/images/variety/2.png" alt="Image 2"></div>
+          <div class="swiper-slide"><img src="/images/variety/3.png" alt="Image 3"></div>
+          <div class="swiper-slide"><img src="/images/variety/4.png" alt="Image 4"></div>
+          <div class="swiper-slide"><img src="/images/variety/5.png" alt="Image 5"></div>
+          <div class="swiper-slide"><img src="/images/variety/6.png" alt="Image 6"></div>
+          <div class="swiper-slide"><img src="/images/variety/7.png" alt="Image 7"></div>
+          <!-- 可以添加更多的图片 -->
+        </div>
+        <!-- 添加分页器和导航按钮 -->
+        <div class="swiper-pagination"></div>
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+      </div>
+    </div>
   </div>
 </div>
 
 <style>
-  .home {
-    margin-top: 20px; /* 使顶部与其他内容保持间距 */
+.home {
+  margin-top: 20px; /* 使顶部与其他内容保持间距 */
+}
+
+.content-wrapper {
+  display: flex;
+  align-items: flex-start; /* 使内容对齐顶部 */
+  justify-content: space-between; /* 在主轴上分散对齐内容 */
+}
+
+.text-content {
+  flex: 1; /* 使文本内容容器占据主轴空间 */
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* 使文本内容在垂直方向上居中对齐 */
+  text-align: center;
+}
+
+.carousel-container  {
+  margin: 105px 0 0 50px;
+  max-width: 420px; /* 设置轮播图的最大宽度 */
+  flex: 1; /* 使轮播图容器占据主轴空间 */
+  position: relative;
+  border: 2px solid #000000; /* 添加边框，设置颜色和宽度 */
+  border-radius: 8px; /* 可选：设置圆角边框 */
+  overflow: hidden; /* 确保轮播图的内容不会超出边框 */
+}
+
+.swiper-container {
+  width: 100%;
+  height: 300px; /* 设置轮播图容器的高度 */
+  box-sizing: border-box; /* 包含边框在内的尺寸计算 */
+}
+
+.swiper-slide img {
+  width: 100%;
+  height: 100%; /* 使图片填满容器 */
+}
+
+.welcome-title {
+  margin-top: 80px;
+  font-size: 38px;
+  font-weight: bold;
+  letter-spacing: 3px;
+  line-height: 2;
+}
+
+.introduction-text {
+  font-size: 20px;
+  margin-top: 9px;
+  margin-bottom: 155px;
+}
+
+/* 自定义箭头按钮的颜色和背景 */
+.swiper-button-next,
+.swiper-button-prev {
+    color: #ffffff; /* 箭头颜色 */
+    background-color: rgba(0, 0, 0, 0.5); /* 半透明背景色 */
+    border-radius: 50%; /* 圆形背景 */
+    padding: 10px; /* 增加内边距 */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* 添加阴影效果 */  
+}
+
+/* 调整箭头图标的大小 */
+.swiper-button-next::after,
+.swiper-button-prev::after {
+    font-size: 48px; /* 调整箭头图标的大小 */
+}
+
+/* 鼠标悬停时的样式 */
+.swiper-button-next:hover,
+.swiper-button-prev:hover {
+    background-color: rgba(0, 0, 0, 0.8); /* 增加背景颜色的透明度 */
+    color: #ffcc00; /* 悬停时箭头颜色 */
+}
+
+/* 小于 768px 的屏幕（如手机） */
+@media (max-width: 768px) {
+  .content-wrapper {
+    flex-direction: column; /* 垂直排列 */
+    align-items: center; /* 居中对齐 */
   }
 
-  .image-container {
-    text-align: right; /* 确保图像右对齐 */
+  .text-content, .carousel-container {
+    width: 100%; /* 设置宽度为父容器的 100% */
+    margin: 0; /* 去掉外边距 */
   }
 
-  .welcome-title {
-    margin-top: 100px;
-    font-size: 38px;
-    font-weight: bold;
-    letter-spacing: 4px;
-    line-height: 2;
+  .swiper-container {
+    height: auto; /* 高度自适应 */
+  }
+}
+
+/* 768px 到 1024px 的屏幕（如平板电脑） */
+@media (min-width: 768px) and (max-width: 1024px) {
+  .text-content, .carousel-container {
+    width: 80%; /* 设置宽度为父容器的 80% */
   }
 
-  .introduction-text {
-    font-size: 20px;
-    margin-top: 30px;
-    margin-bottom: 20px;
+  .swiper-container {
+    height: auto; /* 高度自适应 */
   }
-
-  .center-text {
-    text-align: center;
-  }
-
-  
+}
 </style>
+
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function() {
+    var swiper = new Swiper('.swiper-container', {
+      loop: true, // 循环模式
+      autoplay: {
+        delay: 2500, // 自动切换时间间隔
+        disableOnInteraction: false, // 用户操作后是否禁用自动切换
+      },
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true, // 是否可以点击分页器切换
+      },
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+      effect: 'fade', // 切换效果
+    });
+  });
+</script>
