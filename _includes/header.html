@@ -1,17 +1,17 @@
 <header class="site-header">
   <div class="wrapper">
     <a class="site-title" href="{{ site.baseurl }}/">
-      <img src="/images/logo.png" alt="Site Logo" class="logo">
+      <img src="/images/logo.png" alt="站点logo" class="logo">
     </a>
     <nav class="site-nav">
-      <a class="menu-icon menu.open" aria-label="Toggle navigation" aria-expanded="false">
+      <a class="menu-icon" aria-label="切换导航" aria-expanded="false" aria-controls="navigation-menu">
         <svg viewBox="0 0 18 15">
           <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
           <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
           <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
         </svg>
       </a>  
-      <div class="trigger">
+      <div id="navigation-menu" class="trigger">
         {% include nav.html %}
       </div>
     </nav>
@@ -19,20 +19,27 @@
 </header>
 
 <style>
+:root {
+  --primary-color: #424242;
+  --border-color: #ddd;
+  --background-color: rgba(0, 0, 0, 0.8); /* 背景板颜色 */
+  --spacing: 10px;
+}
+
 .site-header {
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid var(--border-color);
 }
 
 .logo {
   width: 80px;
   height: auto;
-  padding-bottom: 10px;
+  padding-bottom: var(--spacing);
   margin-left: 40px;
 }
 
 .site-nav {
   display: flex;
-  align-items: center;
+  align-items: center; /* 垂直居中对齐 */
   flex-grow: 1;
   justify-content: space-between;
 }
@@ -40,6 +47,7 @@
 .menu-icon {
   display: none;
   cursor: pointer;
+  align-self: center; /* 确保菜单图标垂直居中 */
 }
 
 /* 针对小屏幕的样式 */
@@ -48,30 +56,56 @@
     display: block;
   }
 
+  .site-nav {
+    margin-top: 20px;
+  }
+
   .trigger {
     display: none; /* 默认不显示 */
     position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    background: rgba(0, 0, 0, 0.5); /* 半透明背景 */
-    z-index: 999; /* 确保在其他内容之上 */
+    top: 27px; /* 从顶部开始显示 */
+    left: 180px; /* 从左侧开始显示 */
+    width: 100vw; /* 占据整个视口宽度 */
+    height: 100vh; /* 占据整个视口高度 */
+
+    z-index: 1000; /* 确保在其他内容之上 */
     align-items: center;
     justify-content: center;
+    overflow-y: auto; /* 如果内容过多，允许滚动 */
   }
 
   .trigger.active {
     display: flex;
+  }
+
+  .trigger ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background: white; /* 设置菜单背景颜色 */
+    border-radius: 8px; /* 添加圆角效果 */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3); /* 添加阴影效果 */
+    padding: 20px;
+    width: 80%; /* 可以根据需要调整宽度 */
+    max-width: 200px; /* 限制最大宽度 */
+  }
+
+  .trigger ul li {
+    padding: 10px 0;
+  }
+
+  .trigger ul li a {
+    text-decoration: none;
+    color: var(--primary-color);
   }
 }
 </style>
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  var menuIcon = document.querySelector('.menu-icon');
-  var trigger = document.querySelector('.trigger');
-  var isExpanded = false;
+  const menuIcon = document.querySelector('.menu-icon');
+  const trigger = document.querySelector('.trigger');
+  let isExpanded = false;
 
   menuIcon.addEventListener('click', function(event) {
     event.stopPropagation(); // 阻止事件传播
@@ -80,7 +114,6 @@ document.addEventListener('DOMContentLoaded', function() {
     menuIcon.setAttribute('aria-expanded', isExpanded);
   });
 
-  // 关闭菜单时点击背景区域
   document.addEventListener('click', function(event) {
     if (isExpanded && !trigger.contains(event.target) && !menuIcon.contains(event.target)) {
       isExpanded = false;
