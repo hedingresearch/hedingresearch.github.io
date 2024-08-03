@@ -96,7 +96,9 @@ layout: default
     background-color: rgba(0, 0, 0, 0.5); /* 半透明背景色 */
     border-radius: 50%; /* 圆形背景 */
     padding: 10px; /* 增加内边距 */
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* 添加阴影效果 */  
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* 添加阴影效果 */
+    opacity: 0; /* 默认不可见 */
+    transition: opacity 0.3s ease; /* 添加过渡效果 */
 }
 
 /* 调整箭头图标的大小 */
@@ -110,6 +112,12 @@ layout: default
 .swiper-button-prev:hover {
     background-color: rgba(0, 0, 0, 0.8); /* 增加背景颜色的透明度 */
     color: #ffcc00; /* 悬停时箭头颜色 */
+}
+
+/* 确保在鼠标移开时箭头仍然可见 */
+.swiper-container:hover .swiper-button-next,
+.swiper-container:hover .swiper-button-prev {
+    opacity: 1; /* 悬停时箭头可见 */
 }
 
 /* 小于 768px 的屏幕（如手机） */
