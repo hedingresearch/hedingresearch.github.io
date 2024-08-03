@@ -73,10 +73,6 @@
     justify-content: center;
   }
 
-  .trigger.active {
-    display: flex;
-  }
-
   .trigger ul {
     list-style: none;
     margin: 0;
@@ -101,28 +97,40 @@
 </style>
 
 <script>
-  document.addEventListener("DOMContentLoaded", function() {
-    var menuIcon = document.querySelector('.menu-icon');
-    var navigationMenu = document.getElementById('navigation-menu');
+document.addEventListener("DOMContentLoaded", function() {
+  // 监听窗口大小变化
+  function checkWidth() {
+    if (window.innerWidth <= 768) {
+      const menuIcon = document.querySelector('.menu-icon');
+      const navigationMenu = document.getElementById('navigation-menu');
 
-    // 初始化时隐藏菜单
-    navigationMenu.style.display = "none";
+      // 初始化时隐藏菜单
+      navigationMenu.style.display = "none";
 
-    // 按钮点击事件
-    menuIcon.addEventListener('click', function(event) {
-      event.stopPropagation(); // 阻止事件冒泡
-      if (navigationMenu.style.display === "none" || navigationMenu.style.display === "") {
-        navigationMenu.style.display = "block";
-      } else {
-        navigationMenu.style.display = "none";
-      }
-    });
+      // 按钮点击事件
+      menuIcon.addEventListener('click', function(event) {
+        event.stopPropagation(); // 阻止事件冒泡
+        if (navigationMenu.style.display === "none" || navigationMenu.style.display === "") {
+          navigationMenu.style.display = "block";
+        } else {
+          navigationMenu.style.display = "none";
+        }
+      });
 
-    // 点击页面其他地方隐藏菜单
-    document.addEventListener('click', function() {
-      if (navigationMenu.style.display === "block") {
-        navigationMenu.style.display = "none";
-      }
-    });
-  });
+      // 点击页面其他地方隐藏菜单
+      document.addEventListener('click', function() {
+        if (navigationMenu.style.display === "block") {
+          navigationMenu.style.display = "none";
+        }
+      });
+    }
+  }
+
+  // 初始检查
+  checkWidth();
+
+  // 监听窗口大小变化
+  window.addEventListener('resize', checkWidth);
+});
 </script>
+
