@@ -113,11 +113,7 @@ permalink: /research/
       无线植入式脑组织氧含量监测<br>
       <a href="{{site.research_2_1_1}}" target="_blank">{{site.research_2_1_1}}</a><br>
       <a href="{{site.research_2_1_2}}" target="_blank">{{site.research_2_1_2}}</a><br>
-    </p>
-    <p>
-      智能光学治疗贴片<br>
-      <a href="{{site.research_2_2}}" target="_blank">{{site.research_2_2}}</a>
-
+   
        </p>
     <p>
       [压力传感系统](https://hedingresearch.github.io){:target="_blank"}
