@@ -120,8 +120,7 @@ permalink: /research/
 
        </p>
     <p>
-      压力传感系统
-      (https://hedingresearch.github.io){:target="_blank"}
+      [压力传感系统](https://hedingresearch.github.io){:target="_blank"}
      
     </p>
   </div>
