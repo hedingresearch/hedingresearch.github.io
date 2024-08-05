@@ -117,6 +117,10 @@ permalink: /research/
     <p>
       智能光学治疗贴片<br>
       <a href="{{site.research_2_2}}" target="_blank">{{site.research_2_2}}</a>
+
+      压力传感系统<br> 
+      <https://hedingresearch.github.io>{:target="_blank"}
+     
     </p>
   </div>
 </div>
