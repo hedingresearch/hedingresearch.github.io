@@ -87,7 +87,7 @@ permalink: /research/
       2. 面向生物医疗应用的植入式与可穿戴式传感微系统
     </strong></p>
     <div class="image-container">
-      {% include image.html url="/images/研究成果.jpg" width=500 align="center"%}
+      {% include image.html url="/images/研究成果.jpg" width=650 align="center"%}
     </div>
   </div>
 
