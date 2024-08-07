@@ -7,7 +7,7 @@ permalink: /contact/
 <style>
     .container {
         max-width: 1200px;
-        margin: 30px 0 65px 0;
+        margin: 30px 0 104px 0;
         padding: 10px;
     }
     .contact-info {

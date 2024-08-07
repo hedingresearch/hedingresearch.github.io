@@ -59,17 +59,17 @@ permalink: /people/
     h3 {
         margin-bottom: 0;
     }
-    ul {
+    .p_ul {
         list-style-type: none;
         padding: 0;
         margin: 0;
     }
-    ul li {
+    .p_ul .p_li {
         border-bottom: 0 solid #eee;
         color: #555;
         padding: 0;
     }
-    ul li:last-child {
+    .ul .p_li:last-child {
         border-bottom: none;
     }
 
@@ -106,24 +106,24 @@ permalink: /people/
     </div>
     <div class="content-container">
         <h2>在读学生</h2>
-        <ul>
-            <li>2023年，谢子灿，博士生</li>
-            <li>2023年，刘明珠，博士生</li>
-            <li>2022年，薛钊，硕士生</li>
-            <li>2023年，李佳昕，硕士生</li>
-            <li>2023年，任雪纯，硕士生</li>
-            <li>2023年，梁宵，硕士生</li>
+        <ul class="p_ul">
+            <li class="p_li">2023年，谢子灿，博士生</li>
+            <li class="p_li">2023年，刘明珠，博士生</li>
+            <li class="p_li">2022年，薛钊，硕士生</li>
+            <li class="p_li">2023年，李佳昕，硕士生</li>
+            <li class="p_li">2023年，任雪纯，硕士生</li>
+            <li class="p_li">2023年，梁宵，硕士生</li>
         </ul>
         <br>
         <h2>毕业学生</h2>
         <h3>硕士研究生</h3>
-        <ul>
-            <li>2024年，彭焰秀，江西洪都航空工业集团有限责任公司</li>
-            <li>2024年，童文斌，北京航天飞腾装备技术有限责任公司</li>
-            <li>2024年，陆映同，上海航天电子有限公司</li>
-            <li>2023年，张海舰，北京国望光学科技有限公司</li>
-            <li>2023年，成子怡，青岛海信</li>
-            <li>2022年，吕国庆，北京兴唐通信科技有限公司</li>
+        <ul class="p_ul">
+            <li class="p_li">2024年，彭焰秀，江西洪都航空工业集团有限责任公司</li>
+            <li class="p_li">2024年，童文斌，北京航天飞腾装备技术有限责任公司</li>
+            <li class="p_li">2024年，陆映同，上海航天电子有限公司</li>
+            <li class="p_li">2023年，张海舰，北京国望光学科技有限公司</li>
+            <li class="p_li">2023年，成子怡，青岛海信</li>
+            <li class="p_li">2022年，吕国庆，北京兴唐通信科技有限公司</li>
         </ul>
     </div>
 </div>
