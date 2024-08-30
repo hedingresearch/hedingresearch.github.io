@@ -83,7 +83,7 @@ permalink: /publication/
   </div>
 
   <div class="publication-item">
-    <p>8.	H. Zhang, Y. Peng, N. Zhang, J. Yang, Y. Wang, H. Ding*, <strong>“Emerging Optoelectronic Devices Based on Microscale LEDs and Their Use as Implantable Biomedical Applications”</strong>,<i>Micromachines<i> 13, 839 (2022). 
+    <p>8.	H. Zhang, Y. Peng, N. Zhang, J. Yang, Y. Wang, H. Ding*, <strong>“Emerging Optoelectronic Devices Based on Microscale LEDs and Their Use as Implantable Biomedical Applications”</strong>, <i>Micromachines<i> 13, 7 (2022). 
     <a href="/papers/2022/2022_Zhang et al._Emerging Optoelectronic Devices Based on Microscale LEDs and Their Use as Implantable Biomedical Applications.pdf" target="_blank">[pdf]</a></p>
   </div>
   
