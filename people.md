@@ -84,9 +84,6 @@ permalink: /people/
         .profile-card {
             align-items: center; /* 在小屏幕上居中内容 */
         }
-         .profile-card-left {
-            align-items: left; /* 在小屏幕上左对齐内容-更新202404830 */
-        }
     }
 </style>
 
@@ -96,7 +93,6 @@ permalink: /people/
         <div class="profile-card">
             <h1><strong>丁贺</strong></h1><br>
             <p>
-                <div class="profile-card-left">
                 长聘副教授，博士生导师<br>
                 优青，北京市科技新星<br>
                 北京理工大学，光电学院<br><br>
