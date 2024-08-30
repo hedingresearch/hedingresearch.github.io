@@ -77,6 +77,11 @@ permalink: /publication/
     <a href="/papers/2022/2022_Light Sci Appl_Ding et al._An Optoelectronic thermometer based on microscale infrared-to-visible conversion devices.pdf" target="_blank">[pdf]</a></p>
   </div>
 
+    <div class="publication-item">
+    <p>H. Zhang, Y. Peng, N. Zhang, J. Yang, Y. Wang, H. Ding*, <strong>“Emerging Optoelectronic Devices Based on Microscale LEDs and Their Use as Implantable Biomedical Applications”</strong>,<i>Micromachines</i> 13, 7 (2022). 
+    <a href="/papers/2022/2022_Zhang et al._Emerging Optoelectronic Devices Based on Microscale LEDs and Their Use as Implantable Biomedical Applications.pdf" target="_blank">[pdf]</a></p>
+  </div>
+
   <div class="publication-item">
     <p>L. Li<sup>#</sup>, L. Lu<sup>#</sup>, Y. Ren<sup>#</sup>, G. Tang<sup>#</sup>, Y. Zhao, X. Cai, Z. Shi, H. Ding, C. Liu, D. Cheng, Y. Xie, H. Wang, X. Fu, L. Yin, M. Luo*, X. Sheng*, <strong>“Colocalized, Bidirectional Optogenetic Modulations in Freely Behaving Mice with a Wireless Dual-Color Optoelectronic Probe”</strong>, <i>Nature Communications</i> 13, 839 (2022). 
     <a href="/papers/2022/2022_1.pdf" target="_blank">[pdf]</a></p>
