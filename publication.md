@@ -66,7 +66,7 @@ permalink: /publication/
   </div>
   
    <div class="publication-item">
-    <p>6.	H. Ding*, Y. Peng, G. Lv, Y. Xie, J. Chen, Z. Shi, Y. Deng, L. Yin, J. Yang, Y. Wang, X. Sheng*, <strong>“Heterogeneous Integration of Thin-Film Organic and Inorganic Devices for Optical Based Bioelectrical and Chemical Sensing”</strong>, <i>IEEE Journal of Selected Topics in Quantum Electronics</i>29, 1-20 (2022). 
+    <p>6.	H. Ding*, Y. Peng, G. Lv, Y. Xie, J. Chen, Z. Shi, Y. Deng, L. Yin, J. Yang, Y. Wang, X. Sheng*, <strong>“Heterogeneous Integration of Thin-Film Organic and Inorganic Devices for Optical Based Bioelectrical and Chemical Sensing”</strong>, <i>IEEE Journal of Selected Topics in Quantum Electronics</i>29, 5200107 (2023). 
     <a href="/papers/2023/2023_Ding et al._Heterogeneous Integration of Thin-Film Organic and Inorganic Devices for Optical Based Bioelectrical and Chemical Sensing.pdf" target="_blank">[pdf]</a></p>
   </div>
   
