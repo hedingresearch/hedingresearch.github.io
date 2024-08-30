@@ -87,7 +87,6 @@ permalink: /publication/
     <a href="/papers/2022/2022_1.pdf" target="_blank">[pdf]</a></p>
   </div>
 
- 
   <div class="publication-year">2021</div>
   <div class="publication-item">
     <p>L. Li, G. Tang, Z. Shi, H. Ding, C. Liu, D. Cheng, Q. Zhang, L. Yin, Z. Yao, L. Duan, D. Zhang, C. Wang, M. Feng, Q. Sun, Q. Wang, Y. Han, L. Wang, Y. Luo, X. Sheng*, <strong>“Transfer-Printed, Tandem Microscale Light-Emitting Diodes for Full-Color Displays”</strong>, <i>Proceedings of the National Academy of Sciences USA</i> 118, e2023436118 (2021). 
