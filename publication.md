@@ -64,14 +64,19 @@ permalink: /publication/
     <p>J. Chen, H. Ding*, and X. Sheng*. <strong>“Advanced manufacturing of microscale light-emitting diodes and their use in displays and biomedicine”</strong>, <i>Journal of Information Display</i>, 1-12 (2023). 
     <a href="/papers/2023/2023_2.pdf" target="_blank">[pdf]</a></p>
   </div>
+  
+   <div class="publication-item">
+    <p>6.	H. Ding*, Y. Peng, G. Lv, Y. Xie, J. Chen, Z. Shi, Y. Deng, L. Yin, J. Yang, Y. Wang, X. Sheng*, <strong>“Heterogeneous Integration of Thin-Film Organic and Inorganic Devices for Optical Based Bioelectrical and Chemical Sensing”</strong>, <i>IEEE Journal of Selected Topics in Quantum Electronics</i>29, 1-20 (2022). 
+    <a href="/papers/2023/2023_Ding et al._Heterogeneous Integration of Thin-Film Organic and Inorganic Devices for Optical Based Bioelectrical and Chemical Sensing.pdf" target="_blank">[pdf]</a></p>
+  </div>
+  
 
   <div class="publication-year">2022</div>
-   
-    <div class="publication-item">
+  <div class="publication-item">
     <p>H. Ding*, G. Lv, X. Cai, J. Chen, Z. Cheng, Y. Peng, G. Tang, Z. Shi, Y. Xie, X. Fu, L. Yin, J. Yang, Y. Wang, X. Sheng*, <strong>“An Optoelectronic Thermometer based on Microscale Infrared-to-Visible Conversion Devices”</strong>, <i>Light: Science & Applications</i> 11, 130 (2022). 
     <a href="/papers/2022/2022_Light Sci Appl_Ding et al._An Optoelectronic thermometer based on microscale infrared-to-visible conversion devices.pdf" target="_blank">[pdf]</a></p>
   </div>
-  
+
   <div class="publication-item">
     <p>L. Li<sup>#</sup>, L. Lu<sup>#</sup>, Y. Ren<sup>#</sup>, G. Tang<sup>#</sup>, Y. Zhao, X. Cai, Z. Shi, H. Ding, C. Liu, D. Cheng, Y. Xie, H. Wang, X. Fu, L. Yin, M. Luo*, X. Sheng*, <strong>“Colocalized, Bidirectional Optogenetic Modulations in Freely Behaving Mice with a Wireless Dual-Color Optoelectronic Probe”</strong>, <i>Nature Communications</i> 13, 839 (2022). 
     <a href="/papers/2022/2022_1.pdf" target="_blank">[pdf]</a></p>
