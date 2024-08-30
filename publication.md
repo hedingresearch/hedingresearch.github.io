@@ -66,6 +66,12 @@ permalink: /publication/
   </div>
 
   <div class="publication-year">2022</div>
+   
+    <div class="publication-item">
+    <p>H. Ding*, G. Lv, X. Cai, J. Chen, Z. Cheng, Y. Peng, G. Tang, Z. Shi, Y. Xie, X. Fu, L. Yin, J. Yang, Y. Wang, X. Sheng*, <strong>“An Optoelectronic Thermometer based on Microscale Infrared-to-Visible Conversion Devices”</strong>, <i>Light: Science & Applications</i> 11, 130 (2022). 
+    <a href="/papers/2022/2022_Light Sci Appl_Ding et al._An Optoelectronic thermometer based on microscale infrared-to-visible conversion devices.pdf" target="_blank">[pdf]</a></p>
+  </div>
+  
   <div class="publication-item">
     <p>L. Li<sup>#</sup>, L. Lu<sup>#</sup>, Y. Ren<sup>#</sup>, G. Tang<sup>#</sup>, Y. Zhao, X. Cai, Z. Shi, H. Ding, C. Liu, D. Cheng, Y. Xie, H. Wang, X. Fu, L. Yin, M. Luo*, X. Sheng*, <strong>“Colocalized, Bidirectional Optogenetic Modulations in Freely Behaving Mice with a Wireless Dual-Color Optoelectronic Probe”</strong>, <i>Nature Communications</i> 13, 839 (2022). 
     <a href="/papers/2022/2022_1.pdf" target="_blank">[pdf]</a></p>
