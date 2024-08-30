@@ -38,7 +38,7 @@ permalink: /people/
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        text-align: center; /* 文本居中对齐 */
+        text-align: left; /* 文本居中对齐 */
     }
     .profile-card h1 {
         margin: 0;
