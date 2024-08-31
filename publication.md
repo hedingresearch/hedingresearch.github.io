@@ -11,6 +11,7 @@ permalink: /publication/
     background-color: #f5f5f5;
     line-height: 1.5;
   }
+
   .container {
     max-width: 1200px;
     margin: 20px auto;
@@ -20,20 +21,24 @@ permalink: /publication/
     border-radius: 8px;
     position: relative;
   }
+
   .text-container {
     width: 100%; /* 让文字容器保持原有宽度 */
   }
+
   .image-container {
     position: absolute;
     top: 0;
-    right: -220px; /* 将图片容器放置在文字容器的右侧 */
+    right: -210px; /* 将图片容器放置在文字容器的右侧 */
     width: 200px; /* 设置图片容器的宽度 */
-    padding: 7px 7px 0 7px;
-    background-color: #f0f0f0;
-    border: 1px solid #ddd;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-    border-radius: 8px;
+    background-color: #f5f5f5;
   }
+
+  .pub-images {
+    margin-bottom: 15px;
+    border: 1.5px solid black;
+  }
+  
   .publication-year {
     font-size: 20px;
     font-weight: bold;
@@ -180,8 +185,8 @@ permalink: /publication/
   </div>
   
   <div class="image-container">
-    <img src="/images/publication/Nature Photonics.png" style="margin-bottom: 8px">
-    <img src="/images/publication/Biosensors and Bioelectronics.jpg" style="margin-bottom: 8px">
-    <img src="/images/publication/Light Science & Applications.jpg" style="margin-bottom: 8px">
+    <img class="pub-images" src="/images/publication/Nature Photonics.png">
+    <img class="pub-images" src="/images/publication/Biosensors and Bioelectronics.jpg">
+    <img class="pub-images" src="/images/publication/Light Science & Applications.jpg">
   </div>
 </div>
