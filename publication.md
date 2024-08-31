@@ -185,8 +185,8 @@ permalink: /publication/
   </div>
   
   <div class="image-container">
-    <img class="pub-images" src="/images/publication/Nature Photonics.png">
-    <img class="pub-images" src="/images/publication/Biosensors and Bioelectronics.jpg">
-    <img class="pub-images" src="/images/publication/Light Science & Applications.jpg">
+    <img class="pub-images" src="/papers/Cover/2018_AdvOptMater.jpg">
+    <img class="pub-images" src="/papers/Cover/2019_WileyBook.jpg">
+
   </div>
 </div>
