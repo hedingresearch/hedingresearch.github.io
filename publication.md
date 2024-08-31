@@ -185,8 +185,13 @@ permalink: /publication/
   </div>
   
   <div class="image-container">
-    <img class="pub-images" src="/papers/Cover/2018_AdvOptMater.jpg">
+    <img class="pub-images" src="/papers/Cover/2024_Nature_Photonics.png"> 
+    <img class="pub-images" src="/papers/Cover/2024_ZKJJ.jpg"> 
+    <img class="pub-images" src="/papers/Cover/2024_JSTQE.jpg"> 
+    <img class="pub-images" src="/papers/Cover/2023_CJL.jpg"> 
+    <img class="pub-images" src="/papers/Cover/2023_AdvOptMater.jpg"> 
+    <img class="pub-images" src="/papers/Cover/2021_NanoResearch.jpg">
     <img class="pub-images" src="/papers/Cover/2019_WileyBook.jpg">
-
+    <img class="pub-images" src="/papers/Cover/2018_AdvOptMater.jpg">  
   </div>
 </div>
