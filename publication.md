@@ -43,6 +43,24 @@ permalink: /publication/
     font-size: 15px;
     margin-bottom: 15px;
   }
+
+    /* 响应式布局 */
+  @media (max-width: 768px) {
+    .container {
+      padding: 20px 20px;
+    }
+    .image-container {
+      position: static;
+      margin-top: 20px;
+      width: 100%;
+      text-align: center;
+    }
+    .image-container img {
+      width: 100%;
+      height: auto;
+      margin-bottom: 8px;
+    }
+  }
 </style>
 
 <div class="container">
