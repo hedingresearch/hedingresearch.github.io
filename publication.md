@@ -74,7 +74,7 @@ permalink: /publication/
     <div class="publication-year">2024</div>
     
     <div class="publication-item">
-        <p>J. Li, Y. Xu, H. Ding*, Y. Wang, J. Yang*, <strong>“Advances in optical recording techniques for non-invasive monitoring of electrophysiological signals”</strong>, <i>Journal of Physics D: Applied Physics</i> 261, 116467 (2024). 
+        <p>J. Li, H. Ding*, Y. Wang, J. Yang*, <strong>“Advances in optical recording techniques for non-invasive monitoring of electrophysiological signals”</strong>, <i>Journal of Physics D: Applied Physics</i> 261, 116467 (2024). 
       <a href="/papers/2024/2024_J. Phys. D Appl. Phys._Li et al._Advances in optical recording techniques for non-invasive monitoring of electrophysiological signals.pdf" target="_blank">[pdf]</a></p>
         </div>
        
