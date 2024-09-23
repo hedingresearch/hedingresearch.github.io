@@ -71,15 +71,17 @@ permalink: /publication/
 <div class="container">
   <div class="text-container">
     <div class="publication-year">2024</div>
+    
     <div class="publication-item">
-      
-<p>J. Li, Y. Xu, H. Ding*, Y. Wang, J. Yang*, <strong>“Advances in optical recording techniques for non-invasive monitoring of electrophysiological signals”</strong>, <i>Journal of Physics D: Applied Physics</i> 261, 116467 (2024). 
+        <p>J. Li, Y. Xu, H. Ding*, Y. Wang, J. Yang*, <strong>“Advances in optical recording techniques for non-invasive monitoring of electrophysiological signals”</strong>, <i>Journal of Physics D: Applied Physics</i> 261, 116467 (2024). 
       <a href="/papers/2024/2024_J. Phys. D Appl. Phys._Li et al._Advances in optical recording techniques for non-invasive monitoring of electrophysiological signals.pdf" target="_blank">[pdf]</a></p>
         </div>
-        
+   
+    <div class="publication-item">    
       <p>Z. Xue<sup>#</sup>, W. Chou<sup>#</sup>, Y. Xu, Z. Cheng, X. Ren, T. Sun, W. Tong, Y. Xie, J. Chen, N. Zhang, X. Sheng, Y. Wang, H. Zhao*, J. Yang*, H. Ding*, <strong>“Battery-free optoelectronic patch for photodynamic and light therapies in treating bacteria-infected wounds”</strong>, <i>Biosensors and Bioelectronics</i> 261, 116467 (2024). 
       <a href="/papers/2024/2024_1.pdf" target="_blank">[pdf]</a></p>
     </div>
+   
     <div class="publication-item">
       <p>X. Cai<sup>#</sup>, H. Zhang<sup>#</sup>, P. Wei<sup>#</sup>, Q. Liu<sup>#</sup>, D. Sheng, Z. Li, B. Zhang, G. Tang, W. Zhao, Z. Ye, Z. Xue, Y. Xie, Y. Dai, C. Wang, Y. Wang, X. Fu, L. Yin, H. Peng, H. Ding*, G. Zhao*, X. Sheng*, <strong>“A wireless optoelectronic probe to monitor oxygenation in deep brain tissue”</strong>, <i>Nature Photonics</i> 18, 492–500 (2024) (Front cover). 
       <a href="/papers/2024/2024_2.pdf" target="_blank">[pdf]</a></p>
