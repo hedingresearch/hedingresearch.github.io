@@ -72,6 +72,12 @@ permalink: /publication/
   <div class="text-container">
     <div class="publication-year">2024</div>
     <div class="publication-item">
+      
+<p>J. Li, Y. Xu, H. Ding*, , Y. Wang, J. Yang*, <strong>“Battery-free optoelectronic patch for photodynamic and light therapies in treating bacteria-infected wounds”</strong>, <i>Biosensors and Bioelectronics</i> 261, 116467 (2024). 
+      <a href="/papers/2024/2024_J. Phys. D Appl. Phys._Li et al._Advances in optical recording techniques for non-invasive monitoring of electrophysiological signals.pdf" target="_blank">[pdf]</a></p>
+        </div>
+        
+        <div class="publication-item">
       <p>Z. Xue<sup>#</sup>, W. Chou<sup>#</sup>, Y. Xu, Z. Cheng, X. Ren, T. Sun, W. Tong, Y. Xie, J. Chen, N. Zhang, X. Sheng, Y. Wang, H. Zhao*, J. Yang*, H. Ding*, <strong>“Battery-free optoelectronic patch for photodynamic and light therapies in treating bacteria-infected wounds”</strong>, <i>Biosensors and Bioelectronics</i> 261, 116467 (2024). 
       <a href="/papers/2024/2024_1.pdf" target="_blank">[pdf]</a></p>
     </div>
