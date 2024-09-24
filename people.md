@@ -113,6 +113,8 @@ permalink: /people/
             <li class="p_li">2023年，李佳昕，硕士生</li>
             <li class="p_li">2023年，任雪纯，硕士生</li>
             <li class="p_li">2023年，梁宵，硕士生</li>
+            <li class="p_li">2024年，陶前程，硕士生</li>
+            <li class="p_li">2024年，杨卓凡，硕士生</li>
         </ul>
         <br>
         <h2>毕业学生</h2>
