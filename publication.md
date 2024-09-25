@@ -175,7 +175,7 @@ permalink: /publication/
       <a href="/papers/2017&before/2017&before_1.pdf" target="_blank">[pdf]</a></p>
     </div>
     <div class="publication-item">
-      <p>H. Ding, L. Yang, H. Peng, X*. Wang, F. You, L. Hou, <strong>“Intracellular Temperature Imaging in Gold Nanorod-Assisted Photothermal Therapy with Luminescent Eu (III) Chelate Nanoparticles”</strong>, <i>Journal of Nanoscience and Nanotechnology</i> 16, 3877-3882 (2016). 
+      <p>H. Ding, L. Yang, H. Peng*, X. Wang, F. You, L. Hou, <strong>“Intracellular Temperature Imaging in Gold Nanorod-Assisted Photothermal Therapy with Luminescent Eu (III) Chelate Nanoparticles”</strong>, <i>Journal of Nanoscience and Nanotechnology</i> 16, 3877-3882 (2016). 
       <a href="/papers/2017&before/2017&before_2.pdf" target="_blank">[pdf]</a></p>
     </div>
     <div class="publication-item">
