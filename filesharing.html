@@ -1,51 +1,60 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>登录页面</title>
-</head>
-<body>
-  <div>
-    <label for="username">用户名:</label>
-    <input type="text" placeholder="请输入用户名..." id="username">
-    <label for="passwd">密码:</label>
-    <input type="password" placeholder="请输入密码..." id="passwd">
-    <input type="button" value="登录" onclick="login()">
-    <input type="button" value="清除" onclick="doClear()">
-  </div>
-  <script type="text/javascript">
-    // 示例账户信息（仅供演示，实际应用中应从服务器获取）
-    const accountAll = [
-      { username: 'user1', passwd: 'password1' },
-      { username: 'user2', passwd: 'password2' }
-    ];
-
-    function login() {
-      const username = document.getElementById('username').value.trim();
-      const passwd = document.getElementById('passwd').value.trim();
-
-      if (!username || !passwd) {
-        alert('请输入用户名和密码');
-        return;
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title></title>
+  </head>
+  <body>
+   
+    <div>
+      <span>用户名:</span>
+      <input type="text" placeholder="请输入用户名..." id="username">
+      <span>密码:</span>
+      <input type="password" placeholder="请输入用户名..." id="passwd">
+      <input type="button" value="登录" onclick="login()">
+      <input type="button" id="btnClear" value="清除" onclick="doClear()" />
+    </div>
+    <script type="text/javascript">
+      let accountAll = [{ // 存储账户json数据的数组
+          username: 1,
+          passwd: 'q'
+        },
+        {
+          username: 456,
+          passwd: 'asd'
+        }
+      ]
+      function login() { //登陆判断
+        let username = document.getElementById('username').value;
+        let passwd = document.getElementById('passwd').value;
+        let account = accountAll.filter(function(e) {
+          return e.username == username
+        })[0]; // 筛选账号返回数组，不存在则返回空数组
+        if (!account) {
+          alert('账户不存在');
+        } else {
+          if (account.username == username && account.passwd == passwd) {
+            alert('登陆成功');    
+            window.location.href = "http://www.baidu.com/";
+          } else {
+            alert('密码错误');
+          }
+        }
       }
-
-      const account = accountAll.find(acc => acc.username === username);
-
-      if (!account) {
-        alert('账户不存在');
-      } else if (account.passwd === passwd) {
-        alert('登录成功');
-        window.location.replace("http://www.baidu.com/");
-      } else {
-        alert('密码错误');
+      function doClear() { //获取页面所有的input框，是text和password框，内容=空串
+        let inputs = document.getElementsByTagName("input");
+        for (let i = 0; i < inputs.length; i++) {
+          if (inputs[i].type == 'text' || inputs[i].type == 'password') {
+            inputs[i].value = '';
+          }
+        }
       }
-    }
-
-    function doClear() {
-      document.getElementById('username').value = '';
-      document.getElementById('passwd').value = '';
-    }
-  </script>
-</body>
+      //给清除按钮增加onclick事件
+      let btnClear = document.getElementById('btnClear');
+      btnClear.addEventListener('click', function() {
+        doClear();
+      });
+    </script>
+  </body>
 </html>
