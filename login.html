@@ -3,14 +3,13 @@ layout: page
 title: 
 permalink: /login/
 ---
+
 <html>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title></title>    
-  </head>
- 
-  <style>
+    <style>
       /* Center the login form without affecting other elements */
       body {
         font-family: Arial, sans-serif;
@@ -66,40 +65,47 @@ permalink: /login/
         background-color: #0056b3;
       }
     </style>
-  
+  </head>
   <body>
-    <div>
-      <span>用户名:</span>
-      <input type="text" placeholder="请输入用户名..." id="username">
-      <span>密码:</span>
-      <input type="password" placeholder="请输入用户名..." id="passwd">
-      <input type="button" value="登录" onclick="login()">
-      <input type="button" id="btnClear" value="清除" onclick="doClear()" />
+    <!-- Login form container, centered using flexbox -->
+    <div class="login-container">
+      <div class="login-form">
+        <span>用户名:</span>
+        <input type="text" placeholder="请输入用户名..." id="username">
+        <br>
+        <span>密码:</span>
+        <input type="password" placeholder="请输入密码..." id="passwd">
+        <br>
+        <input type="button" value="登录" onclick="login()">
+        <input type="button" id="btnClear" value="清除" onclick="doClear()">
+      </div>
     </div>
+
     <script type="text/javascript">
       let accountAll = [{ // 存储账户json数据的数组
-          username: heding,
-          passwd: 'bit'
-        }
-      ]
-      function login() { //登陆判断
+        username: 'heding',
+        passwd: 'bit'
+      }];
+
+      function login() { // 登录判断
         let username = document.getElementById('username').value;
         let passwd = document.getElementById('passwd').value;
         let account = accountAll.filter(function(e) {
-          return e.username == username
+          return e.username == username;
         })[0]; // 筛选账号返回数组，不存在则返回空数组
+        
         if (!account) {
           alert('账户不存在');
         } else {
           if (account.username == username && account.passwd == passwd) {
-            window.location.href="https://hedingresearch.github.io/fileshare/";
-
+            window.location.href = "https://hedingresearch.github.io/fileshare/";
           } else {
             alert('密码错误');
           }
         }
       }
-      function doClear() { //获取页面所有的input框，是text和password框，内容=空串
+
+      function doClear() { // 获取页面所有的input框，清空内容
         let inputs = document.getElementsByTagName("input");
         for (let i = 0; i < inputs.length; i++) {
           if (inputs[i].type == 'text' || inputs[i].type == 'password') {
@@ -107,12 +113,12 @@ permalink: /login/
           }
         }
       }
-      //给清除按钮增加onclick事件
+
+      // 给清除按钮增加onclick事件
       let btnClear = document.getElementById('btnClear');
       btnClear.addEventListener('click', function() {
         doClear();
       });
     </script>
   </body>
-  
 </html>
