@@ -4,18 +4,78 @@ title: 文档
 permalink: /fileshare/
 ---
 
-Tell us about your blog. Hopefully it's cool.
+<style>
+  body {
+    font-family: "Arial", sans-serif;
+    color: #333;
+    background-color: #f5f5f5;
+    line-height: 1.5;
+  }
 
-<ul class="listing">
-{% for post in site.posts %}
-  {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
-  {% if year != y %}
-    {% assign year = y %}
-    <li class="listing-seperator">{{ y }}</li>
-  {% endif %}
-  <li class="listing-item">
-    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-    <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-  </li>
-{% endfor %}
-</ul>
+  .container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px 40px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    position: relative;
+  }
+
+  .text-container {
+    width: 100%; /* 让文字容器保持原有宽度 */
+  }
+
+  .image-container {
+    position: absolute;
+    top: 0;
+    right: -210px; /* 将图片容器放置在文字容器的右侧 */
+    width: 200px; /* 设置图片容器的宽度 */
+    background-color: #f5f5f5;
+  }
+
+  .pub-images {
+    margin-bottom: 15px;
+    border: 1.5px solid black;
+  }
+  
+  .publication-year {
+    font-size: 20px;
+    font-weight: bold;
+    color: #1e90ff;
+  }
+  .publication-item {
+    font-size: 15px;
+    margin-bottom: 15px;
+  }
+
+    /* 响应式布局 */
+  @media (max-width: 768px) {
+    .container {
+      padding: 20px 20px;
+    }
+    .image-container {
+      position: static;
+      margin-top: 20px;
+      width: 100%;
+      text-align: center;
+    }
+    .image-container img {
+      width: 100%;
+      height: auto;
+      margin-bottom: 8px;
+    }
+  }
+</style>
+
+<div class="container">
+  <div class="text-container">
+   
+    <div class="publication-year">1-204A 实验手册</div>
+    
+    <div class="publication-item">
+        <p> 设备培训申请. 
+      <a href="files/Lab_manual/1-204 设备考核人员和耗材分工情况汇总（Updata2024.11.12）.pdf" target="_blank">[pdf]</a></p>
+        </div>
+    
+  </div>
