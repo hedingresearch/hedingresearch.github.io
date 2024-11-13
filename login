@@ -38,7 +38,8 @@
           alert('账户不存在');
         } else {
           if (account.username == username && account.passwd == passwd) {
-            alert('登陆成功');
+            window.location.href="https://hedingresearch.github.io/fileshare/";
+
           } else {
             alert('密码错误');
           }
