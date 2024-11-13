@@ -74,8 +74,8 @@ permalink: /fileshare/
     <div class="publication-year">1-204A 实验手册</div>
     
     <div class="publication-item">
-        <p> 设备培训申请. 
-      <a href="files/Lab_manual/1-204_设备考核人员和耗材分工情况汇总_Update20241112.pdf" target="_blank">[pdf]</a></p>
+        <p> 设备培训申请和手册说明 
+      <a href="/files/Lab_manual/1-204_设备考核人员和耗材分工情况汇总_Update20241112.pdf" target="_blank">[pdf]</a></p>
         </div>
     
   </div>
