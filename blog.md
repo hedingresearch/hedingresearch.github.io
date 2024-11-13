@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-permalink: /blog/
+title: 文档
+permalink: /fileshare/
 ---
 
 Tell us about your blog. Hopefully it's cool.
