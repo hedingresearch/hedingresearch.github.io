@@ -9,6 +9,64 @@ permalink: /login/
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title></title>    
   </head>
+ 
+  <style>
+      /* Center the login form without affecting other elements */
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        background-color: #f4f4f9; /* Optional: for a light background */
+      }
+
+      /* Center the div containing the login form */
+      .login-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh; /* Full viewport height */
+      }
+
+      .login-form {
+        text-align: center;
+        padding: 20px;
+        border-radius: 10px;
+        background-color: white;
+        width: 300px; /* Fixed width for the form */
+      }
+
+      /* Increased font size for labels */
+      .login-form span {
+        font-size: 20px;
+      }
+
+      /* Input fields styling */
+      .login-form input[type="text"], .login-form input[type="password"] {
+        font-size: 18px; /* Increased font size */
+        padding: 10px;
+        margin: 10px 0;
+        width: 100%;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+      }
+
+      /* Button styling */
+      .login-form input[type="button"] {
+        font-size: 18px; /* Increased font size */
+        padding: 10px;
+        margin: 10px 5px;
+        width: 48%;
+        cursor: pointer;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+        background-color: #007bff;
+        color: white;
+      }
+
+      .login-form input[type="button"]:hover {
+        background-color: #0056b3;
+      }
+    </style>
+  
   <body>
     <div>
       <span>用户名:</span>
@@ -56,48 +114,5 @@ permalink: /login/
       });
     </script>
   </body>
-
-    <style>
-      /* Simple CSS for centering and increasing font size */
-      body {
-        font-family: Arial, sans-serif;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-        margin: 0;
-        background-color: #f4f4f9; /* Optional: for a light background */
-      }
-
-      div {
-        text-align: center;
-        padding: 20px;
-        border-radius: 10px;
-      }
-
-      span {
-        font-size: 20px;  /* Increased font size */
-      }
-
-      input[type="text"], input[type="password"] {
-        font-size: 18px;  /* Increased font size */
-        padding: 10px;
-        margin: 10px 0;
-        width: 250px;
-        border-radius: 5px;
-        border: 1px solid #ccc;
-      }
-
-      input[type="button"] {
-        font-size: 18px;  /* Increased font size */
-        padding: 10px;
-        margin: 10px 5px;
-        width: 120px;
-        cursor: pointer;
-        border-radius: 5px;
-        border: 1px solid #ccc;
-      }
-
-    </style>
   
 </html>
