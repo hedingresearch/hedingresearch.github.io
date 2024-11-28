@@ -70,12 +70,18 @@ permalink: /fileshare/
 
 <div class="container">
   <div class="text-container">
-   
-    <div class="publication-year">1-204A 实验手册</div>
+       <div class="publication-year">1-204A 实验手册</div>
     
     <div class="publication-item">
         <p> 设备培训申请和手册说明 
       <a href="/files/Lab_manual/1-204_设备考核人员和耗材分工情况汇总_Update20241112.pdf" target="_blank">[pdf]</a></p>
+        </div>
+
+       <div class="publication-year">1-204A 科研资料工具</div>
+    
+    <div class="publication-item">
+        <p> 研之成理 
+      <a href="/files/科研工具资料/研之成理.pdf" target="_blank">[pdf]</a></p>
         </div>
     
   </div>
