@@ -80,13 +80,13 @@ permalink: /fileshare/
         <p> 1-204A实验仪器使用说明，光刻机，台阶仪，显微镜等
       <a href="/files/Lab_manual/1-204/微纳加工-实验仪器使用说明——李佳昕.pdf" target="_blank">[pdf]</a></p>
       
-        </div>
+     
 
        <div class="publication-year"> 科研资料工具</div>
     
         <div class="publication-item">
         <p> 研之成理 
       <a href="/files/科研工具资料/研之成理.pdf" target="_blank">[pdf]</a></p>
-        </div>
+     
     
   </div>
