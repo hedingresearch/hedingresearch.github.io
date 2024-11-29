@@ -99,5 +99,6 @@ permalink: /fileshare/
         <div class="publication-item">
         <p> 
         <p> 研之成理 <a href="/files/科研工具资料/研之成理.pdf" target="_blank">[pdf]</a></p>
+        <p> editGPT <a href="https://editgpt.app/" target="_blank">[link]</a></p>
 
 
