@@ -75,11 +75,9 @@ permalink: /fileshare/
     
     <div class="publication-item">
        <p>
-       <p> 设备培训申请和手册说明 
-      <a href="/files/Lab_manual/1-204/1-204_设备考核人员和耗材分工情况汇总_Update20241112.pdf" target="_blank">[pdf]</a>
+       <p> 设备培训申请和手册说明 <a href="/files/Lab_manual/1-204/1-204_设备考核人员和耗材分工情况汇总_Update20241112.pdf" target="_blank">[pdf]</a>
         
-        <p> 1-204A实验仪器使用说明，光刻机，台阶仪，显微镜等
-      <a href="/files/Lab_manual/1-204/微纳加工-实验仪器使用说明——李佳昕.pdf" target="_blank">[pdf]</a></p>
+        <p> 1-204A实验仪器使用说明，光刻机，台阶仪，显微镜等 <a href="/files/Lab_manual/1-204/微纳加工-实验仪器使用说明——李佳昕.pdf" target="_blank">[pdf]</a></p>
       
       <p> 实验平台预约
        <a href="/files/Lab_manual/Tsinghua/仪器预约地址.md" target="_blank">[link]</a></p>
@@ -90,8 +88,7 @@ permalink: /fileshare/
         
         <div class="publication-item">
         <p> 
-        <p> Tsinghua ShengXing Group
-      <a href="https://cloud.tsinghua.edu.cn/d/def1111c14e548da9199/" target="_blank">[link]</a></p>
+        <p> Tsinghua ShengXing Group <a href="https://cloud.tsinghua.edu.cn/d/def1111c14e548da9199/" target="_blank">[link]</a></p>
  
      
        <div class="publication-year"> 科研资料工具</div>
