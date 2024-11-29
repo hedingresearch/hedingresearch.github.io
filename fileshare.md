@@ -85,8 +85,8 @@ permalink: /fileshare/
        <div class="publication-year"> 科研资料工具</div>
     
         <div class="publication-item">
+        <p> 
         <p> 研之成理 
-         <p>
       <a href="/files/科研工具资料/研之成理.pdf" target="_blank">[pdf]</a></p>
      
     
