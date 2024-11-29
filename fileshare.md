@@ -81,6 +81,9 @@ permalink: /fileshare/
         <p> 1-204A实验仪器使用说明，光刻机，台阶仪，显微镜等
       <a href="/files/Lab_manual/1-204/微纳加工-实验仪器使用说明——李佳昕.pdf" target="_blank">[pdf]</a></p>
       
+      <p> 实验平台预约
+       <a href="/files/Lab_manual/Tsinghua/清华仪器预约.md" target="_blank">[link]</a></p>
+
      
        <div class="publication-year"> 科研资料工具</div>
     
