@@ -98,7 +98,6 @@ permalink: /fileshare/
     
         <div class="publication-item">
         <p> 
-        <p> 研之成理 
-      <a href="/files/科研工具资料/研之成理.pdf" target="_blank">[pdf]</a></p>
+        <p> 研之成理 <a href="/files/科研工具资料/研之成理.pdf" target="_blank">[pdf]</a></p>
 
 
