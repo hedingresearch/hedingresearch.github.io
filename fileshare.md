@@ -82,7 +82,7 @@ permalink: /fileshare/
       <a href="/files/Lab_manual/1-204/微纳加工-实验仪器使用说明——李佳昕.pdf" target="_blank">[pdf]</a></p>
       
       <p> 实验平台预约
-       <a href="/files/Lab_manual/Tsinghua/清华仪器预约.md" target="_blank">[link]</a></p>
+       <a href="/files/Lab_manual/Tsinghua/仪器预约地址.md" target="_blank">[link]</a></p>
 
      
        <div class="publication-year"> 科研资料工具</div>
