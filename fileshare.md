@@ -103,7 +103,7 @@ permalink: /fileshare/
        <div class="publication-year"> 数据图片处理工具</div>
             <div class="publication-item">
         <p> 
-        <p> 图片数据提取 <a href="https://automeris.io/" target="_blank">[link]</a> 
+        <p> 图片数据提取 <a href="https://automeris.io/" target="_blank">[link]<span><span></a> 
             音频视频剪辑 <a href="https://123apps.com/cn/" target="_blank">[link]</a>
             
         <p> 音频视频剪辑 <a href="https://123apps.com/cn/" target="_blank">[link]</a></p>
