@@ -98,4 +98,10 @@ permalink: /fileshare/
         <p> 研之成理 <a href="/files/科研工具资料/研之成理.pdf" target="_blank">[pdf]</a></p>
         <p> editGPT <a href="https://editgpt.app/" target="_blank">[link]</a></p>
 
+        
+       <div class="publication-year"> 数据图片处理工具</div>
+            <div class="publication-item">
+        <p> 
+        <p> 图片数据提取 <a href="https://automeris.io/" target="_blank">[link]</a></p>
+        <p> 图片音频视频剪辑 <a href="https://123apps.com/cn/" target="_blank">[link]</a></p>
 
