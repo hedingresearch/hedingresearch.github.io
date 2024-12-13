@@ -105,6 +105,7 @@ permalink: /fileshare/
         <p> 
         <p>图片数据提取 <a href="https://automeris.io/" target="_blank">[link]</a> <br>
            音频视频剪辑 <a href="https://123apps.com/cn/" target="_blank">[link]</a>
+           在线工具 <a href="https://tool.lu/" target="_blank">[link]</a>
         </p>   
     
 
