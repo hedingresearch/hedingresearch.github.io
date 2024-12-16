@@ -72,22 +72,19 @@ permalink: /fileshare/
   <div class="text-container">
     
     <div class="publication-year">1-204A 实验手册<br></div>
-    
-    <div class="publication-item">
-       <p>
+      <div class="publication-item">
+      <p>
+         
          设备培训申请和手册说明 <a href="/files/Lab_manual/1-204/1-204_设备考核人员和耗材分工情况汇总_Update20241112.pdf" target="_blank">[pdf]</a><br>
-       
-        1-204A实验仪器使用说明，光刻机，台阶仪，显微镜等 <a href="/files/Lab_manual/1-204/微纳加工-实验仪器使用说明——李佳昕.pdf" target="_blank">[pdf]</a><br>
-      
+         1-204A实验仪器使用说明，光刻机，台阶仪，显微镜等 <a href="/files/Lab_manual/1-204/微纳加工-实验仪器使用说明——李佳昕.pdf" target="_blank">[pdf]</a><br>
          实验平台预约 <a href="/files/Lab_manual/Tsinghua/仪器预约地址.md" target="_blank">[link]</a><br>
 
        </p>
       
       <div class="publication-year"> 文件资料分享</div>
-        
         <div class="publication-item">
         <p> 
-        <p> Tsinghua ShengXing Group <a href="https://cloud.tsinghua.edu.cn/d/def1111c14e548da9199/" target="_blank">[link]</a><br>
+        Tsinghua ShengXing Group <a href="https://cloud.tsinghua.edu.cn/d/def1111c14e548da9199/" target="_blank">[link]</a><br>
         </p>
  
      
@@ -95,17 +92,18 @@ permalink: /fileshare/
     
         <div class="publication-item">
         <p> 
-        <p> 研之成理 <a href="/files/科研工具资料/研之成理.pdf" target="_blank">[pdf]</a><br>
+            研之成理 <a href="/files/科研工具资料/研之成理.pdf" target="_blank">[pdf]</a><br>
             editGPT <a href="https://editgpt.app/" target="_blank">[link]</a><br>
+            ChatGPT API free <a href="https://github.com/chatanywhere/GPT_API_free?tab=readme-ov-file" target="_blank">[link]</a><br>
         </p>
 
         
        <div class="publication-year"> 数据图片处理工具</div>
-            <div class="publication-item">
+        <div class="publication-item">
         <p> 
-        <p>图片数据提取 <a href="https://automeris.io/" target="_blank">[link]</a> <br>
-           音频视频剪辑 <a href="https://123apps.com/cn/" target="_blank">[link]</a><br>
-           在线工具 <a href="https://tool.lu/" target="_blank">[link]</a><br>
+            图片数据提取 <a href="https://automeris.io/" target="_blank">[link]</a> <br>
+            音频视频剪辑 <a href="https://123apps.com/cn/" target="_blank">[link]</a><br>
+            在线工具 <a href="https://tool.lu/" target="_blank">[link]</a><br>
         </p>   
     
 
