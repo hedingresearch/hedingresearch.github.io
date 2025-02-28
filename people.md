@@ -93,7 +93,7 @@ permalink: /people/
         <div class="profile-card">
             <h1><strong>丁贺</strong></h1><br>
             <p>
-                长聘副教授，博士生导师<br>
+                教授，博士生导师<br>
                 国家优青，北京市科技新星<br>
                 北京理工大学，光电学院<br><br>  </p>
             <p>
