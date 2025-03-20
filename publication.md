@@ -71,6 +71,9 @@ permalink: /publication/
 <div class="container">
   <div class="text-container">
    
+   <div class="publication-year">2025</div>
+    
+    
     <div class="publication-year">2024</div>
     
     <div class="publication-item">
