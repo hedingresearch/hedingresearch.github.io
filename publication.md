@@ -74,12 +74,13 @@ permalink: /publication/
 
   
   <div class="publication-year">2025</div>
-    <div class="publication-item">
-             
+   
+    <div class="publication-item">            
       <p>Z. Yang, H. Song* and H. Ding*,  <strong>“Advancements in implantable temperature sensors: Materials, mechanisms, and biological applications”</strong>, <i>Journal of Semiconductors 46, 011609 (2025). 
       <a href="/papers/2024/2024_J. Phys. D Appl. Phys._Li et al._Advances in optical recording techniques for non-invasive monitoring of electrophysiological signals.pdf" target="_blank">[pdf]</a></p>
       </div>
-    
+     
+     <div class="publication-item">
       <p>Y. Xie, Y. Peng, J. Guo, M. Liu, B. Zhang, L. Yin, H. Ding*, X. Sheng*, <strong>“Materials and Devices for High-Density, Ηigh-Throughput Micro-Electrocorticography Arrays”</strong>, <i>Fundamental Research 5, 17–28 (2025) (Front Cover). 
       <a href="/papers/2024/2024_J. Phys. D Appl. Phys._Li et al._Advances in optical recording techniques for non-invasive monitoring of electrophysiological signals.pdf" target="_blank">[pdf]</a></p>
       </div>
