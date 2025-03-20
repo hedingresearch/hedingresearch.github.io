@@ -71,7 +71,6 @@ permalink: /publication/
 <div class="container">
   <div class="text-container">
    
-
   
   <div class="publication-year">2025</div>
    
@@ -119,6 +118,7 @@ permalink: /publication/
       <p>H. Ding*, Y. Peng, G. Lv, Y. Xie, J. Chen, Z. Shi, Y. Deng, L. Yin, J. Yang, Y. Wang, X. Sheng*, <strong>“Heterogeneous Integration of Thin-Film Organic and Inorganic Devices for Optical Based Bioelectrical and Chemical Sensing”</strong>, <i>IEEE Journal of Selected Topics in Quantum Electronics</i> 29, 5200107 (2023). 
       <a href="/papers/2023/2023_Ding et al._Heterogeneous Integration of Thin-Film Organic and Inorganic Devices for Optical Based Bioelectrical and Chemical Sensing.pdf" target="_blank">[pdf]</a></p>
     </div>
+    
     <div class="publication-year">2022</div>
     <div class="publication-item">
       <p>H. Ding*, G. Lv, X. Cai, J. Chen, Z. Cheng, Y. Peng, G. Tang, Z. Shi, Y. Xie, X. Fu, L. Yin, J. Yang, Y. Wang, X. Sheng*, <strong>“An Optoelectronic Thermometer based on Microscale Infrared-to-Visible Conversion Devices”</strong>, <i>Light: Science & Applications</i> 11, 130 (2022). 
