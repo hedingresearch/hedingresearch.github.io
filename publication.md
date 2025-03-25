@@ -79,7 +79,7 @@ permalink: /publication/
       <a href="/papers/2024/2024_J. Phys. D Appl. Phys._Li et al._Advances in optical recording techniques for non-invasive monitoring of electrophysiological signals.pdf" target="_blank">[pdf]</a></p>
       
       <p>Y. Xie, Y. Peng, J. Guo, M. Liu, B. Zhang, L. Yin, H. Ding*, X. Sheng*, <strong>“Materials and Devices for High-Density, Ηigh-Throughput Micro-Electrocorticography Arrays”</strong>, <i>Fundamental Research</i> 5, 17–28 (2025) (Front Cover). 
-      <a href="/papers/2024/2024_J. Phys. D Appl. Phys._Li et al._Advances in optical recording techniques for non-invasive monitoring of electrophysiological signals.pdf" target="_blank">[pdf]</a></p>
+      <a href="/papers/2025/2025_Fundamental Research_Xie et al._Materials and devices for high‐density, high‐throughput micro‐electrocorticography arrays.pdf" target="_blank">[pdf]</a></p>
       
         
         
