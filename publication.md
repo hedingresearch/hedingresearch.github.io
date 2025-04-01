@@ -206,6 +206,7 @@ permalink: /publication/
   </div>
   
   <div class="image-container">
+    <img class="pub-images" src="/papers/Cover/202501_Fundamental Research.jpg"> 
     <img class="pub-images" src="/papers/Cover/2024_Nature_Photonics.png"> 
     <img class="pub-images" src="/papers/Cover/2024_ZKJJ.jpg"> 
     <img class="pub-images" src="/papers/Cover/2024_JSTQE.jpg"> 
