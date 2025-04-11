@@ -103,6 +103,15 @@ permalink: /publication/
       <p>J. Chen, H. Ding*, Y. Li, X. Sheng*, <strong>“Numerical Design of a Micro-LED based Optogenetic Stimulator for Visual Cortical Prosthesis”</strong>, <i>IEEE Journal of Selected Topics in Quantum Electronics</i> 30, 7200308 (2024). 
       <a href="/papers/2024/2024_3.pdf" target="_blank">[pdf]</a></p>
     </div>
+
+  <div class="publication-item">
+      <p>	Y. Li, Y. Zhao, Y. Du, X. Ren, H. Ding*, Z. Wang*, <strong>“Recent advances in the development and applications of luminescent bacteria–based biosensors”</strong>, <i>Luminescence</i> 39 (3), e4721 (2024). 
+      <a href="" target="_blank">[pdf]</a></p>
+    </div>
+
+
+
+    
     <div class="publication-year">2023</div>
     <div class="publication-item">
       <p>Z. Shi, X. Gao, X. Cai, H. Zhao, X. Wang, L. Zhao, L. Yin, H. Ding*, X. Sheng*, <strong>“Fully Implantable and Retrievable Upconversion Waveguides for Photodynamic Therapy in Deep Tissue”</strong>. <i>Advanced Optical Materials</i>, 2300689 (2023). 
