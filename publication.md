@@ -106,7 +106,8 @@ permalink: /publication/
 
   <div class="publication-item">
       <p>	Y. Li, Y. Zhao, Y. Du, X. Ren, H. Ding*, Z. Wang*, <strong>“Recent advances in the development and applications of luminescent bacteria–based biosensors”</strong>, <i>Luminescence</i> 39 (3), e4721 (2024). 
-      <a href="" target="_blank">[pdf]</a></p>
+      <a href="/papers/2024
+/2024_Li et al._Recent advances in the development and applications of luminescent bacteria–based biosensors.pdf" target="_blank">[pdf]</a></p>
     </div>
 
 
