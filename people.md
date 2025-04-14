@@ -108,7 +108,6 @@ permalink: /people/
         <h2>在读学生</h2>
         <ul class="p_ul">
             <li class="p_li">2023年，谢子灿，博士生</li>
-            <li class="p_li">2023年，刘明珠，博士生</li>
             <li class="p_li">2022年，薛钊，硕士生</li>
             <li class="p_li">2023年，李佳昕，硕士生</li>
             <li class="p_li">2023年，任雪纯，硕士生</li>
