@@ -1,0 +1,7 @@
+<div class="lang-switcher">
+  {% for lang in site.languages %}
+    {% if lang != site.active_lang %}
+      <a href="{{ page.url | replace: site.active_lang, lang }}">{{ site.data.lang[lang] }}</a>
+    {% endif %}
+  {% endfor %}
+</div>
