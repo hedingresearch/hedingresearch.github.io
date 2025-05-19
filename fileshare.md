@@ -76,7 +76,8 @@ permalink: /fileshare/
       <p>
          设备信息、耗材购买、实验平台预约  <a href="/files/data/Lab-info.md" target="_blank">[link]</a><br>
          设备培训申请和手册说明 <a href="/files/Lab_manual/1-204/1-204_设备考核人员和耗材分工情况汇总_Update20241112.pdf" target="_blank">[pdf]</a><br>
-         1-204A实验仪器使用说明，光刻机，台阶仪，显微镜等 <a href="/files/Lab_manual/1-204/微纳加工-实验仪器使用说明——李佳昕.pdf" target="_blank">[pdf]</a><br>         
+         1-204A实验仪器使用说明，光刻机，台阶仪，显微镜等 <a href="/files/Lab_manual/1-204/微纳加工-实验仪器使用说明——李佳昕.pdf" target="_blank">[pdf]</a><br> 
+         培训通过同学名单  <a href="/files/Lab_manual/1-204/通过同学名单.md" target="_blank">[link]</a><br>
        </p>
       
       <div class="publication-year"> 文件资料分享</div>
