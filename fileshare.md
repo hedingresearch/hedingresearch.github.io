@@ -84,7 +84,6 @@ permalink: /fileshare/
         <div class="publication-item">
         <p> 
         科研基础内容，必须掌握！！ 提取码:Y14z <a href="https://caiyun.139.com/m/i?135CmXBvky1Xh/" target="_blank">[link]</a><br> 
-        Tsinghua ShengXing Group <a href="https://cloud.tsinghua.edu.cn/d/def1111c14e548da9199/" target="_blank">[link]</a><br>
 
         ------半导体光电子------<br>
         材料的光学特性、折射率 <a href="https://refractiveindex.info/" target="_blank">[link]</a><br>
