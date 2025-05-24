@@ -1,22 +1,22 @@
-name: Translate API Deployment
+name: Pre-translate Site
 on: push
 
 jobs:
-  deploy:
+  translate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Set up Python environment
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.10"
 
       - name: Install dependencies
-        run: pip install flask requests
+        run: pip install requests
 
-      - name: Start translation server
+      - name: Run translation script
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-        run: python server.py
+        run: python translate.py
