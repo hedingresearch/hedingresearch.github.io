@@ -6,10 +6,36 @@ layout: default
 
 <div class="home">
 
+    // 网页翻译 202505 start
 <select id="languageSwitcher">
     <option value="zh">中文</option>
     <option value="en">English</option>
 </select>
+
+<script>
+async function translateText(text, targetLang) {
+    const apiKey = "AIzaSyDE7EDw-fOX3T9yH3JcDNkps-UAx4Dgtgk"; // 替换为你的 API 密钥
+    const url = "https://api.google.dev/gemini/v1/translate"; // 示例 API 端点
+
+    const response = await fetch(url, {
+        method: "POST",
+        headers: { "Authorization": `Bearer ${apiKey}`, "Content-Type": "application/json" },
+        body: JSON.stringify({ text: text, target_language: targetLang })
+    });
+
+    const data = await response.json();
+    return data.translated_text;
+}
+
+document.getElementById("languageSwitcher").addEventListener("change", async function() {
+    const selectedLang = this.value;
+    const originalText = document.querySelector(".introduction-text").textContent;
+    const translatedText = await translateText(originalText, selectedLang);
+    document.querySelector(".introduction-text").textContent = translatedText;
+});
+</script>
+
+       // 网页翻译 202505 end 
   
   <div class="content-wrapper">
     <div class="text-content">
