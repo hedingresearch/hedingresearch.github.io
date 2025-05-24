@@ -1,22 +1,28 @@
+<div class="lang-switcher">
+  {% for lang in site.languages %}
+    {% if lang != site.active_lang %}
+      <a href="javascript:void(0);" class="translate-btn" data-lang="{{ lang }}">{{ site.data.lang[lang] }}</a>
+    {% endif %}
+  {% endfor %}
+</div>
+
 <script>
 async function translateText(text, targetLang) {
-    const apiKey = "YOUR_GOOGLE_API_KEY";  // 使用 GitHub Secrets 代替硬编码
-    const url = `https://translation.googleapis.com/language/translate/v2?key=${apiKey}`;
-
-    const response = await fetch(url, {
+    const response = await fetch("/translate", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ q: text, target: targetLang })
+        body: JSON.stringify({ text: text, targetLang: targetLang })
     });
 
     const data = await response.json();
-    return data.data.translations[0].translatedText;
+    return data.translatedText;
 }
 
-document.querySelectorAll(".lang-switcher a").forEach(link => {
+// 监听语言切换按钮点击事件
+document.querySelectorAll(".translate-btn").forEach(link => {
     link.addEventListener("click", async function(event) {
         event.preventDefault();
-        const selectedLang = this.getAttribute("href").split('/')[1]; // 获取语言代码
+        const selectedLang = this.getAttribute("data-lang");  // 获取目标语言
         const originalText = document.querySelector(".introduction-text").textContent;
         const translatedText = await translateText(originalText, selectedLang);
         document.querySelector(".introduction-text").textContent = translatedText;
