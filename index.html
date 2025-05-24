@@ -12,28 +12,17 @@ layout: default
     <option value="en">English</option>
 </select>
 
-<script>
-async function translateText(text, targetLang) {
-    const apiKey = "AIzaSyDE7EDw-fOX3T9yH3JcDNkps-UAx4Dgtgk"; // 替换为你的 API 密钥
-    const url = "https://api.google.dev/gemini/v1/translate"; // 示例 API 端点
-
-    const response = await fetch(url, {
-        method: "POST",
-        headers: { "Authorization": `Bearer ${apiKey}`, "Content-Type": "application/json" },
-        body: JSON.stringify({ text: text, target_language: targetLang })
-    });
-
-    const data = await response.json();
-    return data.translated_text;
+function translatePage(lang) {
+    const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=${lang}&dt=t&q=${document.body.innerText}`;
+    fetch(url)
+        .then(response => response.json())
+        .then(data => {
+            document.body.innerText = data[0][0][0]; // 仅示例，可能需要调整解析方式
+        });
 }
-
-document.getElementById("languageSwitcher").addEventListener("change", async function() {
-    const selectedLang = this.value;
-    const originalText = document.querySelector(".introduction-text").textContent;
-    const translatedText = await translateText(originalText, selectedLang);
-    document.querySelector(".introduction-text").textContent = translatedText;
+document.getElementById('languageSwitcher').addEventListener('change', function() {
+    translatePage(this.value);
 });
-</script>
 
 
   
