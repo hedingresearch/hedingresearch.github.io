@@ -12,17 +12,19 @@ layout: default
     <option value="en">English</option>
 </select>
 
-function translatePage(lang) {
-    const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=${lang}&dt=t&q=${document.body.innerText}`;
-    fetch(url)
-        .then(response => response.json())
-        .then(data => {
-            document.body.innerText = data[0][0][0]; // 仅示例，可能需要调整解析方式
-        });
-}
-document.getElementById('languageSwitcher').addEventListener('change', function() {
-    translatePage(this.value);
-});
+<script>
+    function translatePage(lang) {
+        const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=${lang}&dt=t&q=${document.body.innerText}`;
+        fetch(url)
+            .then(response => response.json())
+            .then(data => {
+                document.body.innerText = data[0][0][0]; // 仅示例，可能需要调整解析方式
+            });
+    }
+    document.getElementById('languageSwitcher').addEventListener('change', function() {
+        translatePage(this.value);
+    });
+</script>
 
 
   
