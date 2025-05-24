@@ -1,7 +1,25 @@
-<div class="lang-switcher">
-  {% for lang in site.languages %}
-    {% if lang != site.active_lang %}
-      <a href="{{ page.url | replace: site.active_lang, lang }}">{{ site.data.lang[lang] }}</a>
-    {% endif %}
-  {% endfor %}
-</div>
+<script>
+async function translateText(text, targetLang) {
+    const apiKey = "YOUR_GOOGLE_API_KEY";  // 使用 GitHub Secrets 代替硬编码
+    const url = `https://translation.googleapis.com/language/translate/v2?key=${apiKey}`;
+
+    const response = await fetch(url, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ q: text, target: targetLang })
+    });
+
+    const data = await response.json();
+    return data.data.translations[0].translatedText;
+}
+
+document.querySelectorAll(".lang-switcher a").forEach(link => {
+    link.addEventListener("click", async function(event) {
+        event.preventDefault();
+        const selectedLang = this.getAttribute("href").split('/')[1]; // 获取语言代码
+        const originalText = document.querySelector(".introduction-text").textContent;
+        const translatedText = await translateText(originalText, selectedLang);
+        document.querySelector(".introduction-text").textContent = translatedText;
+    });
+});
+</script>
