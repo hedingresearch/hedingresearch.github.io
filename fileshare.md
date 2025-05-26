@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 文件分享
+title: 
 permalink: /fileshare/
 ---
 
@@ -37,7 +37,7 @@ permalink: /fileshare/
   }
 
   .right-column {
-    background-color: #f9f9f9; /* 右栏背景 */
+    
   }
 
   .publication-year {
