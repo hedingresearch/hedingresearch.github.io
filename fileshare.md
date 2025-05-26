@@ -12,7 +12,7 @@ permalink: /fileshare/
     line-height: 1.5;
   }
 
-/*   .container {
+  .container {
     max-width: 1200px;
     margin: 20px auto;
     padding: 20px 40px;
@@ -20,7 +20,7 @@ permalink: /fileshare/
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
     position: relative;
-  } */
+  }
 
     .container {
       display: flex; /* 让子元素并排排列 */
@@ -39,15 +39,10 @@ permalink: /fileshare/
       background-color: #f9f9f9; /* 右栏背景 */
   }
 
-
-
-
   
   .text-container {
     width: 100%; /* 让文字容器保持原有宽度 */
   }
-
-
   
   .publication-year {
     font-size: 20px;
