@@ -88,7 +88,8 @@ permalink: /fileshare/
         ------半导体光电子------<br>
         材料的光学特性、折射率 <a href="https://refractiveindex.info/" target="_blank">[link]</a><br>
         材料刻蚀液<a href="https://transene.com/etchants/" target="_blank">[link]</a><br>
-        
+        ------动物实验------<br>
+        切片实验操作视频<a href="https://www.servicebio.cn/data-center?code=SYCZSP/" target="_blank">[link]</a><br>
         
         </p>
  
