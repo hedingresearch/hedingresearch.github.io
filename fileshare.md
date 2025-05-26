@@ -60,7 +60,7 @@ permalink: /fileshare/
 </style>
 
 <div class="container">
-<!--   <div class="text-container"> -->
+  <div class="text-container">
      <div class="left-column">
        
     <div class="publication-year">1-204A 实验手册<br></div>
