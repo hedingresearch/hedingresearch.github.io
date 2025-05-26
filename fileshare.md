@@ -91,7 +91,9 @@ permalink: /fileshare/
         
         </p>
  
-     
+         </div>
+    <div class="right-column">
+    
        <div class="publication-year"> 科研资料工具</div>
     
         <div class="publication-item">
