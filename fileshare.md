@@ -4,8 +4,6 @@ title:
 permalink: /fileshare/
 ---
 
-<!DOCTYPE html>
-<html lang="zh">
 <head>
   <meta charset="UTF-8">
   <title>左右分栏页面示例</title>
