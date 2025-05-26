@@ -86,8 +86,8 @@ permalink: /fileshare/
         
         </p>
  
-         </div>
-    <div class="right-column">
+        </div>
+        <div class="right-column">
     
        <div class="publication-year"> 科研资料工具</div>
     
@@ -112,5 +112,6 @@ permalink: /fileshare/
             内存工具 <a href="https://github.com/henrypp/memreduct" target="_blank">[link]</a><br>
             
         </p>   
-    
+     
+        </div>
 
