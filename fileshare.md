@@ -26,45 +26,7 @@ permalink: /fileshare/
     width: 100%; /* 让文字容器保持原有宽度 */
   }
 
-  .image-container {
-    position: absolute;
-    top: 0;
-    right: -210px; /* 将图片容器放置在文字容器的右侧 */
-    width: 200px; /* 设置图片容器的宽度 */
-    background-color: #f5f5f5;
-  }
-
-  .pub-images {
-    margin-bottom: 15px;
-    border: 1.5px solid black;
-  }
   
-  .publication-year {
-    font-size: 20px;
-    font-weight: bold;
-    color: #1e90ff;
-  }
-  .publication-item {
-    font-size: 15px;
-    margin-bottom: 15px;
-  }
-
-    /* 响应式布局 */
-  @media (max-width: 768px) {
-    .container {
-      padding: 20px 20px;
-    }
-    .image-container {
-      position: static;
-      margin-top: 20px;
-      width: 100%;
-      text-align: center;
-    }
-    .image-container img {
-      width: 100%;
-      height: auto;
-      margin-bottom: 8px;
-    }
   }
 </style>
 
