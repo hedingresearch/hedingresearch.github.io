@@ -45,7 +45,7 @@ permalink: /fileshare/
     }
     /* 右侧背景 */
     .right-column {
-      background-color: #f9f9f9;
+      border-left: 2px solid #ddd;
     }
     /* 标题和内容项样式 */
     .publication-year {
