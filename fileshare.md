@@ -12,7 +12,7 @@ permalink: /fileshare/
     line-height: 1.5;
   }
 
-  .container {
+/*   .container {
     max-width: 1200px;
     margin: 20px auto;
     padding: 20px 40px;
@@ -20,8 +20,29 @@ permalink: /fileshare/
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
     position: relative;
+  } */
+
+    .container {
+      display: flex; /* 让子元素并排排列 */
+  }
+  
+  .left-column, .right-column {
+      width: 50%; /* 让两栏各占一半 */
+      padding: 20px;
+  }
+  
+  .left-column {
+      border-right: 2px solid #ddd; /* 添加分割线 */
+  }
+  
+  .right-column {
+      background-color: #f9f9f9; /* 右栏背景 */
   }
 
+
+
+
+  
   .text-container {
     width: 100%; /* 让文字容器保持原有宽度 */
   }
@@ -44,8 +65,9 @@ permalink: /fileshare/
 </style>
 
 <div class="container">
-  <div class="text-container">
-    
+<!--   <div class="text-container"> -->
+     <div class="left-column">
+       
     <div class="publication-year">1-204A 实验手册<br></div>
       <div class="publication-item">
       <p>
