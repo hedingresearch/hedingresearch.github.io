@@ -91,6 +91,9 @@ permalink: /fileshare/
         切片实验操作视频<a href="https://www.servicebio.cn/data-center?code=SYCZSP/" target="_blank">[link]</a><br>
       </p>
     </div>
+
+
+    
   </div>
 
   <div class="right-column">
@@ -99,10 +102,9 @@ permalink: /fileshare/
       <p>
         研之成理 
         <a href="/files/科研工具资料/研之成理.pdf" target="_blank">[pdf]</a><br>
-        editGPT 
-        <a href="https://editgpt.app/" target="_blank">[link]</a><br>
-        ChatGPT API free 
-        <a href="https://github.com/chatanywhere/GPT_API_free?tab=readme-ov-file" target="_blank">[link]</a><br>
+        论文写作@Sargent <a href="https://zhuanlan.zhihu.com/p/1905273301716165910?share_code=18HOMF9ARzSvh&utm_psn=1912307242172125847/" target="_blank">[link]</a><br>
+        editGPT  <a href="https://editgpt.app/" target="_blank">[link]</a><br>
+        ChatGPT API free   <a href="https://github.com/chatanywhere/GPT_API_free?tab=readme-ov-file" target="_blank">[link]</a><br>
       </p>
     </div>
 
