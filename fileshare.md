@@ -69,7 +69,7 @@ permalink: /fileshare/
       <p>
         设备培训申请和手册说明、人员名单 
         <a href="https://1drv.ms/w/c/91cf82399d56343e/ETW_0MeuB_xCqDgSfq1K3koB7nRSMZByubYXynd_S2_c8Q?e=aZlRhS/" target="_blank">[link]</a><br>
-        1-204A仪器《光刻机，台阶仪，显微镜》使用说明 
+        1-204仪器《光刻机，台阶仪，显微镜》说明 
         <a href="https://1drv.ms/p/c/91cf82399d56343e/EU7FQUQhGtZGjRc4CI3JG8wBq8ahc89mrrV1RBGXJAJ51A?e=lLucnw/" target="_blank">[link]</a><br>
         实验平台预约 
         <a href="/files/data/Lab-info.md" target="_blank">[link]</a><br>
