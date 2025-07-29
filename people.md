@@ -76,15 +76,22 @@ body {
 </style>
 
 <div class="container">
-  <div class="profile-container">
-    <img src="/images/dinghe.png" width="460">
-    <div class="profile-card">
-      <h1><strong>丁贺</strong></h1>
-      <p>教授，博士生导师<br>国家优青，北京市科技新星<br>北京理工大学 光电学院</p>
-      <p>博士后：清华大学，中国<br>博士：里昂中央理工大学，法国<br>本硕：北京交通大学，中国</p>
-      <p>E-mail: <a href="mailto:{{site.email}}">{{site.email}}</a></p>
+    <div class="profile-container">
+        <img src="/images/dinghe.png" width="460">
+        <div class="profile-card">
+            <h1><strong>丁贺</strong></h1><br>
+            <p>
+                教授，博士生导师<br>
+                国家优青，北京市科技新星<br>
+                北京理工大学，光电学院<br><br>  </p>
+            <p>
+                博士后，清华大学，中国<br>
+                博士，里昂中央理工大学，法国<br>
+                本硕，北京交通大学，中国
+            </p><br>
+            <p>E-mail: <a href="mailto:{{site.email}}">{{site.email}}</a></p>
+        </div>
     </div>
-  </div>
 
   <h2 class="section-title">在读学生</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
