@@ -120,6 +120,32 @@ permalink: /people/
             <li class="p_li">2025年，骆文智，硕士生</li>
             <li class="p_li">2025年，崔可歆，硕士生</li>
         </ul>
+
+<div class="student-columns">
+  <div style="width: 50%; float: left;">
+    <h3>博士研究生</h3>
+    <ul>
+      <li>2023年，谢子灿</li>
+      <li>2025年，林楠</li>
+      <li>2025年，孙瑀阳</li>
+    </ul>
+  </div>
+  <div style="width: 50%; float: left;">
+    <h3>硕士研究生</h3>
+    <ul>
+      <li>2023年，李佳昕</li>
+      <li>2023年，任雪纯</li>
+      <li>2023年，梁宵</li>
+      <li>2024年，陶前程</li>
+      <li>2024年，杨卓凡</li>
+      <li>2025年，李贺林</li>
+      <li>2025年，骆文智</li>
+      <li>2025年，崔可歆</li>
+    </ul>
+  </div>
+</div>
+<div style="clear: both;"></div>
+        
         <br>
         <h2>毕业学生</h2>
         <h3>硕士研究生</h3>
