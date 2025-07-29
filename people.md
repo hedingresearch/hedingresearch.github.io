@@ -106,21 +106,7 @@ permalink: /people/
     </div>
     <div class="content-container">
         <h2>在读学生</h2>
-<!--         <ul class="p_ul">
-            <li class="p_li">2023年，谢子灿，博士生</li>
-            <li class="p_li">2025年，林楠，博士生</li>
-            <li class="p_li">2025年，孙瑀阳，博士生</li>
-        <br>
-            <li class="p_li">2023年，李佳昕，硕士生</li>
-            <li class="p_li">2023年，任雪纯，硕士生</li>
-            <li class="p_li">2023年，梁宵，硕士生</li>
-            <li class="p_li">2024年，陶前程，硕士生</li>
-            <li class="p_li">2024年，杨卓凡，硕士生</li>
-            <li class="p_li">2025年，李贺林，硕士生</li>
-            <li class="p_li">2025年，骆文智，硕士生</li>
-            <li class="p_li">2025年，崔可歆，硕士生</li>
-        </ul>
- -->
+
 <div class="student-columns">
   <div style="width: 50%; float: left;">
     <h3>博士研究生</h3>
