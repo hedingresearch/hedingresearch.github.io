@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 丁贺课题组人员简介
+title: 
 permalink: /people/
 ---
 
@@ -77,7 +77,7 @@ body {
 
 <div class="container">
   <div class="profile-container">
-    <img src="/images/dinghe.png" alt="丁贺教授">
+    <img src="/images/dinghe.png" width="460">
     <div class="profile-card">
       <h1><strong>丁贺</strong></h1>
       <p>教授，博士生导师<br>国家优青，北京市科技新星<br>北京理工大学 光电学院</p>
