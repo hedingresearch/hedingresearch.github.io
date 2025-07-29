@@ -108,17 +108,23 @@ permalink: /people/
         <h2>在读学生</h2>
         <ul class="p_ul">
             <li class="p_li">2023年，谢子灿，博士生</li>
-            <li class="p_li">2022年，薛钊，硕士生</li>
+            <li class="p_li">2025年，林楠，博士生</li>
+            <li class="p_li">2025年，孙瑀阳，博士生</li>
+        <br>
             <li class="p_li">2023年，李佳昕，硕士生</li>
             <li class="p_li">2023年，任雪纯，硕士生</li>
             <li class="p_li">2023年，梁宵，硕士生</li>
             <li class="p_li">2024年，陶前程，硕士生</li>
             <li class="p_li">2024年，杨卓凡，硕士生</li>
+            <li class="p_li">2025年，李贺林，硕士生</li>
+            <li class="p_li">2025年，骆文智，硕士生</li>
+            <li class="p_li">2025年，崔可歆，硕士生</li>
         </ul>
         <br>
         <h2>毕业学生</h2>
         <h3>硕士研究生</h3>
         <ul class="p_ul">
+            <li class="p_li">2024年，薛钊，北京华为</li>
             <li class="p_li">2024年，彭焰秀，江西洪都航空工业集团有限责任公司</li>
             <li class="p_li">2024年，童文斌，北京航天飞腾装备技术有限责任公司</li>
             <li class="p_li">2024年，陆映同，上海航天电子有限公司</li>
