@@ -124,7 +124,7 @@ permalink: /people/
         <h2>毕业学生</h2>
         <h3>硕士研究生</h3>
         <ul class="p_ul">
-            <li class="p_li">2024年，薛钊，北京华为</li>
+            <li class="p_li">2025年，薛钊，北京华为</li>
             <li class="p_li">2024年，彭焰秀，江西洪都航空工业集团有限责任公司</li>
             <li class="p_li">2024年，童文斌，北京航天飞腾装备技术有限责任公司</li>
             <li class="p_li">2024年，陆映同，上海航天电子有限公司</li>
