@@ -14,6 +14,10 @@ https://teams.live.com/l/community/FBAIU82-C4BpZ6M0wI
 
 伟清楼 902 https://teamup.com/ksueg3xo6gjhgqezxo
 
+伟清楼 910 https://teamup.com/ksi1qxfjsqj727iy64
+
+伟清楼 113 parylene https://teamup.com/ksfyij2rg61tv32e4a
+
 伟清楼 113 https://teamup.com/ks2kgidcmkgmothg5x
 
 罗姆楼 711 https://teamup.com/kspgq9ozihpy9goy2c
@@ -25,10 +29,6 @@ https://teams.live.com/l/community/FBAIU82-C4BpZ6M0wI
 逸夫楼 B528 https://teamup.com/ksxr9ctp85zbfy3fxb
 
 逸夫楼 B532 https://teamup.com/ksnpf38bcrxmn22ux8
-
-双清大厦2号楼4层 https://teamup.com/ksi1qxfjsqj727iy64
-
-双清大厦2号楼4层公共会议室 https://teamup.com/ksui8j2p4xppdyq2kh
 
 中央主楼 https://teamup.com/ks88kb5r26f2m733qd
 
