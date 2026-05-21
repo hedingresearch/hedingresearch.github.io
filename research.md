@@ -97,8 +97,10 @@ permalink: /research/
     <p>
       <strong> 新闻简介：</strong><br>
        <a href="https://www.news.cn/sci-tech/20251209/64e0ab410736436f991e0482be4dfcfb/c.html" target="_blank">
-  https://www.news.cn/sci-tech/20251209/64e0ab410736436f991e0482be4dfcfb/c.html
-</a>
+  https://www.news.cn/sci-tech/20251209/64e0ab410736436f991e0482be4dfcfb/c.html</a>
+     <a href="https://www.stdaily.com/web/gdxw/2025-12/05/content_443029.html" target="_blank">
+  https://www.stdaily.com/web/gdxw/2025-12/05/content_443029.html</a>
+
     </p>
 
     
