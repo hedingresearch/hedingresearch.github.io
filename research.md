@@ -93,6 +93,15 @@ permalink: /research/
 
   <div class="card card2">
     <h2><strong>新闻报道</strong></h2>
+
+    <p>
+      <strong>1. 简介：</strong><br>
+       <a href="https://www.news.cn/sci-tech/20251209/64e0ab410736436f991e0482be4dfcfb/c.html" target="_blank">
+  https://www.news.cn/sci-tech/20251209/64e0ab410736436f991e0482be4dfcfb/c.html
+</a>
+    </p>
+
+    
     <p>
       <strong>1. 微纳光电器件类工作：</strong><br>
       植入式上转换光源<br>
