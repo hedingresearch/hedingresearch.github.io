@@ -95,7 +95,7 @@ permalink: /research/
     <h2><strong>新闻报道</strong></h2>
 
     <p>
-      <strong>1. 简介：</strong><br>
+      <strong> 新闻简介：</strong><br>
        <a href="https://www.news.cn/sci-tech/20251209/64e0ab410736436f991e0482be4dfcfb/c.html" target="_blank">
   https://www.news.cn/sci-tech/20251209/64e0ab410736436f991e0482be4dfcfb/c.html
 </a>
