@@ -121,14 +121,15 @@ permalink: /people/
     <div style="flex: 1; min-width: 280px;">
       <h3>硕士研究生</h3>
       <ul class="p_ul">
-        <li class="p_li">2023年：李佳昕</li>
-        <li class="p_li">2023年：任雪纯</li>
-        <li class="p_li">2023年：梁宵</li>
         <li class="p_li">2024年：陶前程</li>
         <li class="p_li">2024年：杨卓凡</li>
         <li class="p_li">2025年：李贺林</li>
         <li class="p_li">2025年：骆文智</li>
         <li class="p_li">2025年：崔可歆</li>
+        <li class="p_li">2026年：李佳树</li>
+        <li class="p_li">2026年：刘梦缘</li>
+        <li class="p_li">2026年：叶锦文</li>
+        
       </ul>
     </div>
   </div>
