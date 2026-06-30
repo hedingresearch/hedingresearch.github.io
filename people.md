@@ -136,6 +136,9 @@ permalink: /people/
   <h2 class="section-title">毕业学生</h2>
   <h3>硕士研究生</h3>
   <ul class="p_ul">
+    <li class="p_li">2026年：李佳昕 — 中国航天科工集团</li>
+    <li class="p_li">2026年：任雪纯 — 新华三集团</li>
+    <li class="p_li">2026年：梁宵 — 国家知识产权局专利局</li>
     <li class="p_li">2025年：薛钊 — 北京华为</li>
     <li class="p_li">2024年：彭焰秀 — 江西洪都航空工业集团</li>
     <li class="p_li">2024年：童文斌 — 北京航天飞腾装备技术</li>
