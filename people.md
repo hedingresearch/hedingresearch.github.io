@@ -129,7 +129,9 @@ permalink: /people/
         <li class="p_li">2026年：李佳树</li>
         <li class="p_li">2026年：刘梦缘</li>
         <li class="p_li">2026年：叶锦文</li>
-        
+        <li class="p_li">2026年：沈博</li>
+        <li class="p_li">2026年：周泽源</li>
+        <li class="p_li">2026年：宋子豪</li>        
       </ul>
     </div>
   </div>
