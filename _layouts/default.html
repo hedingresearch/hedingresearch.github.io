@@ -1,18 +1,8 @@
 <!DOCTYPE html>
-<html>
-
-{% if site.logo %}
-  <title>
-    <img src="{{ site.logo }}" alt="{{ site.title }}" style="vertical-align: middle; margin-right: 10px;">
-    {{ site.title }}
-  </title>
-{% else %}
-  <title>{{ site.title }}</title>
-{% endif %}
-  
+<html lang="zh-CN">
   {% include head.html %}
 
-  <body>
+  <body class="{{ page.class }}">
 
     {% include header.html %}
 
@@ -26,4 +16,3 @@
   </body>
 
 </html>
-<!-- d.s.m.s.050600.062508.030515.080516.030818 | "Baby, I'm Yours" -->

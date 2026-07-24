@@ -1,0 +1,503 @@
+// ---------------------------------------------------------------------------
+// Page-specific styles.
+//
+// These were previously large inline <style> blocks duplicated across the
+// content pages. They are now centralised here and scoped under a per-page
+// body class (added via each page's front matter `class:` key) so that the
+// generic selectors (.container, .card, a, h2 …) never collide between pages.
+// The values are kept identical to the original inline styles to preserve the
+// exact look of every page.
+// ---------------------------------------------------------------------------
+
+// Homepage ----------------------------------------------------------------
+body.page-home {
+  .home {
+    margin-top: 20px;
+  }
+
+  .content-wrapper {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+
+  .text-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .carousel-container {
+    margin: 105px 0 0 50px;
+    max-width: 420px;
+    flex: 1;
+    position: relative;
+    border: 2px solid #000000;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+
+  // Swiper v11 only recognises the `.swiper` class (renamed from the v6
+  // `.swiper-container`).
+  .swiper {
+    width: 100%;
+    height: 300px;
+    box-sizing: border-box;
+  }
+
+  .swiper-slide img {
+    width: 100%;
+    height: 100%;
+  }
+
+  .welcome-title {
+    margin-top: 100px;
+    font-size: 38px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    line-height: 1.6;
+  }
+
+  .introduction-text {
+    font-size: 20px;
+    margin-top: 9px;
+    margin-bottom: 203px;
+  }
+
+  .swiper-button-next,
+  .swiper-button-prev {
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 50%;
+    padding: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+
+  .swiper-button-next::after,
+  .swiper-button-prev::after {
+    font-size: 48px;
+  }
+
+  .swiper-button-next:hover,
+  .swiper-button-prev:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #ffcc00;
+  }
+
+  .swiper:hover .swiper-button-next,
+  .swiper:hover .swiper-button-prev {
+    opacity: 1;
+  }
+
+  @media (max-width: 768px) {
+    .content-wrapper {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .text-content,
+    .carousel-container {
+      width: 100%;
+      margin: 0;
+    }
+
+    .swiper {
+      height: auto;
+    }
+
+    .swiper-slide img {
+      width: 100%;
+      height: 300px;
+    }
+  }
+
+  @media (min-width: 768px) and (max-width: 1024px) {
+    .text-content,
+    .carousel-container {
+      width: 100%;
+    }
+
+    .swiper {
+      height: auto;
+    }
+
+    .swiper-slide img {
+      width: 100%;
+      height: 300px;
+    }
+  }
+}
+
+// Research -----------------------------------------------------------------
+body.page-research {
+  background-color: #f5f5f5;
+  color: #333;
+  font-family: "Arial", sans-serif;
+  line-height: 1.6;
+
+  .container {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+
+  .card1 {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+
+  .card2 {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    padding: 20px;
+  }
+
+  .card h2 {
+    font-size: 22px;
+    color: #1e90ff;
+    margin-bottom: 10px;
+  }
+
+  .card p {
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+
+  .image-container {
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  a {
+    color: #1e90ff;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  @media (max-width: 768px) {
+    .container {
+      padding: 10px;
+    }
+
+    .card {
+      padding: 15px;
+    }
+
+    .card h2 {
+      font-size: 20px;
+    }
+
+    .card p {
+      font-size: 14px;
+    }
+
+    a {
+      word-wrap: break-word;
+    }
+  }
+}
+
+// People -------------------------------------------------------------------
+body.page-people {
+  background-color: #f4f4f4;
+
+  .container {
+    max-width: 840px;
+    margin: 0 auto;
+  }
+
+  .profile-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .content-container {
+    margin: 30px;
+  }
+
+  .profile-container img {
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin-right: 70px;
+  }
+
+  .profile-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+  }
+
+  .profile-card h1 {
+    margin: 0;
+    font-size: 28px;
+    color: #333;
+  }
+
+  .profile-card p {
+    margin: 0;
+    color: #666;
+    line-height: 1.6;
+  }
+
+  h2 {
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 0;
+    margin-bottom: 3px;
+    color: #444;
+  }
+
+  h3 {
+    margin-bottom: 0;
+  }
+
+  .p_ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .p_ul .p_li {
+    border-bottom: 0 solid #eee;
+    color: #555;
+    padding: 0;
+  }
+
+  .ul .p_li:last-child {
+    border-bottom: none;
+  }
+
+  @media (max-width: 768px) {
+    .profile-container {
+      flex-direction: column;
+    }
+
+    .profile-container img {
+      margin: 0 0 20px 0;
+    }
+
+    .profile-card {
+      align-items: center;
+    }
+  }
+}
+
+// Contact ------------------------------------------------------------------
+body.page-contact {
+  .container {
+    max-width: 1200px;
+    margin: 30px 0 104px 0;
+    padding: 10px;
+  }
+
+  .contact-info {
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    margin-bottom: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .contact-info h2 {
+    font-size: 24px;
+    color: #333;
+    margin: 30px 0 0 0;
+  }
+
+  .contact-info p {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.6;
+    margin: 0 0 10px;
+  }
+
+  .contact-info a {
+    color: #007bff;
+    text-decoration: none;
+  }
+
+  .contact-info a:hover {
+    text-decoration: underline;
+  }
+
+  .contact-details {
+    flex: 1;
+    padding-right: 30px;
+    text-align: left;
+  }
+
+  .contact-map {
+    flex: 1;
+    text-align: right;
+  }
+
+  .contact-map img {
+    border-radius: 10px;
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  }
+
+  @media (max-width: 768px) {
+    .contact-info {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .contact-map {
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    .contact-map img {
+      max-width: 100%;
+    }
+  }
+}
+
+// Fileshare -----------------------------------------------------------------
+body.page-fileshare {
+  background-color: #f5f5f5;
+  color: #333;
+  font-family: "Arial", sans-serif;
+  line-height: 1.5;
+
+  .container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px 40px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    position: relative;
+    display: flex;
+  }
+
+  .left-column,
+  .right-column {
+    width: 50%;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+
+  .left-column {
+    border-right: 2px solid #ddd;
+  }
+
+  .publication-year {
+    font-size: 20px;
+    font-weight: bold;
+    color: #1e90ff;
+    margin-bottom: 10px;
+  }
+
+  .publication-item {
+    font-size: 15px;
+    margin-bottom: 15px;
+  }
+
+  .publication-item a {
+    color: #1e90ff;
+    text-decoration: none;
+  }
+
+  .publication-item a:hover {
+    text-decoration: underline;
+  }
+}
+
+// Publication ---------------------------------------------------------------
+body.page-publication {
+  background-color: #f5f5f5;
+  color: #333;
+  font-family: "Arial", sans-serif;
+  line-height: 1.5;
+
+  .container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px 40px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    position: relative;
+  }
+
+  .text-container {
+    width: 100%;
+  }
+
+  .image-container {
+    position: absolute;
+    top: 0;
+    right: -210px;
+    width: 200px;
+    background-color: #f5f5f5;
+  }
+
+  .pub-images {
+    margin-bottom: 15px;
+    border: 1.5px solid black;
+  }
+
+  .publication-year {
+    font-size: 20px;
+    font-weight: bold;
+    color: #1e90ff;
+  }
+
+  .publication-item {
+    font-size: 15px;
+    margin-bottom: 15px;
+  }
+
+  @media (max-width: 768px) {
+    .container {
+      padding: 20px 20px;
+    }
+
+    .image-container {
+      position: static;
+      margin-top: 20px;
+      width: 100%;
+      text-align: center;
+    }
+
+    .image-container img {
+      width: 100%;
+      height: auto;
+      margin-bottom: 8px;
+    }
+  }
+}
+
+// Login (pass-through to the fileshare area) -------------------------------
+body.page-login {
+  text-align: center;
+  padding-top: 40px;
+}

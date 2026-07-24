@@ -1,91 +1,11 @@
 ---
 layout: page
-title: 
+title: 团队成员
 permalink: /people/
+class: page-people
 ---
 
-<style>
-    body {
-        margin: 0;
-        padding: 0;
-        font-family: Arial, sans-serif;
-        background-color: #f4f4f4;
-    }
-    .container {
-        max-width: 840px;
-        margin: 0 auto;
-    }
-    .profile-container {
-        display: flex;
-        justify-content: center; /* 中心对齐内容 */
-        align-items: center;
-        margin-bottom: 30px;
-        background: #fff;
-        padding: 20px;
-        border-radius: 8px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    }
-    .content-container {
-        margin: 30px;
-    }
-    .profile-container img {
-        border-radius: 8px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-        margin-right: 70px; /* 图片与文本内容之间的间距 */
-    }
-    .profile-card {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        text-align: left; /* 文本居中对齐 */
-    }
-    .profile-card h1 {
-        margin: 0;
-        font-size: 28px;
-        color: #333;
-    }
-    .profile-card p {
-        margin: 0;
-        color: #666;
-        line-height: 1.6;
-    }
-    h2 {
-        border-bottom: 2px solid #ddd;
-        padding-bottom: 0;
-        margin-bottom: 3px;
-        color: #444;
-    }
-    h3 {
-        margin-bottom: 0;
-    }
-    .p_ul {
-        list-style-type: none;
-        padding: 0;
-        margin: 0;
-    }
-    .p_ul .p_li {
-        border-bottom: 0 solid #eee;
-        color: #555;
-        padding: 0;
-    }
-    .ul .p_li:last-child {
-        border-bottom: none;
-    }
 
-    /* 响应式布局 */
-    @media (max-width: 768px) {
-        .profile-container {
-            flex-direction: column;
-        }
-        .profile-container img {
-            margin: 0 0 20px 0; /* 图片在小屏幕上的间距 */
-        }
-        .profile-card {
-            align-items: center; /* 在小屏幕上居中内容 */
-        }
-    }
-</style>
 
 <div class="container">
     <div class="profile-container">

@@ -3,9 +3,9 @@
  */
 .site-header {
     border-top: 0px solid $grey-color-dark;
-	border-bottom: 4px solid $clemson-purple;
+	border-bottom: 4px solid $header-accent;
     min-height: 80px;
-    background: $clemson-orange;
+    background: $header-bg;
     // Positioning context for the mobile navigation icon
     position: relative;
 
@@ -16,7 +16,7 @@
     margin-top: -30px;
     float: left;
     font-weight: 500;
-		font-family: 'Titillium Web', sans-serif;
+		font-family: $base-font-family;
     color: #ffffff;
     &,
     &:visited {
@@ -50,7 +50,7 @@
 	padding: 0;
 	list-style-type: none;
 	text-transform: none;
-		font-family: 'Titillium Web', sans-serif;
+		font-family: $base-font-family;
 	display: flex; /* 使 ul 成为 Flex 容器 */
         justify-content: center; /* 水平居中 ul 的子元素 */
          align-items: center; /* 垂直居中 ul 的子元素 */
@@ -84,25 +84,73 @@
 	letter-spacing: 0;
 	line-height: 1.2em;
 	padding: 4px 10px;
-color: #522d80;
+color: $header-accent;
 
 }
 
 .site-nav .sub-menu a:hover {
-	color: $clemson-orange;
+	color: $header-bg;
 }
 .site-nav  .sub-menu {
 	background: #ffffff;
-	border-color: $clemson-purple;
+	border-color: $header-accent;
 	min-width: 265px;
 
 	z-index:2147483647;
 }
 .site-nav .sub-menu li.current-menu-item > a {
-	border-left-color: $clemson-orange;
-	border-right-color: $clemson-orange;
+	border-left-color: $header-bg;
+	border-right-color: $header-bg;
 	border-right: 0px;
 
+}
+
+// ---------------------------------------------------------------------------
+// Header extras (moved out of the inline <style> block in header.html so the
+// markup stays clean). Values preserved exactly to keep the look identical.
+// ---------------------------------------------------------------------------
+.site-header {
+  border-bottom: 1px solid #ddd;
+}
+
+.logo {
+  width: 80px;
+  height: auto;
+  padding-bottom: 10px;
+  margin-left: 40px;
+}
+
+.site-nav {
+  display: flex;
+  align-items: center; /* 垂直居中对齐 */
+  flex-grow: 1;
+  justify-content: space-between;
+}
+
+.menu-icon {
+  cursor: pointer;
+  align-self: center; /* 确保菜单图标垂直居中 */
+}
+
+.site-nav .trigger ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  background: white; /* 设置菜单背景颜色 */
+  border-radius: 8px; /* 添加圆角效果 */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); /* 添加阴影效果 */
+  padding: 20px;
+  width: 80%; /* 可以根据需要调整宽度 */
+  max-width: 200px; /* 限制最大宽度 */
+}
+
+.site-nav .trigger ul li {
+  padding: 10px 0;
+}
+
+.site-nav .trigger ul li a {
+  text-decoration: none;
+  color: #424242;
 }
 
 
@@ -205,7 +253,7 @@ z-index:999;
             display: none;
         }
 
-        &:hover .trigger {
+        &.open .trigger {
             display: block;
             padding-bottom: 5px;
         }

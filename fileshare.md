@@ -1,66 +1,11 @@
 ---
 layout: page
-title: 
+title: 文件分享
 permalink: /fileshare/
+class: page-fileshare
 ---
 
-<style>
-  body {
-    font-family: "Arial", sans-serif;
-    color: #333;
-    background-color: #f5f5f5;
-    line-height: 1.5;
-    margin: 0;
-    padding: 0;
-  }
 
-  .container {
-    max-width: 1200px;
-    margin: 20px auto;
-    padding: 20px 40px;
-    background-color: #fff;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    border-radius: 8px;
-    position: relative;
-    display: flex; /* 让子元素并排排列 */
-  }
-
-  .left-column,
-  .right-column {
-    width: 50%; /* 让两栏各占一半 */
-    padding: 20px;
-    box-sizing: border-box;
-  }
-
-  .left-column {
-    border-right: 2px solid #ddd; /* 添加分割线 */
-  }
-
-  .right-column {
-    
-  }
-
-  .publication-year {
-    font-size: 20px;
-    font-weight: bold;
-    color: #1e90ff;
-    margin-bottom: 10px;
-  }
-
-  .publication-item {
-    font-size: 15px;
-    margin-bottom: 15px;
-  }
-
-  .publication-item a {
-    color: #1e90ff;
-    text-decoration: none;
-  }
-
-  .publication-item a:hover {
-    text-decoration: underline;
-  }
-</style>
 
 <div class="container">
   <div class="left-column">

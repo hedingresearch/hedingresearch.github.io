@@ -1,77 +1,11 @@
 ---
 layout: page
-title: 
+title: 联系方式
 permalink: /contact/
+class: page-contact
 ---
 
-<style>
-    .container {
-        max-width: 1200px;
-        margin: 30px 0 104px 0;
-        padding: 10px;
-    }
-    .contact-info {
-        background: #fff;
-        padding: 30px;
-        border-radius: 10px;
-        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
-        margin-bottom: 40px;
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-    }
-    .contact-info h2 {
-        font-size: 24px; /* 调整标题字体大小 */
-        color: #333;
-        margin: 30px 0 0 0;
-    }
-    .contact-info p {
-        font-size: 16px; /* 调整正文字体大小 */
-        color: #666;
-        line-height: 1.6;
-        margin: 0 0 10px;
-    }
-    .contact-info a {
-        color: #007bff;
-        text-decoration: none;
-    }
-    .contact-info a:hover {
-        text-decoration: underline;
-    }
-    .contact-details {
-        flex: 1;
-        padding-right: 30px;
-        text-align: left; /* 设置文本靠左对齐 */
-    }
-    .contact-map {
-        flex: 1;
-        text-align: right;
-    }
-    .contact-map img {
-        border-radius: 10px;
-        width: 100%;
-        max-width: 400px;
-        height: auto;
-        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
-    }
-    
-    /* 响应式设计 */
-    @media (max-width: 768px) {
-        .contact-info {
-            flex-direction: column;
-            align-items: flex-start;
-        }
 
-        .contact-map {
-            text-align: center;
-            margin-top: 20px;
-        }
-
-        .contact-map img {
-            max-width: 100%;
-        }
-    }
-</style>
 
 <div class="container">
     <div class="contact-info">
