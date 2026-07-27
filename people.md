@@ -114,6 +114,11 @@ permalink: /people/
         <li class="p_li">2023年：谢子灿</li>
         <li class="p_li">2025年：林楠</li>
         <li class="p_li">2025年：孙瑀阳</li>
+        <li class="p_li">2026年：曹冰儿</li>
+        <li class="p_li">2026年：朱子琪</li>
+        <li class="p_li">2026年：刘伯岩</li>
+        <li class="p_li">2026年：罗翊</li>
+        <li class="p_li">2026年：赵天坚</li>
       </ul>
     </div>
 
