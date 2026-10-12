@@ -16,7 +16,7 @@ https://teams.live.com/l/community/FBAIU82-C4BpZ6M0wI
 
 中央民族大学
 
-理学楼-0316  https://teamup.com/c/rtimrh
+理学楼-0316  [https://teamup.com/kswy59kvf8i78j8t7w](https://teamup.com/kswy59kvf8i78j8t7w)
 
 
 清华大学
