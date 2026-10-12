@@ -6,7 +6,18 @@ https://teams.live.com/l/community/FBAIU82-C4BpZ6M0wI
 
 北理工
 
-1号楼204 https://teamup.com/ksfj4ty6b75ur9wfwp
+1号教学楼204（光刻微纳设备） https://teamup.com/ksfj4ty6b75ur9wfwp
+
+1号光电楼109（电路）https://teamup.com/kse8kvmo4r58hp4o2q
+
+8号2013  https://teamup.com/kskxyit4es31ec8xpr
+
+8号2014  https://teamup.com/ks4n52kj1qkkm5c9qs
+
+中央民族大学
+
+理学楼-0316  https://teamup.com/c/rtimrh
+
 
 清华大学
 
