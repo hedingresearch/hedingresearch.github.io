@@ -73,6 +73,8 @@ permalink: /fileshare/
         <a href="https://1drv.ms/p/c/91cf82399d56343e/EU7FQUQhGtZGjRc4CI3JG8wBq8ahc89mrrV1RBGXJAJ51A?e=lLucnw/" target="_blank">[link]</a><br>
         实验平台预约 
         <a href="/files/data/Lab-info.md" target="_blank">[link]</a><br>
+        实验平台预约2
+        <a href="/files/data/Lab-reservation.html" target="_blank">[link]</a><br>
       </p>
     </div>
 
