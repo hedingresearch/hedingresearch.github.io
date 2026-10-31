@@ -65,8 +65,7 @@ permalink: /equipment/
   <div class="left-column">
     <div class="publication-year">设备说明</div>
     <div class="publication-item">
-      <p><a href="/equipment/laser-808nm/">激光器 808 nm</a><br>
-      存放地点：8#2014<br>关键性能参数：808 nm，1–3 W，SMA 输出</p>
+      <p><a href="/equipment/laser-808nm/">激光器808 nm@8-2014</a></p>
       <p><a href="/fileshare/">返回文件资料分享</a></p>
     </div>
   </div>
