@@ -22,12 +22,13 @@ permalink: /equipment/
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
     position: relative;
-    display: flex; /* 让子元素并排排列 */
+    display: block;
+    box-sizing: border-box;
   }
 
-  .left-column,
-  .right-column {
-    width: 50%; /* 让两栏各占一半 */
+  .left-column {
+    width: 100%;
+    min-width: 0;
     padding: 20px;
     box-sizing: border-box;
   }
@@ -36,9 +37,6 @@ permalink: /equipment/
     border-right: none;
   }
 
-  .right-column {
-    
-  }
 
   .publication-year {
     font-size: 20px;
@@ -67,6 +65,21 @@ permalink: /equipment/
   .equipment-list a,
   .equipment-list a:visited {
     color: #000;
+  }
+  .equipment-list a {
+    overflow-wrap: anywhere;
+  }
+
+  @media (max-width: 600px) {
+    .container {
+      width: 100%;
+      margin: 12px auto;
+      padding: 16px 12px;
+    }
+
+    .left-column {
+      padding: 0;
+    }
   }
 </style>
 <div class="container">
