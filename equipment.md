@@ -63,11 +63,19 @@ permalink: /equipment/
 </style>
 <div class="container">
   <div class="left-column">
-    <div class="publication-year">设备说明</div>
+    <div class="publication-year">光电楼109</div>
+    <div class="publication-item">
+      <p><a href="/files/equipment/equipment-1.pdf" target="_blank" rel="noopener noreferrer">焊台 - 点焊机@109</a></p>
+      <p><a href="/files/equipment/equipment-3.pdf" target="_blank" rel="noopener noreferrer">硅探测器1133-01@光电楼109</a></p>
+      <p><a href="/files/equipment/equipment-5.pdf" target="_blank" rel="noopener noreferrer">硅探测器1337-66BR@光电楼109</a></p>
+      <p><a href="/files/equipment/equipment-6.pdf" target="_blank" rel="noopener noreferrer">相机-近红外700-1100nm@109</a></p>
+    </div>
+    <div class="publication-year">8号楼2014</div>
     <div class="publication-item">
       <p><a href="/files/equipment/laser-808nm-8-2014.pdf" target="_blank" rel="noopener noreferrer">激光器808 nm@8-2014</a></p>
-      <p><a href="/fileshare/">返回文件资料分享</a></p>
+      <p><a href="/files/equipment/equipment-2.pdf" target="_blank" rel="noopener noreferrer">荧光检测仪器@8-2014</a></p>
+      <p><a href="/files/equipment/equipment-4.pdf" target="_blank" rel="noopener noreferrer">硅探测器DET8A2@8#2014</a></p>
     </div>
+    <div class="publication-item"><p><a href="/fileshare/">返回文件资料分享</a></p></div>
   </div>
-
 </div>
