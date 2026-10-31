@@ -33,7 +33,7 @@ permalink: /equipment/
   }
 
   .left-column {
-    border-right: 2px solid #ddd; /* 添加分割线 */
+    border-right: none;
   }
 
   .right-column {
@@ -69,8 +69,5 @@ permalink: /equipment/
       <p><a href="/fileshare/">返回文件资料分享</a></p>
     </div>
   </div>
-  <div class="right-column">
-    <div class="publication-year">使用说明</div>
-    <div class="publication-item"><p>点击设备名称查看对应设备说明。</p></div>
-  </div>
+
 </div>
