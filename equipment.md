@@ -65,7 +65,7 @@ permalink: /equipment/
   <div class="left-column">
     <div class="publication-year">设备说明</div>
     <div class="publication-item">
-      <p><a href="/equipment/laser-808nm/">激光器808 nm@8-2014</a></p>
+      <p><a href="/files/equipment/laser-808nm-8-2014.pdf" target="_blank" rel="noopener noreferrer">激光器808 nm@8-2014</a></p>
       <p><a href="/fileshare/">返回文件资料分享</a></p>
     </div>
   </div>
