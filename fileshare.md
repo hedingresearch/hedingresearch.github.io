@@ -74,8 +74,6 @@ permalink: /fileshare/
         设备说明 <a href="/equipment/">[link]</a><br>
         实验平台预约 
         <a href="/files/data/Lab-info.md" target="_blank">[link]</a><br>
-        实验平台预约2
-        <a href="/files/data/Lab-reservation.html" target="_blank">[link]</a><br>
       </p>
     </div>
 
