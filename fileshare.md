@@ -71,6 +71,7 @@ permalink: /fileshare/
         <a href="https://pan.baidu.com/s/1X5OFYJd-NHIbwgdvfk95RQ?pwd=nwz1/" target="_blank">[link]</a><br>
         1-204仪器《光刻机，台阶仪，显微镜》说明 
         <a href="https://1drv.ms/p/c/91cf82399d56343e/EU7FQUQhGtZGjRc4CI3JG8wBq8ahc89mrrV1RBGXJAJ51A?e=lLucnw/" target="_blank">[link]</a><br>
+        设备说明 <a href="/equipment/">[link]</a><br>
         实验平台预约 
         <a href="/files/data/Lab-info.md" target="_blank">[link]</a><br>
         实验平台预约2
