@@ -71,6 +71,10 @@ permalink: /equipment/
 </style>
 <div class="container">
   <div class="left-column">
+    <div class="publication-year">1-204</div>
+    <div class="publication-item equipment-list">
+      <p><a href="https://1drv.ms/p/c/91cf82399d56343e/EU7FQUQhGtZGjRc4CI3JG8wBq8ahc89mrrV1RBGXJAJ51A?e=lLucnw/" target="_blank" rel="noopener noreferrer">1-204仪器《光刻机，台阶仪，显微镜》说明</a></p>
+    </div>
     <div class="publication-year">光电楼109</div>
     <div class="publication-item equipment-list">
       <p><a href="/files/equipment/equipment-1.pdf" target="_blank" rel="noopener noreferrer">焊台 - 点焊机@109</a></p>
