@@ -103,8 +103,8 @@ permalink: /equipment/
     </div>
     <div class="publication-year">珠海 YA414</div>
     <div class="publication-item equipment-list">
-      <p><a href="/files/equipment/bk8586d-ya414.pdf" target="_blank" rel="noopener noreferrer">BK8586D_焊台热风枪二合一_设备说明书_YA414</a></p>
-      <p><a href="/files/equipment/etm-l303sp-plus-ya414.pdf" target="_blank" rel="noopener noreferrer">eTM-L303SP+_可编程线性直流电源_设备说明书_YA414</a></p>
+      <p><a href="/files/equipment/bk8586d-ya414.pdf" target="_blank" rel="noopener noreferrer">BK8586D_焊台热风枪二合一_YA414</a></p>
+      <p><a href="/files/equipment/etm-l303sp-plus-ya414.pdf" target="_blank" rel="noopener noreferrer">eTM-L303SP+_可编程线性直流电源_YA414</a></p>
     </div>
     <div class="publication-item"><p><a href="/fileshare/">返回文件资料分享</a></p></div>
   </div>
