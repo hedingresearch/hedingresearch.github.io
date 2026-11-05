@@ -19,7 +19,9 @@ permalink: /research/
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
   }
-  .card1 {
+  /* 两张卡片共用基础样式，第二张保留顶部间距。 */
+  .card1,
+  .card2 {
     background-color: #fff;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -27,13 +29,9 @@ permalink: /research/
   }
 
   .card2 {
-    background-color: #fff;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     margin-top: 20px;
-    padding: 20px;
   }
-  
+
   .card h2 {
     font-size: 22px;
     color: #1e90ff;
@@ -103,31 +101,32 @@ permalink: /research/
 
     </p>
 
-    
+
     <p>
       <strong>1. 微纳光电器件类工作：</strong><br>
       植入式上转换光源<br>
-      <a href="{{site.research_1_1}}" target="_blank">{{site.research_1_1}}</a>
+      <a href="{{ site.research_1_1 }}" target="_blank">{{ site.research_1_1 }}</a>
     </p>
     <p>
       光学温度传感<br>
-      <a href="{{site.research_1_2_1}}" target="_blank">{{site.research_1_2_1}}</a><br>
-      <a href="{{site.research_1_2_2}}" target="_blank">{{site.research_1_2_2}}</a><br>
+      <a href="{{ site.research_1_2_1 }}" target="_blank">{{ site.research_1_2_1 }}</a><br>
+      <a href="{{ site.research_1_2_2 }}" target="_blank">{{ site.research_1_2_2 }}</a><br>
     </p>
     <p>
       新型光学传感机制<br>
-      <a href="{{site.research_1_3_1}}" target="_blank">{{site.research_1_3_1}}</a><br>
-      <a href="{{site.research_1_3_2}}" target="_blank">{{site.research_1_3_2}}</a><br>
+      <a href="{{ site.research_1_3_1 }}" target="_blank">{{ site.research_1_3_1 }}</a><br>
+      <a href="{{ site.research_1_3_2 }}" target="_blank">{{ site.research_1_3_2 }}</a><br>
     </p>
     <p>
       <strong>2. 系统应用方面工作：</strong><br>
       无线植入式脑组织氧含量监测<br>
-      <a href="{{site.research_2_1_1}}" target="_blank">{{site.research_2_1_1}}</a><br>
-      <a href="{{site.research_2_1_2}}" target="_blank">{{site.research_2_1_2}}</a><br>
+      <a href="{{ site.research_2_1_1 }}" target="_blank">{{ site.research_2_1_1 }}</a><br>
+      <a href="{{ site.research_2_1_2 }}" target="_blank">{{ site.research_2_1_2 }}</a><br>
     </p>
     <p>
       智能光学治疗贴片<br>
-      <a href="{{site.research_2_2}}" target="_blank">{{site.research_2_2}}</a><br>
+      <a href="{{ site.research_2_2 }}" target="_blank">{{ site.research_2_2 }}</a><br>
     </p>
   </div>
 </div>
+
