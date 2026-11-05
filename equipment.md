@@ -127,6 +127,18 @@ permalink: /equipment/
       <p><a href="/files/equipment/etm-l303sp-plus-ya414.pdf" target="_blank" rel="noopener noreferrer">eTM-L303SP+_可编程线性直流电源_YA414</a></p>
     </div>
     </section>
+    <section class="equipment-group">
+    <div class="publication-year">清华逸夫楼 A509</div>
+    <div class="publication-item equipment-list">
+      <p><a href="/files/equipment/thermal-evaporator-tsinghua-a509.pdf" target="_blank" rel="noopener noreferrer">热蒸镀仪@清华逸夫楼 A509</a></p>
+    </div>
+    </section>
+    <section class="equipment-group">
+    <div class="publication-year">民大</div>
+    <div class="publication-item equipment-list">
+      <p><a href="/files/equipment/tube-furnace-minda.pdf" target="_blank" rel="noopener noreferrer">管式炉@民大</a></p>
+    </div>
+    </section>
     <div class="publication-item equipment-back"><p><a href="/fileshare/">返回文件资料分享</a></p></div>
   </div>
 </div>
