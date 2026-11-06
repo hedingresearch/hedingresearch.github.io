@@ -158,4 +158,4 @@ permalink: /research/
 </div>
 
 
-<!-- News preview publication -->
+<!-- Publish article previews after Pages queue recovery -->
