@@ -60,6 +60,26 @@ permalink: /fileshare/
   .publication-item a:hover {
     text-decoration: underline;
   }
+
+  @media (max-width: 768px) {
+    .container {
+      flex-direction: column;
+      padding: 16px;
+      margin: 12px auto;
+    }
+
+    .left-column,
+    .right-column {
+      width: 100%;
+      min-width: 0;
+      padding: 12px 0;
+      overflow-wrap: anywhere;
+    }
+
+    .left-column {
+      border-right: none;
+    }
+  }
 </style>
 
 <div class="container">
