@@ -76,8 +76,8 @@ permalink: /research/
     }
   }
 
-  /* 新闻预览：桌面双列，手机单列。 */
-  .news-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+  /* 新闻预览：桌面三列，手机单列。 */
+  .news-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
   .news-preview { display: flex; flex-direction: column; overflow: hidden; border: 1px solid #e5eaf0; border-radius: 8px; background: #fff; color: #333; transition: box-shadow .2s; }
   .news-preview:hover { text-decoration: none; box-shadow: 0 4px 12px rgba(0,0,0,.1); }
   .news-preview:focus-visible { outline: 3px solid #1e90ff; outline-offset: 3px; }
@@ -86,6 +86,7 @@ permalink: /research/
   .news-body { display: flex; flex: 1; flex-direction: column; padding: 16px; }
   .news-preview h3 { margin: 0; font-size: 15px; line-height: 1.5; color: #1e90ff; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   .news-section { margin: 22px 0 12px; font-size: 17px; }
+  @media (min-width: 601px) and (max-width: 800px) { .news-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
   @media (max-width: 600px) { .news-grid { grid-template-columns: 1fr; } }
 </style>
 
@@ -118,6 +119,7 @@ permalink: /research/
     <h3 class="news-section">1. 微纳光电器件类工作</h3>
     <div class="news-grid">
       <a class="news-preview" href="{{ site.research_1_1 }}" target="_blank" rel="noopener noreferrer">
+        <div class="news-cover"><img src="https://news.tsinghua.edu.cn/publish/thunews/9659/20180614151058661165141/1528960500706.jpg" alt="" loading="lazy" referrerpolicy="no-referrer"></div>
         
         <div class="news-body"><h3 title="植入式上转换光源 @微信公众号">植入式上转换光源 @微信公众号</h3></div>
       </a>
@@ -142,6 +144,7 @@ permalink: /research/
     <h3 class="news-section">2. 系统应用方面工作</h3>
     <div class="news-grid">
       <a class="news-preview" href="{{ site.research_2_1_1 }}" target="_blank" rel="noopener noreferrer">
+        <div class="news-cover"><img src="https://www.bit.edu.cn/images/2024-01/0b9d8bfaafc046fda0b30c4e6f9a5f42.png" alt="" loading="lazy" referrerpolicy="no-referrer"></div>
         
         <div class="news-body"><h3 title="无线植入式脑组织氧含量监测 @腾讯新闻">无线植入式脑组织氧含量监测 @腾讯新闻</h3></div>
       </a>
