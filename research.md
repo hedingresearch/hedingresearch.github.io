@@ -125,7 +125,7 @@ permalink: /research/
       </a>
       <a class="news-preview" href="{{ site.research_1_2_1 }}" target="_blank" rel="noopener noreferrer">
         <div class="news-cover"><img src="https://imagepphcloud.thepaper.cn/pph/image/195/842/354.png" alt="" loading="lazy" referrerpolicy="no-referrer"></div>
-        <div class="news-body"><h3 title="光学温度传感 @澎湃新闻">光学温度传感 @澎湃新闻</h3></div>
+        <div class="news-body"><h3 title="光学温度传感 @中国光学">光学温度传感 @中国光学</h3></div>
       </a>
       <a class="news-preview" href="{{ site.research_1_2_2 }}" target="_blank" rel="noopener noreferrer">
         <div class="news-cover"><img src="https://opt.bit.edu.cn/images/2022-05/77f0615b0546480d8a23e8699425a41b.png" alt="" loading="lazy" referrerpolicy="no-referrer"></div>
