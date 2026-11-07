@@ -118,10 +118,10 @@ permalink: /research/
 
     <h3 class="news-section">1. 微纳光电器件类工作</h3>
     <div class="news-grid">
-      <a class="news-preview" href="{{ site.research_1_1 }}" target="_blank" rel="noopener noreferrer">
-        <div class="news-cover"><img src="https://news.tsinghua.edu.cn/publish/thunews/9659/20180614151058661165141/1528960500706.jpg" alt="" loading="lazy" referrerpolicy="no-referrer"></div>
+      <a class="news-preview" href="{{ site.research_1_1 | escape }}" target="_blank" rel="noopener noreferrer">
+        <div class="news-cover"><img src="/images/news-upconversion-light.png" alt="" loading="lazy" referrerpolicy="no-referrer"></div>
         
-        <div class="news-body"><h3 title="植入式上转换光源 @微信公众号">植入式上转换光源 @微信公众号</h3></div>
+        <div class="news-body"><h3 title="植入式上转换光源 @知社学术圈">植入式上转换光源 @知社学术圈</h3></div>
       </a>
       <a class="news-preview" href="{{ site.research_1_2_1 }}" target="_blank" rel="noopener noreferrer">
         <div class="news-cover"><img src="https://imagepphcloud.thepaper.cn/pph/image/195/842/354.png" alt="" loading="lazy" referrerpolicy="no-referrer"></div>
