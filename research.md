@@ -79,12 +79,13 @@ permalink: /research/
   /* 新闻预览：桌面三列，手机单列。 */
   .news-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
   .news-preview { display: flex; flex-direction: column; overflow: hidden; border: 1px solid #e5eaf0; border-radius: 8px; background: #fff; color: #333; transition: box-shadow .2s; }
-  .news-preview:hover { text-decoration: none; box-shadow: 0 4px 12px rgba(0,0,0,.1); }
-  .news-preview:focus-visible { outline: 3px solid #1e90ff; outline-offset: 3px; }
+  .news-preview:focus-within, .news-preview:hover { box-shadow: 0 4px 12px rgba(0,0,0,.1); }
+  .news-body a:focus-visible { outline: 3px solid #1e90ff; outline-offset: 3px; }
   .news-cover { position: relative; height: 170px; background: #eef5fc; overflow: hidden; }
   .news-cover img { width: 100%; height: 100%; object-fit: contain; display: block; }
-  .news-body { display: flex; flex: 1; flex-direction: column; padding: 16px; }
-  .news-preview h3 { margin: 0; font-size: 15px; line-height: 1.5; color: #1e90ff; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .news-body { display: grid; align-content: start; gap: 8px; list-style: none; margin: 0; padding: 16px; }
+  .news-body li { min-width: 0; margin: 0; }
+  .news-body a { display: block; margin: 0; font-size: 15px; line-height: 1.5; color: #1e90ff; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   .news-section { margin: 22px 0 12px; font-size: 17px; }
   @media (min-width: 601px) and (max-width: 800px) { .news-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
   @media (max-width: 600px) { .news-grid { grid-template-columns: 1fr; } }
@@ -106,56 +107,53 @@ permalink: /research/
     <h2><strong>新闻报道</strong></h2>
     <h3 class="news-section">新闻简介</h3>
     <div class="news-grid">
-      <a class="news-preview" href="https://www.news.cn/sci-tech/20251209/64e0ab410736436f991e0482be4dfcfb/c.html" target="_blank" rel="noopener noreferrer">
+      <article class="news-preview">
         <div class="news-cover"><img src="https://vodpub6.v.news.cn/yqfbzx-original/20251209/image/8758da0f-f6bc-45cc-bd05-9b24d30a213b.jpg" alt="" loading="lazy" referrerpolicy="no-referrer"></div>
-        <div class="news-body"><h3 title="科技青年丨探微见宏图 · 花絮短视频 @新华网">科技青年丨探微见宏图 · 花絮短视频 @新华网</h3></div>
-      </a>
-      <a class="news-preview" href="https://www.stdaily.com/web/gdxw/2025-12/05/content_443029.html" target="_blank" rel="noopener noreferrer">
-        <div class="news-cover"><img src="https://www.stdaily.com/web/gdxw/pic/2025-12/05/443029_e9c5a63e-f625-4cb8-a58a-412a7a2d44d9.jpg" alt="" loading="lazy" referrerpolicy="no-referrer"></div>
-        <div class="news-body"><h3 title="科技青年丨探微见宏图 @科技日报">科技青年丨探微见宏图 @科技日报</h3></div>
-      </a>
+        <ul class="news-body">
+          <li><a href="https://www.news.cn/sci-tech/20251209/64e0ab410736436f991e0482be4dfcfb/c.html" title="科技青年丨探微见宏图 · 花絮短视频 @新华网" target="_blank" rel="noopener noreferrer">科技青年丨探微见宏图 · 花絮短视频 @新华网</a></li>
+          <li><a href="https://www.stdaily.com/web/gdxw/2025-12/05/content_443029.html" title="科技青年丨探微见宏图 @科技日报" target="_blank" rel="noopener noreferrer">科技青年丨探微见宏图 @科技日报</a></li>
+        </ul>
+      </article>
     </div>
 
     <h3 class="news-section">1. 微纳光电器件类工作</h3>
     <div class="news-grid">
-      <a class="news-preview" href="{{ site.research_1_1 | escape }}" target="_blank" rel="noopener noreferrer">
+      <article class="news-preview">
         <div class="news-cover"><img src="/images/news-upconversion-light.png" alt="" loading="lazy" referrerpolicy="no-referrer"></div>
-        
-        <div class="news-body"><h3 title="植入式上转换光源 @知社学术圈">植入式上转换光源 @知社学术圈</h3></div>
-      </a>
-      <a class="news-preview" href="{{ site.research_1_2_1 }}" target="_blank" rel="noopener noreferrer">
+        <ul class="news-body">
+          <li><a href="{{ site.research_1_1 | escape }}" title="植入式上转换光源 @知社学术圈" target="_blank" rel="noopener noreferrer">植入式上转换光源 @知社学术圈</a></li>
+        </ul>
+      </article>
+      <article class="news-preview">
         <div class="news-cover"><img src="https://imagepphcloud.thepaper.cn/pph/image/195/842/354.png" alt="" loading="lazy" referrerpolicy="no-referrer"></div>
-        <div class="news-body"><h3 title="光学温度传感 @中国光学">光学温度传感 @中国光学</h3></div>
-      </a>
-      <a class="news-preview" href="{{ site.research_1_2_2 }}" target="_blank" rel="noopener noreferrer">
-        <div class="news-cover"><img src="https://opt.bit.edu.cn/images/2022-05/77f0615b0546480d8a23e8699425a41b.png" alt="" loading="lazy" referrerpolicy="no-referrer"></div>
-        <div class="news-body"><h3 title="上转换温度传感研究新进展 @北京理工大学光电学院">上转换温度传感研究新进展 @北京理工大学光电学院</h3></div>
-      </a>
-      <a class="news-preview" href="{{ site.research_1_3_1 }}" target="_blank" rel="noopener noreferrer">
-        
-        <div class="news-body"><h3 title="新型光学传感机制 · 报道一 @微信公众号">新型光学传感机制 · 报道一 @微信公众号</h3></div>
-      </a>
-      <a class="news-preview" href="{{ site.research_1_3_2 }}" target="_blank" rel="noopener noreferrer">
-        
-        <div class="news-body"><h3 title="新型光学传感机制 · 报道二 @微信公众号">新型光学传感机制 · 报道二 @微信公众号</h3></div>
-      </a>
+        <ul class="news-body">
+          <li><a href="{{ site.research_1_2_1 }}" title="光学温度传感 @中国光学" target="_blank" rel="noopener noreferrer">光学温度传感 @中国光学</a></li>
+          <li><a href="{{ site.research_1_2_2 }}" title="上转换温度传感研究新进展 @北京理工大学光电学院" target="_blank" rel="noopener noreferrer">上转换温度传感研究新进展 @北京理工大学光电学院</a></li>
+        </ul>
+      </article>
+      <article class="news-preview">
+        <ul class="news-body">
+          <li><a href="{{ site.research_1_3_1 }}" title="新型光学传感机制 · 报道一" target="_blank" rel="noopener noreferrer">新型光学传感机制 · 报道一</a></li>
+          <li><a href="{{ site.research_1_3_2 }}" title="新型光学传感机制 · 报道二" target="_blank" rel="noopener noreferrer">新型光学传感机制 · 报道二</a></li>
+        </ul>
+      </article>
     </div>
 
     <h3 class="news-section">2. 系统应用方面工作</h3>
     <div class="news-grid">
-      <a class="news-preview" href="{{ site.research_2_1_1 }}" target="_blank" rel="noopener noreferrer">
+      <article class="news-preview">
         <div class="news-cover"><img src="https://www.bit.edu.cn/images/2024-01/0b9d8bfaafc046fda0b30c4e6f9a5f42.png" alt="" loading="lazy" referrerpolicy="no-referrer"></div>
-        
-        <div class="news-body"><h3 title="无线植入式脑组织氧含量监测 @腾讯新闻">无线植入式脑组织氧含量监测 @腾讯新闻</h3></div>
-      </a>
-      <a class="news-preview" href="{{ site.research_2_1_2 }}" target="_blank" rel="noopener noreferrer">
-        <div class="news-cover"><img src="https://opt.bit.edu.cn/images/2024-01/3d8127bf822c401dbfe0ef4450b1c54d.png" alt="" loading="lazy" referrerpolicy="no-referrer"></div>
-        <div class="news-body"><h3 title="无线植入式脑组织氧含量监测研究进展 @北京理工大学光电学院">无线植入式脑组织氧含量监测研究进展 @北京理工大学光电学院</h3></div>
-      </a>
-      <a class="news-preview" href="{{ site.research_2_2 }}" target="_blank" rel="noopener noreferrer">
+        <ul class="news-body">
+          <li><a href="{{ site.research_2_1_1 }}" title="无线植入式脑组织氧含量监测 @腾讯新闻" target="_blank" rel="noopener noreferrer">无线植入式脑组织氧含量监测 @腾讯新闻</a></li>
+          <li><a href="{{ site.research_2_1_2 }}" title="无线植入式脑组织氧含量监测研究进展 @北京理工大学光电学院" target="_blank" rel="noopener noreferrer">无线植入式脑组织氧含量监测研究进展 @北京理工大学光电学院</a></li>
+        </ul>
+      </article>
+      <article class="news-preview">
         <div class="news-cover"><img src="https://opt.bit.edu.cn/images/2024-07/8e1229ae764a4609a7f0939aff7f37a8.png" alt="" loading="lazy" referrerpolicy="no-referrer"></div>
-        <div class="news-body"><h3 title="可穿戴式柔性光疗贴片研究进展 @北京理工大学光电学院">可穿戴式柔性光疗贴片研究进展 @北京理工大学光电学院</h3></div>
-      </a>
+        <ul class="news-body">
+          <li><a href="{{ site.research_2_2 }}" title="可穿戴式柔性光疗贴片研究进展 @北京理工大学光电学院" target="_blank" rel="noopener noreferrer">可穿戴式柔性光疗贴片研究进展 @北京理工大学光电学院</a></li>
+        </ul>
+      </article>
     </div>
   </div>
 </div>
