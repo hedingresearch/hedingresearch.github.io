@@ -132,8 +132,14 @@ permalink: /research/
         </ul>
       </article>
       <article class="news-preview">
+        <div class="news-cover"><img src="/images/news-optical-sensing-1.png" alt="" loading="lazy"></div>
         <ul class="news-body">
           <li><a href="{{ site.research_1_3_1 }}" title="新型光学传感机制 · 报道一" target="_blank" rel="noopener noreferrer">新型光学传感机制 · 报道一</a></li>
+        </ul>
+      </article>
+      <article class="news-preview">
+        <div class="news-cover"><img src="/images/news-optical-sensing-2.png" alt="" loading="lazy"></div>
+        <ul class="news-body">
           <li><a href="{{ site.research_1_3_2 }}" title="新型光学传感机制 · 报道二" target="_blank" rel="noopener noreferrer">新型光学传感机制 · 报道二</a></li>
         </ul>
       </article>
