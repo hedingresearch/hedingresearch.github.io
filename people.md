@@ -105,12 +105,6 @@ permalink: /people/
         </div>
     </div>
 
-  <h2 class="section-title">教师</h2>
-  <ul class="p_ul">
-    <li class="p_li">韩涛</li>
-    <li class="p_li">胡琛</li>
-  </ul>
-
   <h2 class="section-title">在读学生</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
     <!-- 博士研究生 -->
